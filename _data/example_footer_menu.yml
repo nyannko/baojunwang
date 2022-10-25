@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: News
+  link: /news/
+- name: Products
+  link: /products/
+- name: Privacy Policy
+  link: /privacy-policy/
