@@ -1,10 +1,10 @@
 # Site Settings
 lang: en
 title: Wang Lab
-tagline: Bulma Clean Theme
+tagline: Home
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Wang Lab Pages
 #baseurl: "/bulma-clean-theme"
 baseurl: "/baojunwang"
 #url: "https://www.csrhymes.com"
