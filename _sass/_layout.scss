@@ -9,7 +9,8 @@ div.highlight {
                 display: block;
             }
         }
-    }
+    } 
+
 }
 
 .contents {
@@ -35,6 +36,7 @@ div.highlight {
         margin-bottom: 0.75rem;
     }
 }
+
 
 // Alpine.js hide on initial load
 [x-cloak] { display: none !important; }

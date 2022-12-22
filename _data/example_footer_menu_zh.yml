@@ -1,0 +1,8 @@
+- name: 主页 
+  link: /
+- name: 新闻
+  link: /news/
+- name: 成员
+  link: /people/
+- name: 联系方式
+  link: /contact/

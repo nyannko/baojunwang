@@ -1,14 +1,14 @@
-- name: People
+- name: 实验室成员 
   link: /people/
-- name: Publications
+- name: 发表论文
   link: /publications/
-- name: Research
+- name: 研究方向
   link: /research/
-- name: Opportunities
+- name: 招聘信息 
   link: /opportunities/
-- name: Contact
+- name: 联系方式
   link: /contact/
-- name: News
+- name: 新闻
   link: /news/
 # - name: Docs
 #   link: /docs/

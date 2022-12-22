@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Book Chapters & Monographs
+title: 书籍章节和专著
 # subtitle: Getting Started
-menubar: publication_year_menu
+menubar: publication_year_menu_zh
 show_sidebar: false
 hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
 toc: true

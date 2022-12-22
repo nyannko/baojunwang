@@ -2,83 +2,67 @@
 layout: page
 title: Opportunities
 menubar: false
+hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
 show_sidebar: false
 toc: true
 ---
 
-Opportunities
-We welcome highly motivated and exceptionally talented researchers to join the lab. You are welcome to contact me if interested by including a letter stating your motivation, research and career interests, your detailed academic CV and preprints of publicatons listed on your CV but not yet available. For PhD application enquiries, please do send your academic transcripts including course grades and ranking. 
+## Graduate Student Admissions
+The group has several Ph.D. and M.S. enrollments each year, and welcomes applications from students majoring in synthetic biology, bioengineering, bioscience and technology, and computational biology.
 
-Candidate PhD projects: 
+Research Assistant and Full-time Research Staff Recruitment (2-3)
 
-["Genetic circuit design and biodesign automation towards programmable cellular computers"](https://www.findaphd.com/phds/project/genetic-circuit-design-and-biodesign-automation-towards-programmable-cellular-computers/?p125795)  
+Competitive salary and benefits are offered, with specific salaries negotiated based on experience and seniority, and additional incentives depending on performance.
 
-["Synthetic biology-enabled new generation biosensors to tackle global health and environmental challenges"](https://www.findaphd.com/phds/project/synthetic-biology-enabled-new-generation-biosensors-to-tackle-global-health-and-environmental-challenges/?p125796)
+Main Job Description.
 
+Assist in the daily operation and management of the laboratory, such as reagent ordering, instrument maintenance, financial management reimbursement, etc..
 
-## 研究生招生
+Assist or independently undertake relevant molecular biology, biochemistry or microbiology experiments.
 
-课题组每年有多名博士生、硕士招生名额，欢迎合成生物学、生物工程、生物科学与技术、计算生物学等专业学生报考。
+Job Requirements.
 
+Good communication and written expression skills, a sense of teamwork, strong sense of responsibility, careful work, and strong hands-on skills.
 
+Master's or Bachelor's degree in a biological or engineering related discipline with knowledge and experimental skills in molecular biology, biochemistry or bioengineering.
 
-科研助理及专职科研人员招聘（2-3名）
+Able to work in a more long-term stable manner.
 
-提供具有竞争力的工资及福利待遇，具体薪酬依经验资历协商决定，并视业绩给予额外奖励。
+## Postdoctoral recruitment (6-10)
+I. Salary
 
-主要职责描述：
+Salary and benefits are in accordance with the relevant regulations of Zhejiang University postdoctoral program, annual salary of Zhejiang University + cooperative supervisor allowance: more than 300,000 RMB per year, and additional incentives depending on performance. If you join the laboratory of Zhejiang University Hangzhou Science and Technology Innovation Center, the annual salary can reach 400,000+.
 
-1. 协助实验室的日常运转与管理，如试剂订购、仪器维护、财务管理报销等；
+Postdoctoral talent apartment provided by the university or the Science and Technology Innovation Center (rented at a preferential rate).
 
-2. 协助或者独立承担相关的分子生物学、生物化学或微生物学实验。
+Provide first-class experimental and scientific research conditions and opportunities for high-level academic exchanges at home and abroad for postdocs.
 
-职位要求：
+Provide other welfare benefits unified by Zhejiang University (see the relevant webpage of Zhejiang University postdoctoral application), apply for various government subsidies provided by Hangzhou Municipal Government, settle in Hangzhou for household registration, and stay in Hangzhou to work after discharge.
 
-1. 有良好的沟通和文字表达能力，有团队合作意识、责任心强，工作细心，动手能力强；
+II. Recruitment conditions and requirements
 
-2. 生物或者工程相关学科的硕士或本科学历，具备分子生物学、生物化学或生物工程知识和实验技能；
+Have a PhD degree in related disciplines or can obtain a PhD degree before joining, and have published articles as the first author.
 
-3. 能较长期稳定工作。
+Have a strong interest in scientific research, strong scientific research literacy and English reading and writing skills.
 
+Possess strong independent scientific research ability, good dedication and teamwork.
 
+Collaborative Research Direction (Synthetic Biology and Bioengineering).
 
-## 博士后招聘（6-10名）
+(1) Synthetic biology enabling technologies and regulatory tools development (intronic peptides, CRISPR gene editing and regulation, etc.)
 
-一、薪资待遇
+(2) Gene component mining, modification, modularization and orthologization design
 
-1. 工资及福利待遇按浙江大学博士后相关规定执行，浙大年薪+合作导师津贴：年薪30万元以上，并视业绩给予额外奖励。若入职浙江大学杭州科创中心实验室，年薪可达40万+。
+(3) gene circuit design (including engineering, scale design and biological design automation, etc.)
 
-2. 学校或科创中心提供博士后人才公寓（优惠价格租赁）；
+(4) Biosensing (for the environment, health needs) and intelligent biological diagnosis and treatment applications
 
-3. 为博士后提供一流的实验与科研条件、国内外高水平学术交流的机会；
+(5) Biocomputing and biomanufacturing applications (based on artificial cells or cell-free expression systems, etc.)
 
-4. 提供浙江大学统一的其它福利待遇（参见浙江大学博士后申请相关网页），申请杭州市政府提供的各种政府补助，户口落户杭州，出站后可留杭工作。
+Third, the application materials
 
-二、招聘条件及要求
+A detailed CV (education experience, work experience, research experience, published papers, honors and awards, etc.)
 
-1. 具有相关学科博士学位或入职前可以获得博士学位，以第一作者发表过文章。
+A vision of future work.
 
-2. 对科研工作有浓厚的兴趣，有较强科研素养和英文读写能力；
-
-3. 具备较强的独立科研能力、良好的敬业精神和团队合作精神；
-
-4. 合作研究方向（合成生物学与生物工程）：
-
-（1）合成生物学使能技术与调控工具开发（内含肽、CRISPR基因编辑与调控等）
-
-（2）基因元器件的挖掘、改造、模块化及正交化设计
-
-（3）基因线路设计（包括工程化、规模化设计及生物设计自动化等）
-
-（4）生物传感（面向环境、健康需求）与智能生物诊疗应用
-
-（5）生物计算与生物制造应用（基于人工细胞或无细胞表达系统等）
-
-三、应聘材料
-
-1. 详细个人简历一份（教育经历、工作经历、研究经历、发表论文、荣誉奖励等）；
-
-2. 未来工作设想；
-
-3. 代表性论文1-5篇；2-3位学术推荐人的联系方式，并注明与推荐人关系。
-
+1-5 representative papers; contact information of 2-3 academic referees, with the relationship with the referees.

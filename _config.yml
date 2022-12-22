@@ -1,6 +1,7 @@
 # Site Settings
 lang: en
 title: Wang Lab
+title_zh: 王宝俊实验室
 tagline: Home
 email: your-email@domain.com
 description: >
@@ -16,8 +17,20 @@ permalink: pretty
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
-paginate: 5
+# paginate: 1
+# paginate_path: "/newscn/page:num"
+
+paginate: 2
 paginate_path: "/news/page:num"
+
+
+# paginate_multiple:
+#   - paginate: 2
+#     paginate_path: '/news/page:num'
+#     sub_dir: '/en'
+#   - paginate: 2
+#     paginate_path: '/zh/news/page:num'
+#     sub_dir: '/cn'
 
 # Disqus Comments
 disqus:
@@ -30,6 +43,7 @@ disqus:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-paginate-multiple
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
@@ -74,6 +88,7 @@ markdown: kramdown
 highlighter: rouge
 
 footer_menu: example_footer_menu
+footer_menu_zh: example_footer_menu_zh
 
 collections:
   products: 
@@ -81,3 +96,11 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+
+  zh:
+    output: true
+    permalink: /:collection/:title/
+
+
+
+
