@@ -44,7 +44,7 @@
                 </div>
                 {% if page.url contains '/zh/' %} 
                     {% assign zhposts=site.zh | where:"layout", "post" %}
-                    {% if zhposts  and page.show_sidebar%}
+                    {% if zhposts and page.show_sidebar%}
                     <div class="column is-4-desktop is-4-tablet">
                         {% include latest-posts-zh.html %}
                     </div>

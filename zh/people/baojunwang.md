@@ -26,12 +26,14 @@ show_sidebar: false
 3. 生物计算基因线路设计（工程化、生物自动化设计等）
 4. 生物计算、生物传感与智能诊疗应用
 
-![image.png](../../../assets/research.png)
+
+<center><img alt="" src="../../../assets/research.png" style="height:300px; width:550px"></center>
  
 ### 主要创新性科研成果
 1. 国际上率先提出生物计算基因线路的工程化创新设计方法：率先设计出了模块化与正交化的基因逻辑门控线路（Nature Commun 2011）、模块化的转录信号放大线路，创建了领域目前最敏感的基于微生物的砷和汞等重金属水污染细胞传感器（Nature Chem Biol 2019）；建立了基于核酸海绵的新型基因线路全面优化设计方法（Nature Commun 2020），开拓了生物计算基因线路在生物传感领域的创新应用。
 
-![image.png](../../../assets/research1.png)
+
+<center><img alt="" src="../../../assets/research1.png" style="height:200px; width:550px"></center>
  
 代表论文：
 
@@ -41,7 +43,8 @@ Wang B et al, Nature Communications, 2011, 2, 508
 
 2. 国际上率先开发出新型“类真核”原核细菌CRISPRa基因激活技术（Nature Commun 2019）；揭示了II型CRISPR系统crRNA与tracrRNA匹配的可编程性机制（Nature Commun 2022 ），并利用重编程tracrRNAs展示了其在生物计算与生物传感领域多个强大应用案例，包括发明了高特异性SARS-CoV-2新冠病毒RNA便携式快速传感器AGATHA。
 
-![image.png](../../../assets/research2.png)
+
+<center><img alt="" src="../../../assets/research2.png" style="height:300px; width:800px"></center>
  
 ### 主要创新性科研成果
 代表论文与专利：
@@ -51,7 +54,8 @@ Wang B and Liu Y, Engineered CRISPRa, 国际专利PCT/GB2020/052031, 2019
 
 3. 国际上率先将内含肽与转座子工具结合开发了一种新型分裂蛋白设计定向进化方法IBM（Nature Commun 2021），并据此设计出了多种蛋白表达控制逻辑运算器件和显著降低蛋白本底表达水平的调控工具；开发了迄今规模最大的标准化正交断裂蛋白内含肽文库（Nature Commun 2020），解决了大分子高重复结构蛋白的体外精确无缝组装难题。
 
-![image.png](../../../assets/research3.png)
+
+<center><img alt="" src="../../../assets/research3.png" style="height:400px; width:650px"></center>
  
 代表论文：
 

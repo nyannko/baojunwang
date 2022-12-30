@@ -10,8 +10,16 @@ show_sidebar: false
 ## Postal Address
 
 
-Email：baojun.wang@zju.edu.cn
+Dr Baojun Wang
 
-The subject of the email is "Postdoctoral/Research Assistant Application + Name", please indicate the approximate time of arrival. Applications are strictly confidential and interviews will be arranged for those who pass the preliminary screening.
+School of Biological Sciences, University of Edinburgh
 
-If you are passionate about scientific work, you are welcome to join us!
+G20 Roger Land Building, The King's Buildings, Edinburgh EH9 3FF, UK
+
+Tel +44 (0)131 650 5527
+
+Email baojun.wang at ed.ac.uk
+
+![KingsBuildings](../assets/KingsBuildings.png)
+
+[Campus maps and travel information](https://www.ed.ac.uk/maps/)
