@@ -21,7 +21,8 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
 
     由于生命体系的高维度非线性特性和细胞内生物分子之间无物理绝缘，目前绝大部分设计的基因线路是由少数基因元器件组成的小规模、功能简单的合成生物系统，模块性和正交性低，且往往基于试错法反复尝试后建造的，耗时长、成本高。因此，我们提出基因线路实现规模化设计需遵循模块性（器件输入输出信号模块之间可随意替换和组装）和正交性（包括线路组成元器件间和与细胞底盘部件间相互作用的正交性）的工程化设计原则，且需在标准化工作环境下充分测试基因线路各组成部件特性，以提高生物系统合成组装的功能可预测性（Nature Commun 2011 doi）。
 
-<center><img alt="" src="../../assets/research1.png" style="height:200px; width:550px"></center>
+<!-- <center><img alt="" src="../../assets/research1.png" style="height:200px; width:550px"></center> -->
+<center><img alt="" src="../../assets/research1.png" width="75%"></center>
 
 <center>图1. 具有模块性和正交性的基因逻辑与门（a）和模拟转录信号放大器（b）的设计；</center>
 <center>（c）基于多层级联转录信号放大基因线路的超敏感全细胞传感器的设计</center>
@@ -36,7 +37,7 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
 
     团队率先设计和开发了一种新型“类真核式”CRISPR基因激活调控系统(Nature Commun 2019, 10:3693 doi；图2a)。该系统巧妙利用了细菌σ54因子独特的转录起始“闭锁”机制，将原核细胞CRISPRa的激活输出倍数提高了一个数量级以上，并首次实现了细菌中CRISPR激活的多通道和级联调控。基于此技术，率先提出了“可重复使用”多基因表达谱投影文库的概念，建立了一种新型多基因代谢通路表达谱的筛选平台。不同的多基因表达线路，只需按照标准化的设计原则进行设计，只需构建一个单一质粒，从而极大降低细菌多基因表达通路的优化成本，具有广阔的应用前景。相关技术已申请国际专利（PCT/GB2020/052031）。
 
-<center><img alt="" src="../../assets/research2.png" style="height:300px; width:800px"></center>
+<center><img alt="" src="../../assets/research2.png" width="75%"></center>
 
 <center>图2.（a）细菌中的新型“类真核式”CRISPR基因激活调控系统的设计、性能和应用；</center>
 <center>（b）可编程tracrRNA实现将非gRNA转变为gRNA及RNA检测应用</center>
@@ -49,7 +50,7 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
 
     团队首次建立了一个基于断裂红色荧光蛋白的细胞内、外通用的高通量内含肽(intein)筛选及活性断裂位点测试平台，筛选出15对高度正交的断裂内含肽(split intein)元件，构建出迄今为止最大规模的正交断裂内含肽元件库(Nature Commun 2020,11:1529 doi；图3a)。利用这一内含肽文库，实现了高重复结构大分子蛋白的体外精确无缝组装，解决了高重复结构大分子蛋白长期以来难以在异源表达系统中合成的基因工程难题。
 
-<center><img alt="" src="../../assets/research3.png" style="height:400px; width:650px"></center>
+<center><img alt="" src="../../assets/research3.png" width="75%"></center>
 
 <center>图3.（a）大规模正交断裂内含肽文库的建立（中）及在基因线路设计（左）和模块化蛋白组装中的应用（右）;</center>
 <center>（b）基于内含肽与转座子结合的新型蛋白饱和断裂映射法流程图</center>

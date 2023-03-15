@@ -15,21 +15,19 @@ show_sidebar: true
 
 
 
-
-
-<center><img alt="" src="../assets/research1.png" style="height:200px; width:550px"></center>
+<center><img alt="" src="../assets/research1.png" width="75%"></center>
 
 <center>图1. 具有模块性和正交性的基因逻辑与门（a）和模拟转录信号放大器（b）的设计；</center>
 <center>（c）基于多层级联转录信号放大基因线路的超敏感全细胞传感器的设计</center>
 <br>
 <br>
-<center><img alt="" src="../assets/research2.png" style="height:230px; width:680px"></center>
+<center><img alt="" src="../assets/research2.png" width="75%"></center>
 
 <center>图2.（a）细菌中的新型“类真核式”CRISPR基因激活调控系统的设计、性能和应用；</center>
 <center>（b）可编程tracrRNA实现将非gRNA转变为gRNA及RNA检测应用</center>
 <br>
 <br>
-<center><img alt="" src="../assets/research3.png" style="height:400px; width:600px"></center>
+<center><img alt="" src="../assets/research3.png" width="75%"></center>
 
 <center>图3.（a）大规模正交断裂内含肽文库的建立（中）及在基因线路设计（左）和模块化蛋白组装中的应用（右）;</center>
 <center>（b）基于内含肽与转座子结合的新型蛋白饱和断裂映射法流程图</center>
