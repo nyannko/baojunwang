@@ -1,6 +1,6 @@
 ---
 title: 生物线路设计与创新实验室
-subtitle: 合成生物学使能技术开发 + 基因线路设计 + 生物传感、生物计算、智能诊疗应用
+subtitle: 合成生物学使能技术 + 基因线路设计 + 生物传感、生物计算、智能诊疗应用
 layout: page
 # callouts: home_callouts
 image: /bulma-clan-theme/img/recipe-example.jpg

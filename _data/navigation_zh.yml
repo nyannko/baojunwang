@@ -1,14 +1,12 @@
+- name: 研究方向
+  link: /research/
 - name: 实验室成员 
   link: /people/
 - name: 发表论文
   link: /publications/
-- name: 研究方向
-  link: /research/
 - name: 招聘信息 
   link: /opportunities/
-- name: 联系方式
-  link: /contact/
-- name: 资源共享
+- name: 开源工具
   link: /resources/
 - name: 新闻
   link: /news/

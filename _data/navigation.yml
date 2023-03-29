@@ -1,13 +1,11 @@
+- name: Research
+  link: /research/
 - name: People
   link: /people/
 - name: Publications
   link: /publications/
-- name: Research
-  link: /research/
 - name: Opportunities
   link: /opportunities/
-- name: Contact
-  link: /contact/
 - name: Resources
   link: /resources/
 - name: News

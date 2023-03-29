@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 资源共享
+title: 开源工具
 menubar: false
 hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
 show_sidebar: false
@@ -18,7 +18,7 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**JBEI Registry**](https://registry.jbei.org/#page=login)<br>Public registry of standard biological parts. 
 
-[**Biopartsdb**]( http://biopartsdb.bio.ed.ac.uk/) BioParts Database (for biocircuit design)
+[**BioPartsDB**]( http://biopartsdb.bio.ed.ac.uk/) BioParts Database (for biocircuit design)
  
 
 ## SEQUENCE DESIGN
