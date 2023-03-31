@@ -1,8 +1,0 @@
-- name: 主页 
-  link: /
-- name: 新闻
-  link: /news/
-- name: 成员
-  link: /people/
-- name: 招聘信息
-  link: /opportunities/
