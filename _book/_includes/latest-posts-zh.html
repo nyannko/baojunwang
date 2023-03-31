@@ -1,0 +1,14 @@
+<p class="title is-4">近期新闻</p>
+
+<div class="columns is-multiline">
+    {% assign posts=site.zh | where:"layout", "post" %}
+    
+    {% for post in posts limit:2 %}
+    <div class="column is-12">
+        {% include post-card.html %}
+    </div>
+    {% endfor %}
+</div>
+
+
+

@@ -1,0 +1,31 @@
+- name: Research
+  link: /research/
+- name: People
+  link: /people/
+- name: Publications
+  link: /publications/
+- name: Opportunities
+  link: /opportunities/
+- name: Resources
+  link: /resources/
+- name: News
+  link: /news/
+# - name: Docs
+#   link: /docs/
+# - name: Example Pages
+#   link: /#
+#   dropdown:
+#     - name: Landing Page With Callouts
+#       link: /landing/
+#     - name: Sponsors Page
+#       link: /sponsors/
+#     - name: Image Gallery
+#       link: /gallery/
+#     - name: Products
+#       link: /products/
+#     - name: Recipe Page
+#       link: /example-recipe/
+#     - name: Showcase
+#       link: /showcase/
+# - name: Blog
+#   link: /blog/
