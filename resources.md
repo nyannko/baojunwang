@@ -7,7 +7,6 @@ show_sidebar: false
 ---
 
 
-
 ## GENETIC PARTS
 [**Registry of Standard Biological Parts**](http://partsregistry.org/Main_Page)<br>
 Public registry of standard biological parts; mostly for iGEM
@@ -18,7 +17,7 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**JBEI Registry**](https://registry.jbei.org/#page=login)<br>Public registry of standard biological parts. 
 
-[**Biopartsdb**]( http://biopartsdb.bio.ed.ac.uk/) BioParts Database (for biocircuit design)
+[**BioPartsDB**]( http://biopartsdb.bio.ed.ac.uk/) BioParts Database (for biocircuit design)
  
 
 ## SEQUENCE DESIGN
@@ -42,8 +41,14 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**NuPack**](http://www.nupack.org/)<br>Growing software suite for the analysis and design of nucleic acid systems.  
 
+[**Reverse Complement**](http://www.bioinformatics.org/sms/rev_comp.html) <br>Converts a DNA sequence into its reverse, complement, or reverse-complement counterpart
+
+[**Integrated Microbial Genomes**](http://img.jgi.doe.gov/cgi-bin/pub/main.cgi) <br>Comparatively analyze genome data  by gene, genome and function
+
 ## NUCLEOTIDE SEQUENCE ANALYSIS
 [**Mfold**](http://mfold.rna.albany.edu/?q=mfold)<br>RNA and DNA folding algorithms
+
+[**UNAfold**](http://mfold.rna.albany.edu/) <br>RNA and DNA folding algorithms
 
 [**Oligocalc**](http://www.basic.northwestern.edu/biotools/oligocalc.html)<br>RNA and DNA oligo properties.
 
@@ -67,6 +72,8 @@ Public registry of standard biological parts; mostly for iGEM
 [**SignalP**](http://www.cbs.dtu.dk/services/SignalP/)<br>Signal peptide cleavage site predictor
 
 [**ProTISA**](http://mech.ctb.pku.edu.cn/protisa/)<br>Database of confirmed prokaryotic translation initiation sites
+
+[**ExPASy**](http://ca.expasy.org/tools/) <br>Comprehensive proteomics toolbox
 
 ## ALIGNMENT TOOLS
 [**LALIGN**](http://www.ch.embnet.org/software/LALIGN_form.html)<br>Basic sequence alignment tool
@@ -102,6 +109,10 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**Centrifugation Rotor Calculator**](http://www.changbioscience.com/cell/rcf.html)<br>Interconverts RPM and RCF for common rotors  
 
+[**Gibson Calculator**](http://voigtlab.ucsf.edu/ruby/assembly) <br>Primer design for Gibson ligations (KT)
+
+[**Hill Coefficient Calculator**](http://voigtlab.ucsf.edu/ruby/hill) <br>Calculates Hill coefficient from tab-delineated data
+
 ## PRESENTATION TOOLS
 [**UCSF Chimera Home Page**](https://www.cgl.ucsf.edu/chimera/)<br>Fantastic Molecular imaging tool
 
@@ -117,72 +128,13 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**June Medford lab**](http://wp.natsci.colostate.edu/medfordlab/molecular-biology-web-tools/)
 
-## Molecular Biology Web Tools
+## Others
+
 [**American Society of Plant Biologists**](http://my.aspb.org/) <br>Professional society devoted to the advancement of the plant sciences
 
-[**Ammonium Sulfate Calculator**](http://www.encorbio.com/protocols/AM-SO4.htm) <br>Computes the amount of solid ammonium sulfate required to reach a given percent saturation
-
-[**ApE**](http://www.biology.utah.edu/jorgensen/wayned/ape/)<br>
-Free plasmid editor software download
 
 [**Arabidopsis Information Resource**](http://www.arabidopsis.org/)
 [**Database**](http://wp.natsci.colostate.edu/search/ERwin/Tair.htm) of genetic and [**molecular biology data**](http://wp.natsci.colostate.edu/about/datasources.jsp) for the model higher plant [***Arabidopsis thaliana***](http://wp.natsci.colostate.edu/portals/education/aboutarabidopsis.jsp)
-
-[**BioMath Calculators**](http://www.promega.com/biomath/) <br>Useful unit conversions
-
-[**BLAST: Basic Local Alignment Search Tool**](http://blast.ncbi.nlm.nih.gov/Blast.cgi) <br>Protein and nucleotide sequence database alignment tool
-
-[**Centrifugation Rotor Calculator**](http://www.changbioscience.com/cell/rcf.html) <br>Interconverts RPM and RCF for common rotors
-
-[**Cold Springs Harbor Protocols**](http://cshprotocols.cshlp.org/) <br>Journal of laboratory protocols
-
-[**Cyflogic**](http://www.cyflogic.com/) <br>Free cytometry data analysis software
-
-[**DNA/RNA/Protein Molecular Weight Calculator**](http://www.changbioscience.com/genetics/mw.html)
-
-[**E. coli Statistics**](http://redpoll.pharmacy.ualberta.ca/CCDB/cgi-bin/STAT_NEW.cgi) <br>Useful information on E. coli
-
-[**ExPASy**](http://ca.expasy.org/tools/) <br>Comprehensive proteomics toolbox
-
-[**Finnzymes Tm Calculator**](https://www.finnzymes.fi/tm_determination.html) <br>DNA melting temp calculator for Phusion PCR(nearest-neighbor method)
-
-[**Gibson Calculator**](http://voigtlab.ucsf.edu/ruby/assembly) <br>Primer design for Gibson ligations (KT)
-
-[**Hill Coefficient Calculator**](http://voigtlab.ucsf.edu/ruby/hill) <br>Calculates Hill coefficient from tab-delineated data
-
-[**Integrated Microbial Genomes**](http://img.jgi.doe.gov/cgi-bin/pub/main.cgi) <br>Comparatively analyze genome data  by gene, genome and function
-
-[**LALIGN**](http://www.ch.embnet.org/software/LALIGN_form.html) <br>Basic sequence alignment tool
-
-[**Microbes On-line**](http://www.microbesonline.org/) <br>Genome analysis tools
-
-[**Mobyl@pasteur**](http://mobyle.pasteur.fr/cgi-bin/portal.py?form=clustalw-multialign) <br>Sequence Alignment and Analysis (ClustalW)
-
-[**Oligocalc**](http://www.basic.northwestern.edu/biotools/oligocalc.html) <br>RNA and DNA oligo properties
-
-[**Online Analysis Tools**](http://molbiol-tools.ca/) <br>Various useful bioinformatics resources
-
-[**Plasmid Databases**](http://www.science.co.il/Biomedical/Plasmid-Databases.asp) <br>Links to various plasmid sequence resources
-
-[**Protein Calculator**](http://www.scripps.edu/~cdputnam/protcalc.html) <br>Protein Properties
-
-[**ProTISA**](http://mech.ctb.pku.edu.cn/protisa/) <br>Database of confirmed prokaryotic translation initiation sites
-
-[**Random DNA Generator**](http://www.faculty.ucr.edu/~mmaduro/random.htm) <br>Generates a random DNA sequence with defined GC content
-
-[**RBS Generator**](http://github.com/hsalis/ribosome-binding-site-calculator) <br>Source code
-
-[**Restriction Mapper**](http://www.restrictionmapper.org/) <br>Finds restriction sites in a DNA sequence
-
-[**SignalP**](http://www.cbs.dtu.dk/services/SignalP/) <br>Signal peptide cleavage site predictor
-
-[**Reverse Complement**](http://www.bioinformatics.org/sms/rev_comp.html) <br>Converts a DNA sequence into its reverse, complement, or reverse-complement counterpart
-
-[**UNAfold**](http://mfold.rna.albany.edu/) <br>RNA and DNA folding algorithms
-
-Thank you to the [**Voigt lab**](http://voigtlab.ucsf.edu/index.html) for beginning this compilation!
-
-## Others
 
 A BBSRC funded online computational training course known as [**SysMIC**](http://sysmic.ac.uk/)
 
