@@ -18,10 +18,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
         <h3 class="panel-title">PI</h3>
     </div>
     <div class="content panel-body">
-        <table>
+        <table style="table-layout:fixed;">
             <tbody>
             <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/wangbaojun.png" width="150" height="200" alt=""><br>
                 </td>
                 <td>
@@ -56,13 +56,13 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
         <h3 class="panel-title">co-PI</h3>
     </div>
     <div class="content panel-body">
-        <table>
+        <table style="table-layout:fixed;">
             <tbody>
             <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/zhounan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>周楠</strong><br>
                     研究员
                     <br>
@@ -73,10 +73,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     Email: nanzhou@zju.edu.cn
                 </td>
 
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/madacheng.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>马大程</strong><br>
                     co-PI
                     <br>
@@ -91,10 +91,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
             </tr>
 
  <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/yuanxiaofei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>原晓非</strong><br>
                     研究专家
                     <br>
@@ -106,10 +106,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     Email: yuanxf@zhejianglab.com
                 </td>
 
-                <!-- <td width="170">
+                <!-- <td width="20%">
                     <img src="{{ site.baseurl }}/assets/madacheng.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>马大程</strong><br>
                     co-PI
                     <br>
@@ -135,13 +135,13 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
         <h3 class="panel-title">研究成员</h3>
     </div>
     <div class="content panel-body">
-        <table>
+        <table style="table-layout:fixed;">
             <tbody>
             <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/zhouyucong.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>周于聪</strong><br>
                     博士后<br>
                     <br>
@@ -152,10 +152,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     <br>
                     Email: yczhou@zhejianglab.edu.cn
                 </td>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/gaoge.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>高歌</strong><br>
                     博士后<br>
                     <br>
@@ -169,10 +169,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
             </tr>
 
             <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/bianqi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>边旗</strong><br>
                     博士后<br>
                     <br>
@@ -183,10 +183,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     <br>
                     Email: bianqi@zju.edu.cn
                 </td>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/chenshengyan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>陈升言</strong><br>
                     博士后<br>
                     <br>
@@ -200,10 +200,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
             </tr>
 
             <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/zhangqiuyun.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>张秋云</strong><br>
                     博士后<br>
                     <br>
@@ -214,10 +214,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     <br>
                     Email: 
                 </td>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>孙晨番</strong><br>
                     博士后<br>
                     <br>
@@ -231,10 +231,41 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
             </tr>
 
             <tr>
-                <td width="170">
+                <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/wangxiyan.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>王曦岩</strong><br>
+                    博士后<br>
+                    <br>
+                    <br>
+                    基因线路设计与使能工具开发CRISPRa
+                    <br>
+                    <br>
+                    <br>
+                    Email: xiyanwang@zju.edu.cn
+                </td>
+                <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/panyuwei.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>潘昱韡</strong><br>
+                    博士后<br>
+                    <br>
+                    <br>
+                    纸基微流控
+                    <br>
+                    <br>
+                    <br>
+                    Email:873473172@qq.com
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>刘乐林</strong><br>
                     博士研究员<br>
                     <br>
@@ -245,10 +276,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     <br>
                     Email: raphaliu2@zhejianglab.edu.cn
                 </td>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/fanyi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>樊逸</strong><br>
                     博士研究生<br>
                     <br>
@@ -265,10 +296,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
 
 
             <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>李茜</strong><br>
                     工程师<br>
                     <br>
@@ -279,10 +310,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     <br>
                     Email: qianli@zhejianglab.com
                 </td>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>杨海锋</strong><br>
                     工程师<br>
                     <br>
@@ -296,10 +327,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
             </tr>
 
             <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>蒋国</strong><br>
                     研发工程师<br>
                     <br>
@@ -310,10 +341,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     <br>
                     Email: jiangg@zju.edu.cn
                 </td>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>马嘉欣</strong><br>
                     研究专员<br>
                     <br>
@@ -328,10 +359,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
 
 
             <tr>
-                <td width="170">
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>施高美</strong><br>
                     工程专员<br>
                     <br>
@@ -342,10 +373,10 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     <br>
                     Email: g.shi@zhijianglab.com
                 </td>
-                <td width="170">
+                <!-- <td width="20%">
                     <img src="{{ site.baseurl }}/assets/panyuwei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="340">
+                <td width="30%" style="word-wrap:break-word;">
                     <strong>潘昱韡</strong><br>
                     博士后<br>
                     <br>
@@ -355,7 +386,7 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
                     <br>
                     <br>
                     Email:873473172@qq.com
-                </td>
+                </td> -->
             </tr>
 
             </tbody>
