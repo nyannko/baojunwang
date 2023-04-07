@@ -2,7 +2,8 @@
 layout: page
 title: 发表论文 
 show_sidebar: false
-hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
+# hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
+hero_image: /baojunwang/assets/dnabackground.jpg
 toc: true
 ---
 

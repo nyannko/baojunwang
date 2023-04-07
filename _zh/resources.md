@@ -2,13 +2,17 @@
 layout: page
 title: 开源工具
 menubar: false
-hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
+# hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
+hero_image: /baojunwang/assets/dnabackground.jpg
 show_sidebar: false
 ---
 
 
 
 ## GENETIC PARTS
+
+[**BioPartsDB**]( http://biopartsdb.bio.ed.ac.uk/) BioParts Database (for biocircuit design)
+
 [**Registry of Standard Biological Parts**](http://partsregistry.org/Main_Page)<br>
 Public registry of standard biological parts; mostly for iGEM
 
@@ -18,7 +22,6 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**JBEI Registry**](https://registry.jbei.org/#page=login)<br>Public registry of standard biological parts. 
 
-[**BioPartsDB**]( http://biopartsdb.bio.ed.ac.uk/) BioParts Database (for biocircuit design)
  
 
 ## SEQUENCE DESIGN
@@ -127,16 +130,14 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**Jalview**](www.jalview.org)<br> One of the most widely used applications for visualising and analysing DNA, RNA and protein multiple sequence alignments. It is designed to enable anyone working with protein, RNA and DNA sequences to investigate their structure, function and evolution, and create high-quality figures for publication. Open source, developed by Dundee Univ.  
 
-[**June Medford lab**](http://wp.natsci.colostate.edu/medfordlab/molecular-biology-web-tools/)
+[**June Medford lab**](https://medford.colostate.edu/)
 
 ## Others
 
-[**American Society of Plant Biologists**](http://my.aspb.org/) <br>Professional society devoted to the advancement of the plant sciences
+[**American Society of Plant Biologists**](https://aspb.org/) <br>Professional society devoted to the advancement of the plant sciences
 
 
 [**Arabidopsis Information Resource**](http://www.arabidopsis.org/)
 [**Database**](http://wp.natsci.colostate.edu/search/ERwin/Tair.htm) of genetic and [**molecular biology data**](http://wp.natsci.colostate.edu/about/datasources.jsp) for the model higher plant [***Arabidopsis thaliana***](http://wp.natsci.colostate.edu/portals/education/aboutarabidopsis.jsp)
 
 A BBSRC funded online computational training course known as [**SysMIC**](http://sysmic.ac.uk/)
-
-[**Webtools for biology**](http://web.mit.edu/voigtlab/webtools.html) , hold control key to click on blue titled topic
