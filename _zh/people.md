@@ -162,7 +162,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:gaoge@zju.edu.cn
+                    Email: gaoge@zju.edu.cn
                 </td>
             </tr>
 
@@ -193,7 +193,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:shengyan.chen@zju.edu.cn
+                    Email: shengyan.chen@zju.edu.cn
                 </td>
             </tr>
 
@@ -210,7 +210,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email: 
+                    Email:  
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
@@ -224,7 +224,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:sunchenfan@zju.edu.cn
+                    Email: sunchenfan@zju.edu.cn
                 </td>
             </tr>
 
@@ -255,7 +255,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:873473172@qq.com
+                    Email: 873473172@qq.com
                 </td>
             </tr>
 
@@ -286,7 +286,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email: raphaliu2@zhejianglab.edu.cn
+                    Email: raphaliu2@zhejianglab.com
                 </td>
             </tr>
 
@@ -303,7 +303,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:majiaxin@zhejianglab.com
+                    Email: majiaxin@zhejianglab.com
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
@@ -337,7 +337,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:hfyang@zhejianglab.com
+                    Email: hfyang@zhejianglab.com
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
@@ -367,7 +367,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:fjialing@zju.edu.cn
+                    Email: fjialing@zju.edu.cn
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
@@ -387,10 +387,11 @@ hero_image: /baojunwang/assets/dnabackground.jpg
 
             </tbody>
         </table>
+</div>
+</div>
 
 
-
-        <div class="content panel panel-primary">
+<div class="content panel panel-primary">
     <div class="content panel-heading">
         <h3 class="panel-title">研究生</h3>
     </div>
@@ -410,7 +411,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:Fanyi-2021@outlook.com
+                    Email: Fanyi-2021@outlook.com
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
@@ -423,24 +424,25 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:
+                    Email: 
                 </td>
             </tr>
 
 
             <tr>
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
+                    <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>冯磊磊</strong><br>
-                      <br>
+                     硕士研究生 <br>
+                    <br>
+                    <br>
+                    肿瘤的细胞疗法
                     <br>
                     <br>
                     <br>
-                    <br>
-                    <br>
-                    Email:
+                    Email: fengleilei@zju.edu.cn
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
@@ -453,7 +455,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:
+                    Email: 
                 </td>
             </tr>
 

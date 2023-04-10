@@ -38,8 +38,7 @@ show_sidebar: false
 
                     <br>
                     <br>
-                    Email: baojun.wang@zju.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tel:
-                    0086-(0)571-82993302
+                    Email: baojun.wang@zju.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tel: 0086-(0)571-82993302
                 </td>
             </tr>
             </tbody>
@@ -162,7 +161,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:gaoge@zju.edu.cn
+                    Email: gaoge@zju.edu.cn
                 </td>
             </tr>
 
@@ -192,7 +191,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:shengyan.chen@zju.edu.cn
+                    Email: shengyan.chen@zju.edu.cn
                 </td>
             </tr>
 
@@ -209,7 +208,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:
+                    Email: 
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
@@ -222,7 +221,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:sunchenfan@zju.edu.cn
+                    Email: sunchenfan@zju.edu.cn
                 </td>
             </tr>
 
@@ -252,7 +251,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:873473172@qq.com
+                    Email: 873473172@qq.com
                 </td>
             </tr>
 
@@ -299,7 +298,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:majiaxin@zhejianglab.com
+                    Email: majiaxin@zhejianglab.com
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
@@ -329,7 +328,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:hfyang@zhejianglab.com
+                    Email: hfyang@zhejianglab.com
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
@@ -358,7 +357,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:fjialing@zju.edu.cn
+                    Email: fjialing@zju.edu.cn
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
@@ -394,43 +393,44 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Yi Fan</strong><br>
-                    PhD<br>
+                    PhD student<br>
                     <br>
                     Genetic circuit design and biomarker diagnostics
                     <br>
                     <br>
                     <br>
-                    Email:Fanyi-2021@outlook.com
+                    Email: Fanyi-2021@outlook.com
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Yang Li</strong><br>
-                    Master<br>
+                    Master student<br>
                     <br>
                     <br>
                     <br>
                     <br>
                     <br>
-                    Email:
+                    Email: 
                 </td>
             </tr>
 
 
             <tr>
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
+                    <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Leilei Feng</strong><br>
+                    Master student<br>
+                    <br>
+                    <br>
+                    Cell therapy for tumors
                     <br>
                     <br>
                     <br>
-                    <br>
-                    <br>
-                    <br>
-                    Email:
+                    Email: fengleilei@zju.edu.cn
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
@@ -443,7 +443,7 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:
+                    Email: 
                 </td>
             </tr>
 
