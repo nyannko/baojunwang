@@ -8,7 +8,8 @@ show_sidebar: false
 ---
 ## GENETIC PARTS
 
-[**BioPartsDB**]( http://biopartsdb.bio.ed.ac.uk/) BioParts Database (for biocircuit design)
+[**BioPartsDB**]( http://biopartsdb.bio.ed.ac.uk/)<br>
+BioParts Database (for biocircuit design)
 
 [**Registry of Standard Biological Parts**](http://partsregistry.org/Main_Page)<br>
 Public registry of standard biological parts; mostly for iGEM
@@ -127,4 +128,3 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**Jalview**](www.jalview.org)<br> One of the most widely used applications for visualising and analysing DNA, RNA and protein multiple sequence alignments. It is designed to enable anyone working with protein, RNA and DNA sequences to investigate their structure, function and evolution, and create high-quality figures for publication. Open source, developed by Dundee Univ.  
 
-[**June Medford lab**](https://medford.colostate.edu/)
