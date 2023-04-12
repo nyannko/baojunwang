@@ -13,7 +13,6 @@ hero_image: /baojunwang/assets/dnabackground.jpg
   <figcaption>caption</figcaption>
 </figure> -->
 
-
 <div class="content panel panel-primary">
     <div class="content panel-heading">
         <h3 class="panel-title">PI</h3>
@@ -40,7 +39,8 @@ hero_image: /baojunwang/assets/dnabackground.jpg
 
                     <br>
                     <br>
-                    Email: baojun.wang@zju.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tel: 0086-(0)571-82993302 
+                    Email: baojun.wang@zju.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tel:
+                    0086-(0)571-82993302
                 </td>
             </tr>
             </tbody>
@@ -89,7 +89,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
 
             </tr>
 
- <tr>
+            <tr>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/yuanxiaofei.png" width="150" height="200" alt=""><br>
                 </td>
@@ -97,7 +97,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <strong>原晓非</strong><br>
                     研究专家
                     <br>
-                   <br>
+                    <br>
                     微流控等交叉学科技术与生物计算相融合的基础理论研究<br>
                     生物计算在环境、医疗领域的应用基础研究<br>
                     <br>
@@ -210,7 +210,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:  
+                    Email:
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
@@ -322,8 +322,6 @@ hero_image: /baojunwang/assets/dnabackground.jpg
             </tr>
 
 
-
-
             <tr>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
@@ -387,7 +385,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
 
             </tbody>
         </table>
-</div>
+    </div>
 </div>
 
 
@@ -424,7 +422,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email: 
+                    Email:
                 </td>
             </tr>
 
@@ -435,7 +433,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>冯磊磊</strong><br>
-                     硕士研究生 <br>
+                    硕士研究生 <br>
                     <br>
                     <br>
                     肿瘤的细胞疗法
@@ -455,7 +453,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email: 
+                    Email:
                 </td>
             </tr>
 

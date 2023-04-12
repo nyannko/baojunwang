@@ -14,4 +14,6 @@ Our research is primarily centered around Synthetic Biology, a fast growing disc
 
 We use a bottom-up engineering approach to design synthetic biological circuits and systems using characterised/standardised biological parts and devices. We develop new enabling tools for synthetic biology, and build novel customised gene circuits for sensing and information processing of multiple cellular and environmental signals, with applications ranging from biosensing, biocomputing and biomanufacturing to biotherapy. 
 
-<p><img alt="" src="assets/index_en_1.png" style="height:240px; width:350px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="assets/index_en_2.png" style="height:240px; width:350px"></p>
+<p><img alt="" src="assets/index_en_1.png" style=" width:350px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="assets/index_en_2.png" style=" width:350px"></p>
+
+<img alt="" src="assets/b2.png" style=" width:80%">
