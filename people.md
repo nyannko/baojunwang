@@ -50,7 +50,7 @@ show_sidebar: false
 
 <div class="content panel panel-primary">
     <div class="content panel-heading">
-        <h3 class="panel-title">co-PI</h3>
+        <h3 class="panel-title">co-PIs</h3>
     </div>
     <div class="content panel-body">
         <table style="table-layout:fixed;">
@@ -72,24 +72,6 @@ show_sidebar: false
                 </td>
 
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/madacheng.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>Dacheng Ma</strong><br>
-                    Researcher
-                    <br>
-                    <br>
-                    Mammalian Medical Synthetic Biology<br>
-                    <br>
-                    <br>
-                    <br>
-                    Email: dacheng@zhejianglab.com
-                </td>
-
-            </tr>
-
-            <tr>
-                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/yuanxiaofei.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
@@ -104,22 +86,9 @@ show_sidebar: false
                     Email: yuanxf@zhejianglab.com
                 </td>
 
-                <!-- <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/madacheng.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>马大程</strong><br>
-                    co-PI
-                    <br>
-                    <br>
-                    哺乳动物医学合成生物学<br>
-                    <br>
-                    <br>
-                    <br>
-                    Email: dacheng@zhejianglab.com
-                </td> -->
-
             </tr>
+
+
 
             </tbody>
         </table>
