@@ -287,7 +287,7 @@ show_sidebar: false
 
             <tr>
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
+                    <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Jiaxin Ma</strong><br>

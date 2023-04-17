@@ -8,7 +8,7 @@ hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01
 show_sidebar: true
 ---
 
-# Welcome to the Synthetic Biological Circuit Engineering Lab
+## Welcome to the Synthetic Biological Circuit Engineering Lab
 
 Our research is primarily centered around Synthetic Biology, a fast growing discipline at the interface of biology, chemistry and engineering with significant expanding applications in diverse areas. Our interests include both fundamental and applied synthetic biology with focus on three synergistic research themes, i.e. the foundational technology, healthcare and industrial biotechnology applications. 
 
