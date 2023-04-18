@@ -24,10 +24,7 @@ show_sidebar: true
 <center><img alt="" src="../assets/b1.png" width="85%"></center>
 
 <br>
-<br>
-<center><img alt="" src="../assets/b2.png" width="85%"></center>
 
-<br>
 
 
 

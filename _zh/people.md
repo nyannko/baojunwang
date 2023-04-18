@@ -178,7 +178,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
-                    Email:
+                    Email: qiuyunz@zju.edu.cn
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
