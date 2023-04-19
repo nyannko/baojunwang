@@ -219,7 +219,7 @@ toc: true
 <br>  
     
 
-## 同行评议的会议论文
+## 会议论文
 
 *   Ho T and **Wang B**\*, “Intein-assisted Bisection Mapping (IBM)”, **_protocols.io_**, 2020  [doi](https://dx.doi.org/10.17504/protocols.io.bpqdmms6)  
 <br>  
@@ -253,7 +253,7 @@ toc: true
 <br>  
     
 
-## 书籍章节和专著
+## 专著及章节
 
 *   Wan X and **Wang B**\*, "Engineering microbial sensor cell arrays to visualize environmental contaminants”, 2021, In: Avraham Rasooly and Houston Baker (eds.), _Biosensors and Biodetection: Methods and Protocols_, Springer; _Methods in Molecular Biology_.  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2020BiosensorsBiodetectionChapter_Engineering%20microbial%20sensor%20cell%20arrays%20to%20visualize%20environmental%20contaminants.pdf)  
 <br>  
