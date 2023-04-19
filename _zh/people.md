@@ -238,8 +238,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     无细胞表达系统中生物基因线路设计和功能化人工细胞构筑
                     <br>
-                    <br>
-                    <br>
+                    <br> 
                     Email: f.gao@zju.edu.cn
                 </td>
                 <td width="20%">

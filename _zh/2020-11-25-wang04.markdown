@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Nat Comm | 多功能基因调节强力工具——王宝俊组开发核酸海绵可全面优化合成基因线路设计"
+date:   2020-11-25 08:46:07
+author: 酶美
+categories: development
+description: "Getting started with Bulma Clean Theme for Jekyll and using it with GitHub Pages"
+image: '/baojunwang/assets/news/4.png'
+published: true
+canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
+hero_image: /baojunwang/assets/dnabackground.jpg
+show_sidebar: true
+---
+
+基因表达调控一直是生物学的主要研究领域。无论是揭示天然基因网络调控机制的基础研究，还是基因治疗、生物传感及组织工程等转化应用，都离不开基因表达调控，而人工合成基因线路（synthetic gene circuit）则在其中发挥着重要的作用。近年来，随着合成生物学（synthetic biology）的高速发展，研究者们不断追求设计大规模、复杂功能的人工合成基因线路，而其中实现基因表达的精确控制至关重要。尽管诸如转录调节（transcriptional regulation）、翻译调节（translational regulation）和翻译后调节（post-translational regulation）等多种基因调控工具已被开发【1】，大多却设计繁琐、需引入额外基因或蛋白表达模块并可能增加宿主细胞负荷（cellular burden）且功能单一。因此，开发简单、有效、功能全面的基因调控工具极为必要。
+
+
+
+2020年11月24日，英国爱丁堡大学王宝俊研究团队（万心怡为第一作者）在Nature Communications 发表了题为Synthetic protein-binding DNA sponge as a tool to tune gene expression and mitigate protein toxicity 的文章【2】，报道了一套针对合成基因线路设计的多功能基因调控工具，不仅可以简单、有效地调节基因表达，还能降低因异质蛋白过量表达而造成的细胞负荷（图1）。
+
+
+<center><img alt="" src="../../assets/news/3.png" width="80%"></center>
+
+<center><img alt="" src="../../assets/news/4.png" width="80%"></center>
+
+<center>图1 核酸海绵在合成基因线路设计中的多种调节功能</center>
+<br>
+
+该基因调控工具受启发于自然界中一种普遍存在的间接基因调控机制：转录因子竞争性核算结合（competing DNA binding）【3】。作用于该机制的陷阱核酸（decoy DNA），也称为核酸海绵（DNA sponge），诱导转录因子结合，使转录因子丧失与内源性基因作用的能力，从而达到调节内源性基因表达的目的。而核酸海绵则是与转录因子作用的顺式作用元件相一致的高亲和力的功能核酸部件。
+
+
+
+人工合成的核酸海绵已被用于基因治疗研究【4】，近期还被用于提高人工合成压缩震荡子（repressilator）的协同性【5】。然而，核酸海绵在基因线路设计中的应用价值尚未被全面开发。
+
+
+
+本研究将人工合成核酸海绵应用于基因线路设计，对其调节功能进行了系统的分析。该研究中的人工合成核酸海绵由转录因子作用的启动子（promoter）序列或操纵子（operator）序列构成，人工合成基因线路由输入响应模块（input sensing module），可选的信号处理模块（signal processing module）和输出模块（output module）构成。该研究由简到繁，以四类人工合成基因线路为例，研究了核酸海绵的基因表达调节能力。
+
+
+
+在两类只有响应模块和输出模块的基因线路中，核酸海绵可分别诱导响应模块中的信号受体蛋白（receptor，分别为TetR转录抑制因子和LuxR转录激活因子）结合，从而改变该基因线路的输出表达及对输入信号响应的灵敏度。
+
+
+在另外两类较为复杂的基因线路中（分别包含以LuxR和MerR为基础的响应模块，以及包含TetR转录反向器transcriptional inverter）和ECF11转录放大器（transcriptional amplifier）的信号处理模块），核酸海绵可分别诱导信号处理模块中的TetR转录抑制因子和ECF11转录起始因子【1】结合，从而降低基因线路在无输入信号时的信号泄漏（leakage）、增加系统的输出幅度（output amplitude）并提高其诱导输出倍数（induction fold）。此外，研究发现ECF11过量表达会抑制宿主细胞生长，而与ECF11相应的核酸海绵（由Pecf11启动子组成）可恢复细胞生长。这也间接证明了ECF11的毒性源于其与内源性基因的结合。
+
+
+
+该团队利用后两类基因线路进一步研究对比了单一核酸海绵（single-layer sponge）和复合核酸海绵（multi-layer DNA sponge）的调节功能。前者只能诱导结合信号输入模块或信号处理模块中的转录因子，而后者可同时诱导结合两个模块中的转录因子。研究结果显示，与单一核酸海绵相比，复合核酸海绵具有更强的基因调节能力和调节叠加性，可更显著地提高基因线路的输出诱导倍数并降低宿主细胞负荷。不仅如此，该团队还研究了核酸海绵的遗传稳定性，发现大多核酸海绵在连续100代的复制过程中是稳定的，但是其中一类拥有较多重复序列的单一核酸海绵（即Pecf11核酸海绵）不如复合核酸海绵稳定，进一步证明了后者在基因调控中的优势。
+
+
+
+综上所述，本研究首次证明了人工合成核酸海绵可系统地调节基因线路中的基因表达，从而精确改变该线路中的基因表达泄漏、输出幅度和诱导倍数、对小分子的响应灵敏度，并改善宿主细胞的生长速度。该基因调节方法简单、有效，可广泛用于多种应用领域相关的人工合成基因线路设计。
+
+
+
+##### 原文链接：
+
+[https://www.nature.com/articles/s41467-020-19552-9](https://www.nature.com/articles/s41467-020-19552-9)
+
+##### 参考文献：
+
+1. Wan, X. et al. Cascaded amplifying circuits enable ultrasensitive cellular sensors for toxic metals. Nat. Chem. Biol. 15, 540–548 (2019).
+2. Wan, X., Pinto, F. P., Yu, L. & Wang, B. Synthetic protein-binding DNA sponge as a tool to tune gene expression and mitigate protein toxicity. Nat. Commun. (2020).
+3. Kemme, C. A., Nguyen, D., Chattopadhyay, A. & Iwahara, J. Regulation of transcription factors via natural decoys in genomic DNA. Transcription 7, 115–120 (2016).
+4. Leong, P. L. et al. Targeted inhibition of Stat3 with a decoy oligonucleotide abrogates head and neck cancer cell growth. Proc. Natl. Acad. Sci. U. S. A. 100, 4138–4143 (2003).
+5. Potvin-Trottier, L., Lord, N. D., Vinnicombe, G. & Paulsson, J. Synchronous long-term oscillations in a synthetic gene circuit. Nature 538, 514–517 (2016).

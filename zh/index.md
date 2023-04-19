@@ -21,8 +21,8 @@ show_sidebar: true
 
 
 <br>
-<center><img alt="" src="../assets/b1.png" width="85%"></center>
-
+<center><img alt="" src="../assets/b1.png" width="100%"></center>
+<!-- <img alt="" src="../assets/b1.png" width="100%"> -->
 <br>
 
 

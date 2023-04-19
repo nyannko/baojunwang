@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Nat Comm | 王宝俊团队开发大规模正交断裂内含肽文库"
+date:   2020-03-31 17:57:07 
+author: 酶美
+categories: development
+description: "There are many ways to make a website, but what about static site generators"
+image: '/baojunwang/assets/news/2.png'
+published: true
+canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
+hero_image: /baojunwang/assets/dnabackground.jpg
+show_sidebar: true
+---
+
+在分子生物学的漫长发展历程中，“一个基因一个酶”假说的建立、争议和深化映照了人们对于生物体复杂基因表达过程的认知过程。这个过程中，蛋白质的翻译后加工是以体现基因表达过程复杂性而为人所熟知的例子之一。
+
+蛋白质剪接是一种特殊的蛋白质的翻译后加工过程。今天，基因工程和合成生物学家可以通过“造物致知”的方式，在自然馈赠的基础上进一步设计、改造、优化蛋白质的剪接元件，从而实现正交、可控的蛋白质剪接过程。
+
+近日，英国爱丁堡大学王宝俊研究团队在Nature Communications发表长文：An expanded library of orthogonal split inteins enables modular multi-peptide assemblies，报道了一套高度标准化的断裂内含肽（split inteins）工具包，可以在细胞内或细胞外实验中实现蛋白质分子的无缝反式剪接【1】。
+
+<center><img alt="" src="../../assets/news/1.png" width="80%"></center>
+
+内含肽 (inteins) 是一种可以实现蛋白质剪接的特殊多肽，介导将自身片段从肽段中“切除”，并将相邻肽段拼接在一起的“蛋白质剪接”过程。自内含肽被发现以来，就被广泛运用于蛋白质生化研究，近年来也被运用于基因工程、基因治疗等前沿领域，被誉为大自然送给蛋白质化学家的礼物【2-4】。
+
+而断裂内含肽可以介导两个独立肽链的反式剪接，能帮助科学家在翻译后水平将不同肽段无缝组装成设计需要的功能蛋白。
+
+在基因工程应用中，将一个特定的内含肽添加到线路设计中，需要考虑到上下游氨基酸序列对剪接效率的影响，这种干扰有时会限制内含肽运用到基因工程装置中的可行性。解决这一问题的途径在于，不同的内含肽有着相异的背景序列偏好，因此，一个经过定量表征的断裂内含肽文库，意味着可以为基因工程学家进行蛋白质反式剪接设计提供更多的工具选择。
+
+另外，在过去的研究中，尽管科学家已经陆续发现了许多不同的内含肽，但是对于这些内含肽的断裂位点规律、剪接效率的研究缺乏统一的定量平台和标准，使得人们对这些内含肽的设计使用、性能和功能正交性缺乏统一的认识和参考依据。
+
+在新发表的研究中，王宝俊研究团队建立了一个细胞内、外通用的高通量内含肽筛选平台。一个断裂红色荧光蛋白被用于测试34种不同的内含肽元件，识别出20个具有顺式剪接活性的候选元件，进而探索了用这些内含肽元件设计断裂内含肽的活性断裂位点。
+
+作者识别到了24对活性断裂内含肽元件对，对它们潜在的576种组合进行了系统的正交性测试，15对高度正交的断裂内含肽元件被筛选出来，构建出迄今为止最大规模的正交断裂内含肽元件库。
+
+基于上述工作，王宝俊研究团队从不同角度展示了这一标准化工具箱的巨大应用潜力。
+
+<center><img alt="" src="../../assets/news/2.png" width="80%"></center>
+<br>
+
+在基础研究领域的生物计算方面，利用高正交性的断裂内含肽和断裂胞外功能σ因子（ECF σ factor）组合构建成的与门(AND gate)逻辑器件，作者在原核细胞内构建并实现了多输入复杂逻辑运算线路。
+
+在应用领域的生物分子材料方面，作者利用这一内含肽文库，实现了大分子高重复结构蛋白的体外精确无缝组装。解决了大分子高重复结构蛋白长期以来难以在异源表达系统中合成的基因工程难题（如图）。
+
+这一新成果为包括合成生物学的基因工程、蛋白质工程学提供了在蛋白质水平上进行生物分子组装、编辑的有力工具，有望在工业、医疗领域发挥展现出广阔的应用前景。
+
+
+##### 原文链接：
+
+[https://doi.org/10.1038/s41467-020-15272-2](https://doi.org/10.1038/s41467-020-15272-2)
+
+##### 参考文献：
+
+1.  Pinto, F., Thornton, E.L. & Wang, B. Anexpanded library of orthogonal split inteins enables modular multi-peptideassemblies. Nature Communications 11: 1529 (2020).
+
+2.  Shah,N.H. & Muir, T.W. Inteins: nature's gift to protein chemists. Chem Sci 5, 446-461 (2014).
+
+3.  Truong,D.J., Kuhner, K., Kuhn, R., Werfel, S., Engelhardt, S., Wurst, W. & Ortiz,O. Development of an intein-mediated split-Cas9 system for gene therapy. Nucleic Acids Res 43, 6450-6458 (2015).
+
+4.  Lopez-Igual,R., Bernal-Bayard, J., Rodriguez-Paton, A., Ghigo, J.M. & Mazel, D.Engineered toxin-intein antimicrobials can selectively target and killantibiotic-resistant bacteria in mixed populations. Nat Biotechnol 37,755-760 (2019).

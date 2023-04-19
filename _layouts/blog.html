@@ -10,7 +10,7 @@ layout: default
     </div>
     {% if page.url contains '/zh/' %}
         {% assign zhposts=site.zh | where:"layout", "post" %}
-        {% for post in zhposts  %}
+        {% for post in zhposts reversed%}
             <div class="column is-12">
                 {% include post-card.html %}
             </div>
