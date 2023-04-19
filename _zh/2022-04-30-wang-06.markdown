@@ -20,7 +20,7 @@ show_sidebar: true
 <center><img alt="" src="../../assets/news/13.png" width="80%"></center>
 <br>
 
-这项研究源自该研究团队在开发原核CRISPR激活装置的过程中（详见Bioart 2019年报道：Nat Comm | 新型原核CRISPRa实现“可投影”多基因表达谱）【1】，注意到sgRNA 骨架能够耐受RNA碱基对的改变。研究团队由此猜测crRNA与tracrRNA的配对应具有一定的可编程性。通过将原核CRISPR激活装置改造为双RNA（dual-RNA）介导的系统， crRNA-tracrRNA配对这一令人惊讶的性质被揭露出来（图1）。
+这项研究源自该研究团队在开发原核CRISPR激活装置的过程中（详见Bioart 2019年报道：Nat Comm｜新型原核CRISPRa实现“可投影”多基因表达谱）【1】，注意到sgRNA骨架能够耐受RNA碱基对的改变。研究团队由此猜测crRNA与tracrRNA的配对应具有一定的可编程性。通过将原核CRISPR激活装置改造为双RNA（dual-RNA）介导的系统， crRNA-tracrRNA配对这一令人惊讶的性质被揭露出来（图1）。
 
 <center><img alt="" src="../../assets/news/14.png" width="80%"></center>
 <center>图1. 双RNA介导的CRISPR基因激活装置</center>
