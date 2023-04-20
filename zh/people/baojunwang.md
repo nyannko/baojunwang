@@ -37,7 +37,7 @@ show_sidebar: false
 <center><img alt="" src="../../../assets/research.png" style="height:300px; width:550px"></center>
  
 ### 主要创新性科研成果
-1.国际上率先提出生物计算基因线路的工程化创新设计方法：率先设计并构建了模块化与正交化的基因逻辑门控线路(Nature Commun 2011)、模块化的转录信号放大线路，创建了领域目前最敏感的基于微生物的砷和汞等重金属水污染细胞传感器（Nature Chem Biol 2019）；建立了基于核酸海绵的新型基因线路全面优化设计方法（Nature Commun 2020），开拓了生物计算基因线路在生物传感领域的创新应用。
+1)  国际上率先提出生物计算基因线路的工程化创新设计方法：率先设计并构建了模块化与正交化的基因逻辑门控线路(Nature Commun 2011)、模块化的转录信号放大线路，创建了领域目前最敏感的基于微生物的砷和汞等重金属水污染细胞传感器（Nature Chem Biol 2019）；建立了基于核酸海绵的新型基因线路全面优化设计方法（Nature Commun 2020），开拓了生物计算基因线路在生物传感领域的创新应用。
 
 
 <center><img alt="" src="../../../assets/research1.png" style="width:75%"></center>
@@ -52,7 +52,7 @@ show_sidebar: false
 
 *   **Wang B**, Kitney R\*, Joly N and Buck M\*, “Engineering modular and orthogonal genetic logic gates for robust digital-like synthetic biology”, **_Nature Communications_**, 2011, 2:508  [doi](http://www.nature.com/ncomms/journal/v2/n10/full/ncomms1516.html)  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wang2011NatureComms_biological_gates.pdf)  (Reported by _[Financial Times](http://www.ft.com/cms/s/2/25a1f6d4-ff5e-11e0-aa11-00144feabdc0.html#axzz1cjfiNUDt)_, [EPSRC](http://www.epsrc.ac.uk/newsevents/news/computermaygrow/), [European Commission](https://cordis.europa.eu/news/rcn/33946/en), _[Electronics Weekly](http://www.electronicsweekly.com/Articles/18/10/2011/52071/logic-gates-from-bacteria-and-dna.htm)_, _[Science Daily](http://www.sciencedaily.com/releases/2011/10/111018111929.htm)_, [UK Synthetic Biology Roadmap](https://connect.innovateuk.org/documents/2826135/3815409/Synthetic+Biology+Roadmap+-+Report.pdf/fa8a1e8e-cbf4-4464-87ce-b3b033f04eaa) and [Imperial College News](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_18-10-2011-16-7-29) among others)  
 
-2.国际上率先开发出新型“类真核”原核细菌CRISPRa基因激活技术（Nature Commun 2019）；揭示了II型CRISPR系统crRNA与tracrRNA匹配的可编程性机制(Nature Commun 2022)，并利用重编程tracrRNAs展示了其在生物计算与生物传感领域多个强大应用案例，包括发明了高特异性SARS-CoV-2新冠病毒RNA便携式快速传感器AGATHA。
+2)  国际上率先开发出新型“类真核”原核细菌CRISPRa基因激活技术（Nature Commun 2019）；揭示了II型CRISPR系统crRNA与tracrRNA匹配的可编程性机制(Nature Commun 2022)，并利用重编程tracrRNAs展示了其在生物计算与生物传感领域多个强大应用案例，包括发明了高特异性SARS-CoV-2新冠病毒RNA便携式快速传感器AGATHA。
 
 
 
@@ -67,7 +67,7 @@ show_sidebar: false
 
 *  **Wang B**\* and Liu Y, Engineered CRISPRa, 国际专利PCT/GB2020/052031, 2019
 
-3.国际上率先将内含肽与转座子工具结合开发了一种新型分裂蛋白设计定向进化方法IBM（Nature Commun 2021），并据此设计出了多种蛋白表达控制逻辑运算器件和显著降低蛋白本底表达水平的调控工具；开发了迄今规模最大的标准化正交断裂蛋白内含肽文库（Nature Commun 2020），解决了大分子高重复结构蛋白的体外精确无缝组装难题。
+3)  国际上率先将内含肽与转座子工具结合开发了一种新型分裂蛋白设计定向进化方法IBM（Nature Commun 2021），并据此设计出了多种蛋白表达控制逻辑运算器件和显著降低蛋白本底表达水平的调控工具；开发了迄今规模最大的标准化正交断裂蛋白内含肽文库（Nature Commun 2020），解决了大分子高重复结构蛋白的体外精确无缝组装难题。
 
 
 <center><img alt="" src="../../../assets/research3.png" style="width:75%"></center>

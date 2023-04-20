@@ -133,4 +133,4 @@ Encyclopedia of E. coli Genes and Metabolism.
 
 ## Other Useful Resources & Tools
 
-[Global Core Biodata Resource](https://globalbiodata.org/scientific-activities/global-core-biodata-resources/)
+[**Global Core Biodata Resource**](https://globalbiodata.org/scientific-activities/global-core-biodata-resources/)

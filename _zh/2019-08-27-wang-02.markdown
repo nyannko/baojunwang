@@ -31,7 +31,7 @@ CRISPR介导的基因激活（CRISPRa, CRISPR activation）是一类具有巨大
 
 CRISPR调控系统可编程性的最大价值之一在于其潜在的多通道调控能力，这种可编程的多通道调控必须基于以sgRNA作为单一输入变量，即在保持dCas9和激活子表达水平恒定的情形下，仅通过控制sgRNA的表达量就能有效开闭目标基因。这就要求激活装置对sgRNA泄漏转录具有极高的耐受性。文章作者深入研究了完全基于sgRNA水平单一输入因素的CRISPRa输出特性。通过在sgRNA支架序列中引入突变和利用dCas9的突变体等多种策略降低了整个系统对低浓度sgRNA的敏感性，进而将该CRISPRa系统的激活输出倍数提高到足以支持多通道激活和级联激活的水平上。
 
-<center><img alt="" src="../../assets/news/9.png" width="80%"></center>
+<center><img alt="" src="../../assets/news/9.png" width="70%"></center>
 <center>图2. 基于新型CRISPRa的多基因遗传线路表达谱筛选平台</center>
 <br>
 
