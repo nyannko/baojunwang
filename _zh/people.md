@@ -414,7 +414,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>胡敏琦</strong><br>
-                    <br>
+                    博士研究生 <br>
                     <br>
                     <br>
                     <br>

@@ -99,6 +99,9 @@ Public registry of standard biological parts; mostly for iGEM
 
 [**E. coli genotypes in OWW**](http://openwetware.org/wiki/E._coli_genotypes)<br>Best collection of E. coli genotypes and their meanings.
 
+[**EcoCyc E. coli Database**](https://ecocyc.org/)<br>
+Encyclopedia of E. coli Genes and Metabolism.
+
 [**BioNumbers**](http://bionumbers.hms.harvard.edu/)<br>Database of useful biological numbers.
 
 [**Plasmid Databases**](http://www.science.co.il/Biomedical/Plasmid-Databases.asp)<br>Links to various plasmid sequence resources
@@ -130,3 +133,7 @@ Public registry of standard biological parts; mostly for iGEM
 [**BoxPlotR**](http://boxplot.tyerslab.com/)<br>A web-tool for generation of box plots  <> 
 
 [**Jalview**](www.jalview.org)<br> One of the most widely used applications for visualising and analysing DNA, RNA and protein multiple sequence alignments. It is designed to enable anyone working with protein, RNA and DNA sequences to investigate their structure, function and evolution, and create high-quality figures for publication. Open source, developed by Dundee Univ.  
+
+## Other Useful Resources & Tools
+
+[**Global Core Biodata Resource**](https://globalbiodata.org/scientific-activities/global-core-biodata-resources/)

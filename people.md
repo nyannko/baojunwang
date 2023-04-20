@@ -406,7 +406,7 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Minqi Hu</strong><br>
-                    <br>
+                    PhD student<br>
                     <br>
                     <br>
                     <br>

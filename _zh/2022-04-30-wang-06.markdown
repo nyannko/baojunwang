@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nat Comm | 王宝俊团队重编程tracrRNA劫持mRNAs/sRNAs/vRNA作为CRISPR RNA"
+title:  "Nat Commun | 王宝俊团队重编程tracrRNA 劫持mRNAs/sRNAs/vRNA 作为CRISPR RNA"
 date:   2022-04-30 18:04:07
 author: 酶美
 description: "Nat Commun | 王宝俊团队开发新型定向进化工具用于分裂蛋白和逻辑门元件设计"
