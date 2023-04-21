@@ -133,4 +133,12 @@ Encyclopedia of E. coli Genes and Metabolism.
 
 ## Other Useful Resources & Tools
 
-[**Global Core Biodata Resource**](https://globalbiodata.org/scientific-activities/global-core-biodata-resources/)
+[**Global Core Biodata Resources**](https://globalbiodata.org/scientific-activities/global-core-biodata-resources/)
+
+## Journal Sites
+
+[**Nature**](https://www.nature.com/)   [**Nature Biotechnology**](https://www.nature.com/nbt/)   [**Nature Chemical Biology**](https://www.nature.com/nchembio/)   [**Nature Methods**](https://www.nature.com/nmeth/)   [**Nature Microbiology**](https://www.nature.com/nmicrobiol/)   [**Nature Communications**](https://www.nature.com/ncomms/)   [**Nature Biomedical Engineering**](https://www.nature.com/natbiomedeng/)
+
+[**Science**](https://www.sciencemag.org/)   [**Science Translational Medicine**](https://stm.sciencemag.org/)   [**Science Advances**](https://advances.sciencemag.org/)    [**Cell**](https://www.cell.com/)   [**Cell Host & Microbe**](https://www.cell.com/cell-host-microbe/home)   [**Molecular Cell**](https://www.cell.com/molecular-cell/home)   [**Cell Systems**](https://www.cell.com/cell-systems/home)   [**Molecular Systems Biology**](http://msb.embopress.org/)   [**eLife**](https://elifesciences.org/)
+
+[**PNAS**](https://www.pnas.org/)   [**Nucleic Acids Research**](https://academic.oup.com/nar)   [**ACS Synthetic Biology**](https://pubs.acs.org/journal/asbcd6)   [**Analytical Chemistry**](https://pubs.acs.org/journal/ancham)   [**Biosensors & Bioelectronics**](https://www.journals.elsevier.com/biosensors-and-bioelectronics)   [**ACS Sensors**](https://pubs.acs.org/journal/ascefj)   [**JACS**](https://pubs.acs.org/journal/jacsat)   [**Advanced Materials**](https://onlinelibrary.wiley.com/journal/15214095)   [**AFM**](https://onlinelibrary.wiley.com/journal/16163028)

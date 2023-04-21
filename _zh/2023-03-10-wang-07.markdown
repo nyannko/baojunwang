@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "浙江大学王宝俊团队JMB、ACS SynBio系列工作｜报道人工定制噬菌体的工程化方法和病原菌治疗应用"
+date:   2023-03-10 18:04:07
+author: 酶美
+description: "浙江大学王宝俊团队JMB、ACS SynBio系列工作｜报道人工定制噬菌体的工程化方法和病原菌治疗应用"
+image: '/baojunwang/assets/news/24.png'
+published: true
+canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
+hero_image: /baojunwang/assets/dnabackground.jpg
+show_sidebar: true
+---
+
+
+近期，浙江大学王宝俊团队分别在《Journal of Molecular Biology》和《ACS Synthetic Biology》发表题为“The role of O-antigen in P1 transduction of Shigella flexneri and Escherichia coli with its alternative S' tail fibre”、 “P1 bacteriophage-enabled delivery of CRISPR-Cas9 antimicrobial activity against Shigella flexneri”及“Tail-engineered phage P2 enables delivery of antimicrobials into multiple gut pathogens”系列论文，揭示了拥有S' 型尾丝蛋白噬菌体的宿主范围及细菌脂多糖O-抗原决定其宿主选择性的关键作用，并开发了基于工程噬菌体递送的CRISPR-Cas9抗菌系统，结合噬菌体尾丝蛋白的人工编辑可以进一步实现多种病原菌的靶向精准消杀。
+
+<center><img alt="" src="../../assets/news/19.png" width="80%"></center>
+<br>
+<center><img alt="" src="../../assets/news/20.png" width="80%"></center>
+<br>
+
+抗生素耐药已经逐渐成为全球亟待解决的重大公共卫生问题。面对多重耐药的超级细菌，寻找抗生素治疗的替代方案迫在眉睫。作为细菌的天然克星，噬菌体有望成为抗生素之外对抗细菌感染的重要武器。噬菌体具有严格的宿主特异性，明确噬菌体的宿主范围和选择机制，对于开发针对特定病原菌的噬菌体药物具有重要意义。尾丝（tail fiber）是决定噬菌体吸附和宿主选择的关键结构，根据尾丝中S结构蛋白的不同，P1噬菌体可分为P1（S）和P1（S'）两类，其中P1（S'）出现频率低且宿主范围尚不清楚。研究团队通过在S基因缺失的P1溶源菌中利用噬菌粒载体（phagemid）外源表达S或S'蛋白，人工构建出P1（S）和P1（S'）噬菌体（图1），发现P1（S'）可以高效侵染福氏志贺菌2a 2457O和5a M90T以及大肠杆菌O3等致病菌（图2），而这些细菌脂多糖中的O-抗原是决定P1（S'）侵染的关键成分1。
+
+
+<center><img alt="" src="../../assets/news/21.png" width="80%"></center>
+
+<center>图1. P1(S)和P1(S')噬菌体的工程化构建</center>
+<br>
+<center><img alt="" src="../../assets/news/22.png" width="80%"></center>
+
+<center>图2. P1(S')噬菌体可高效侵染多血清型福氏志贺菌以及大肠杆菌O3等致病菌</center>
+<br>
+
+CRISPR-Cas9系统可以通过靶向摧毁抗生素抗性基因从而提高细菌对抗生素的敏感性，也可以直接切割基因组产生双链DNA损伤，进而产生SOS反应诱发对细菌的序列特异性杀伤。CRISPR-Cas9为精准对抗病原菌感染提供了可能，但如何向靶细菌高效递送该系统仍颇具挑战。研究团队首先利用较广宿主范围的P1噬菌体，实现了装载有CRISPR-Cas9基因组靶向切割系统噬菌粒的细菌递送，并发现通过对P1噬菌体基因组pac包装位点的六碱基重复序列进行同义突变（图3，Hex4和Hex3），可以大大降低噬菌体对自身P1基因组的包装效率，从而显著提高CRISPR-Cas9噬菌粒的包装纯度。利用此改良系统靶向切割福氏志贺菌5a M90T株的毒力基因shiA，能够实现对该病原菌的高效杀伤。研究团队进一步在斑马鱼幼虫感染模型中测试了其在体内的抗菌效果，发现该系统可以有效降低福氏志贺菌载量、提高感染宿主生存率2。
+
+<center><img alt="" src="../../assets/news/23.png" width="80%"></center>
+
+<center>图3. P1噬菌体递送CRISPR-Cas9抗菌系统实现福氏志贺菌的体内外精准杀伤</center>
+<br>
+
+在另一项工作中，研究团队还开发了靶向多种肠道病原菌的工程化P2噬菌体，利用其递送装载CRISPR-Cas9抗菌系统的重组黏粒（Cosmid），实现抗菌作用（图4）。在该系统中，一方面，P2溶原菌中原本的P2基因组包装序列cos被替换，因而形成的P2噬菌体仅会对含有cos序列的重组黏粒进行高纯度包装；另一方面，通过外源表达不同的尾丝结构蛋白，可以进一步对工程噬菌体的宿主选择性进行人工定制，从而高效靶向不同的福氏志贺菌、大肠杆菌等致病菌菌株3。
+
+<center><img alt="" src="../../assets/news/24.png" width="80%"></center>
+
+<center>图4. 工程化尾丝蛋白实现噬菌体宿主选择的人工定制</center>
+
+<br>
+
+总的来说，王宝俊团队的系列研究工作鉴定了S' 型尾丝噬菌体的侵染菌株，为P1噬菌体的宿主切换机制提供了新的见解，同时开发了高纯度包装重组噬菌粒/黏粒的人工定制噬菌体，可进行CRISPR-Cas9抗菌系统的高效递送，通过进一步工程化噬菌体尾丝结构蛋白，实现了其宿主选择的理性设计和多种致病菌的靶向杀伤。
+
+
+##### 参考文献
+
+1.Huan, Y. W., Fa-Arun, J. & Wang, B. The role of O-antigen in P1 transduction of Shigella flexneri and Escherichia coli with its alternative S' tail fibre. Journal of Molecular Biology 434, 167829 (2022). https://doi.org/10.1016/j.jmb.2022.167829
+
+2.Huan, Y. W., Torraca V., Brown, R., Fa-Arun, J., Miles, S. L., Oyarzún, D. A., Mostowy, S. & Wang, B. P1 bacteriophage-enabled delivery of CRISPR-Cas9 antimicrobial activity against Shigella flexneri. ACS Synthetic Biology (2023). https://doi.org/10.1021/acssynbio.2c00465
+
+3.Fa-Arun, J., Huan, Y. W., Darmon, E. & Wang, B. Tail-engineered phage P2 enables delivery of antimicrobials into multiple gut pathogens. ACS Synthetic Biology 12, 596-607 (2023). https://doi.org/10.1021/acssynbio.2c00615
+
+
