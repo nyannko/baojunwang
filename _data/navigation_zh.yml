@@ -1,9 +1,9 @@
 - name: 研究方向
   link: /research/
-- name: 实验室成员 
-  link: /people/
 - name: 发表论文
   link: /publications/
+- name: 实验室成员 
+  link: /people/
 - name: 招聘信息 
   link: /opportunities/
 - name: 开源工具

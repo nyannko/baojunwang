@@ -3,13 +3,13 @@ layout: page
 title: Publications
 show_sidebar: false
 # hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 toc: true
 ---
 
 
 
-## Representative Papers
+## Representative Publications
 
 * Liu Y, Pinto F, Wan X, Z Yang, Peng S, Li M, J Cooper, Xie Z, French C and **Wang B\***, “Reprogrammed tracrRNAs enable repurposing of RNAs as crRNAs and sequence-specific RNA biosensors”, _**Nature Communications**_, 2022, 13, 1937  [doi](https://doi.org/10.1038/s41467-022-29604-x)  [pdf](https://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Liu2022NatCommun_Reprogrammed%20tracrRNAs%20enable%20repurposing%20of%20RNAs%20as%20crRNAs%20and%20sequence-specific%20RNA%20biosensors.pdf)  (Reported by [Nature Research Bioengineering Blog](https://bioengineeringcommunity.nature.com/posts/repurposing-rnas-to-be-crispr-rnas-starting-with-engineering#share), [Regensis](https://mp.weixin.qq.com/s/yn6CjiMARo_ABv_mnI7SVg), [BioArtMED](http://mp.weixin.qq.com/s?__biz=MzU4OTY0NzE1NQ==&mid=2247512419&idx=3&sn=f6477361570e0915b4cc040f7f694e1f&chksm=fdc8ad3fcabf2429b2432cc8e491a254502aab6bddfc35283c57c8dd8298f311cd1d4a95e2d1&mpshare=1&scene=1&srcid=0430JQOiCHVdRAFCAPvrtUPh&sharer_sharetime=1651313592565&sharer_shareid=6ddaed0a58ce0a547d64e85841dd92aa#rd), [X-MOL](https://mp.weixin.qq.com/s/HTSpzmZgC2KoyFb6QBz8sA), [biosyn-met](https://mp.weixin.qq.com/s/CMCOrR195KfgDQ36KHUb9w) and [LanHanBiotechnology](https://mp.weixin.qq.com/s/s_WKqSnkbmx16Rt84mZJzQ) among others)  
 <br>   
@@ -48,7 +48,7 @@ toc: true
 
   
 
-## Research Papers 
+## Journal Articles
 
 *  Fa-arun J, Huan Y, E Darmon and**Wang B\***, “Tail-engineered phage P2 enables delivery of antimicrobial phagemids into multiple gut pathogens”, _**ACS Synthetic Biology**_, 2023, 12, 2, 596–607  [doi](https://pubs.acs.org/doi/10.1021/acssynbio.2c00615)  
 <br>  

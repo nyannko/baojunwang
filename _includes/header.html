@@ -68,11 +68,11 @@
 
                 <!-- language-chooser tab -->
                 {% if page.url contains '/zh/' %}
-                    {% assign enurl=page.url | replace:'/zh/','/baojunwang/' %}
+                    {% assign enurl=page.url | replace:'/zh/','/' %}
                     {% assign zhurl=page.url | prepend: site.baseurl %}
                 {% else %}
                     {% assign enurl=page.url | prepend: site.baseurl %}
-                    {% assign zhurl=page.url | prepend:'/baojunwang/zh' %}
+                    {% assign zhurl=page.url | prepend:'/zh' %}
                 {% endif %}
                 <div class="navbar-item">
                 <span><a href="{{enurl}}">English</a></span>

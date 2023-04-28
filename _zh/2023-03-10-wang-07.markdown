@@ -4,10 +4,10 @@ title:  "浙江大学王宝俊团队JMB、ACS SynBio系列工作｜报道人工�
 date:   2023-03-10 18:04:07
 author: 酶美
 description: "浙江大学王宝俊团队JMB、ACS SynBio系列工作｜报道人工定制噬菌体的工程化方法和病原菌治疗应用"
-image: '/baojunwang/assets/news/24.png'
+image: '/assets/news/24.png'
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 show_sidebar: true
 ---
 

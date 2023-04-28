@@ -9,34 +9,30 @@ show_sidebar: false
 
 ## 王宝俊
  
-浙江大学求是特聘教授，之江实验室生物计算研究中心特聘专家，教育部长江学者讲席教授，浙江省鲲鹏行动计划专家，英国皇家化学学会会士。2022年回国任职前担任英国爱丁堡大学合成生物学终身教授。长期致力于合成生物学使能技术开发、基因线路设计及其在生物传感、生物计算、智能诊疗等领域的创新应用研究。近三年以通讯作者发表重要学术论文20余篇（包括Nature Chem Biol等7篇Nature子刊论文），担任PLOS Biology、ACS Synthetic Biology国际权威期刊学术编委，主持英国自然科学基金会、比尔盖茨基金会、美国海军研究署 、中国国家自然科学基金会等二十余项研究基金（总额逾亿元）。
+现任浙江大学化学工程与生物工程学院求是特聘教授，之江实验室生物计算研究中心特聘专家，教育部长江学者讲席教授，浙江省鲲鹏行动计划专家，英国皇家化学学会会士。2022年回国任职前担任英国爱丁堡大学合成生物学终身教授。长期致力于合成生物学使能技术开发、基因线路设计及其在生物传感、生物计算、智能诊疗等领域的创新应用研究。近三年以通讯作者发表重要学术论文20余篇（包括Nature Chem Biol等7篇Nature子刊论文），担任PLOS Biology、ACS Synthetic Biology国际权威期刊学术编委，主持英国自然科学基金会、比尔盖茨基金会、美国海军研究署 、中国国家自然科学基金会等二十余项研究基金。
 
 
 ### 荣誉及奖励
-2022年  教育部“长江学者奖励计划”讲席学者
 
-2022年  浙江省“鲲鹏行动”计划专家
-
-2020年  英国皇家化学学会会士(FRSC)
-
-2019年  英国自然科学基金会杰出青年科学基金奖(全英仅41人)
-
-2016年  英国生物技术与科学基金会新研究员奖
-
-2016年  英国维康基金会科学种子基金奖
-
-2015年  比尔盖茨基金会全球大挑战探索基金奖
+2022年 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 教育部“长江学者奖励计划”讲席学者  
+2022年 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 浙江省“鲲鹏行动”计划专家  
+2020年 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;英国皇家化学学会会士(FRSC)  
+2019年 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 英国自然科学基金会杰出青年科学基金奖(全英仅41人)  
+2016年 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 英国生物技术与科学基金会新研究员奖  
+2016年 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 英国维康基金会科学种子基金奖  
+2015年 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 比尔盖茨基金会全球大挑战探索基金奖  
 
 ### 主要研究兴趣
-1. 合成生物学使能技术与工具开发（内含肽、CRISPR基因编辑与调控等）
-2. 细胞计算基因元器件的挖掘、改造、标准化及正交化设计
-3. 生物计算基因线路设计（工程化、生物自动化设计等）
-4. 生物计算、生物传感与智能诊疗应用
+
+1. 合成生物学使能技术与工具（内含肽、内含子、CRISPR基因编辑与调控等）
+2. 基因元器件的挖掘、改造、模块化及正交化设计
+3. 基因线路设计（包括工程化、规模化、生物自动化设计等）
+4. 生物传感、生物计算、智能诊疗及生物制造应用
 
 
 <center><img alt="" src="../../../assets/bresearch.png" style="height:300px; width:550px"></center>
  
-### 主要创新性科研成果
+### 主要创新科研成果
 1)  国际上率先提出生物计算基因线路的工程化创新设计方法：率先设计并构建了模块化与正交化的基因逻辑门控线路(Nature Commun 2011)、模块化的转录信号放大线路，创建了领域目前最敏感的基于微生物的砷和汞等重金属水污染细胞传感器（Nature Chem Biol 2019）；建立了基于核酸海绵的新型基因线路全面优化设计方法（Nature Commun 2020），开拓了生物计算基因线路在生物传感领域的创新应用。
 
 
@@ -44,11 +40,11 @@ show_sidebar: false
  
 代表论文：
 
-*   Wan X, Pinto F, Yu L and **Wang B**\*, “Synthetic protein-binding DNA sponge as a tool to tune gene expression and mitigate protein toxicity”, **_Nature Communications_**, 2020, 11, 5961  [doi](https://doi.org/10.1038/s41467-020-19552-9)  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2020NatCommun_Synthetic%20protein-binding%20DNA%20sponge%20as%20a%20tool%20to%20tune%20gene%20expression%20and%20mitigate%20protein%20toxicity.pdf)  (Reported by [Nature Research Bioengineering Blog](https://bioengineeringcommunity.nature.com/posts/synthetic-dna-sponge), [BioArt](https://wemp.app/posts/7571fc12-d521-491b-86ad-57b0ec461681), [Zhihu-Regensis](https://zhuanlan.zhihu.com/p/314520966) and [UoE SynthSys News](https://www.ed.ac.uk/biology/synthsys/news-and-events/news-2020/dna-sponges-new-tool-for-fine-tuning-cell-engine) among others)  
+* Wan X, Pinto F, Yu L and **Wang B**\*, “Synthetic protein-binding DNA sponge as a tool to tune gene expression and mitigate protein toxicity”, **_Nature Communications_**, 2020, 11, 5961  [doi](https://doi.org/10.1038/s41467-020-19552-9)  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2020NatCommun_Synthetic%20protein-binding%20DNA%20sponge%20as%20a%20tool%20to%20tune%20gene%20expression%20and%20mitigate%20protein%20toxicity.pdf)  (Reported by [Nature Research Bioengineering Blog](https://bioengineeringcommunity.nature.com/posts/synthetic-dna-sponge), [BioArt](https://wemp.app/posts/7571fc12-d521-491b-86ad-57b0ec461681), [Zhihu-Regensis](https://zhuanlan.zhihu.com/p/314520966) and [UoE SynthSys News](https://www.ed.ac.uk/biology/synthsys/news-and-events/news-2020/dna-sponges-new-tool-for-fine-tuning-cell-engine) among others)  
 
 
 
-*   Wan X, Volpetti F, Petrova E, French C, Maerkel S and **Wang B**\*, "Cascaded amplifying circuits enable ultrasensitive cellular sensors for toxic metals", _**Nature Chemical Biology**_, 2019, 15(5):540–548  [doi](https://doi.org/10.1038/s41589-019-0244-3)  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2019NatChemBiol_Cascaded%20amplifying%20circuits%20enable%20ultrasensitive%20cellular%20sensors%20for%20toxic%20metals.pdf)  (Reported by [Yahoo News](https://uk.news.yahoo.com/smartphone-device-used-detect-poisonous-143315760.html?soc_src=social-sh&soc_trk=ma), [E&T Magazine](https://eandt.theiet.org/content/articles/2019/03/smartphone-biosensor-detects-arsenic-in-drinking-water/), [PhysOrg](https://phys.org/news/2019-03-smartphone-poisoned-millions.html), [Science Daily](https://www.sciencedaily.com/releases/2019/03/190326132650.htm), [Microbiologist](https://sfam.org.uk/resources/microbiologist-2019-september.html), [BioArt](https://wemp.app/posts/aae972fb-c5fd-48f4-83e9-f0714061f742), [Edinburgh Friends](https://www.ed.ac.uk/edinburgh-friends/supplements/how-smartphone-become-lifesaver), [Edinburgh University News](https://www.ed.ac.uk/news/2019/smartphone-test-spots-poisoned-water-risk) and [UoE BioSciences News](https://www.ed.ac.uk/biology/news-events/news-2019/smartphone-based-biosensor-to-tackle-arsenic-poiso) among others)  
+* Wan X, Volpetti F, Petrova E, French C, Maerkel S and **Wang B**\*, "Cascaded amplifying circuits enable ultrasensitive cellular sensors for toxic metals", _**Nature Chemical Biology**_, 2019, 15(5):540–548  [doi](https://doi.org/10.1038/s41589-019-0244-3)  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2019NatChemBiol_Cascaded%20amplifying%20circuits%20enable%20ultrasensitive%20cellular%20sensors%20for%20toxic%20metals.pdf)  (Reported by [Yahoo News](https://uk.news.yahoo.com/smartphone-device-used-detect-poisonous-143315760.html?soc_src=social-sh&soc_trk=ma), [E&T Magazine](https://eandt.theiet.org/content/articles/2019/03/smartphone-biosensor-detects-arsenic-in-drinking-water/), [PhysOrg](https://phys.org/news/2019-03-smartphone-poisoned-millions.html), [Science Daily](https://www.sciencedaily.com/releases/2019/03/190326132650.htm), [Microbiologist](https://sfam.org.uk/resources/microbiologist-2019-september.html), [BioArt](https://wemp.app/posts/aae972fb-c5fd-48f4-83e9-f0714061f742), [Edinburgh Friends](https://www.ed.ac.uk/edinburgh-friends/supplements/how-smartphone-become-lifesaver), [Edinburgh University News](https://www.ed.ac.uk/news/2019/smartphone-test-spots-poisoned-water-risk) and [UoE BioSciences News](https://www.ed.ac.uk/biology/news-events/news-2019/smartphone-based-biosensor-to-tackle-arsenic-poiso) among others)  
 
 *   **Wang B**, Kitney R\*, Joly N and Buck M\*, “Engineering modular and orthogonal genetic logic gates for robust digital-like synthetic biology”, **_Nature Communications_**, 2011, 2:508  [doi](http://www.nature.com/ncomms/journal/v2/n10/full/ncomms1516.html)  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wang2011NatureComms_biological_gates.pdf)  (Reported by _[Financial Times](http://www.ft.com/cms/s/2/25a1f6d4-ff5e-11e0-aa11-00144feabdc0.html#axzz1cjfiNUDt)_, [EPSRC](http://www.epsrc.ac.uk/newsevents/news/computermaygrow/), [European Commission](https://cordis.europa.eu/news/rcn/33946/en), _[Electronics Weekly](http://www.electronicsweekly.com/Articles/18/10/2011/52071/logic-gates-from-bacteria-and-dna.htm)_, _[Science Daily](http://www.sciencedaily.com/releases/2011/10/111018111929.htm)_, [UK Synthetic Biology Roadmap](https://connect.innovateuk.org/documents/2826135/3815409/Synthetic+Biology+Roadmap+-+Report.pdf/fa8a1e8e-cbf4-4464-87ce-b3b033f04eaa) and [Imperial College News](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_18-10-2011-16-7-29) among others)  
 

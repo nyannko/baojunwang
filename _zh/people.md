@@ -4,7 +4,7 @@ title: 实验室成员
 menubar: false
 show_sidebar: false
 # hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 ---
 
 
@@ -305,23 +305,6 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     Email: hfyang@zhejianglab.com
                 </td>
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>蒋国</strong><br>
-                    研发工程师<br>
-                    <br>
-                    <br>
-                    真核细胞RNA传感及诊疗研究
-                    <br>
-                    <br>
-                    <br>
-                    Email: jiangg@zju.edu.cn
-                </td>
-            </tr>
-
-            <tr>
-                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
@@ -334,6 +317,9 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     Email: fjialing@zju.edu.cn
                 </td>
+            </tr>
+
+            <tr>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
@@ -348,6 +334,19 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     Email: g.shi@zhejianglab.com
                 </td>
+                <!-- <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>冯佳玲</strong><br>
+                    科研助理<br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    Email: fjialing@zju.edu.cn
+                </td> -->
             </tr>
 
             </tbody>
@@ -379,11 +378,29 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     Email: Fanyi-2021@outlook.com
                 </td>
                 <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>蒋国</strong><br>
+                    博士研究生<br>
+                    <br>
+                    <br>
+                    真核细胞RNA传感及诊疗研究
+                    <br>
+                    <br>
+                    <br>
+                    Email: jiangg@zju.edu.cn
+                </td>
+            </tr>
+
+
+            <tr>
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
-                    <strong>李阳</strong><br>
-                    硕士研究生<br>
+                    <strong>胡敏琦</strong><br>
+                    博士研究生 <br>
                     <br>
                     <br>
                     <br>
@@ -391,10 +408,6 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     Email:
                 </td>
-            </tr>
-
-
-            <tr>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
@@ -409,7 +422,23 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     Email: fengleilei@zju.edu.cn
                 </td>
+            </tr>
+
+            <tr>
                 <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>李阳</strong><br>
+                    硕士研究生<br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    Email:
+                </td>
+                <!-- <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
@@ -421,7 +450,7 @@ hero_image: /baojunwang/assets/dnabackground.jpg
                     <br>
                     <br>
                     Email:
-                </td>
+                </td> -->
             </tr>
 
             </tbody>

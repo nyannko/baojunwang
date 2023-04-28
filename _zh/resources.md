@@ -3,7 +3,7 @@ layout: page
 title: 开源工具
 menubar: false
 # hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 show_sidebar: false
 ---
 
@@ -95,7 +95,7 @@ Public registry of standard biological parts; mostly for iGEM
 [**FCSExtract Utility**](http://research.stowers-institute.org/efg/ScientificSoftware/Utility/FCSExtract/index.htm)<br>Converts \*.\*fcs files to \*.\*csv files  
 
 ## INFORMATION PORTALS
-[**E. coli Statistics**](http://redpoll.pharmacy.ualberta.ca/CCDB/cgi-bin/STAT_NEW.cgi)<br>Useful informatin on **E. coli**
+[**E. coli Statistics**](http://redpoll.pharmacy.ualberta.ca/CCDB/cgi-bin/STAT_NEW.cgi)<br>Useful informatin on *E. coli*
 
 [**E. coli genotypes in OWW**](http://openwetware.org/wiki/E._coli_genotypes)<br>Best collection of *E. coli* genotypes and their meanings.
 
@@ -134,7 +134,7 @@ Encyclopedia of *E. coli* Genes and Metabolism.
 
 [**Jalview**](www.jalview.org)<br> One of the most widely used applications for visualising and analysing DNA, RNA and protein multiple sequence alignments. It is designed to enable anyone working with protein, RNA and DNA sequences to investigate their structure, function and evolution, and create high-quality figures for publication. Open source, developed by Dundee Univ.  
 
-## Other Useful Resources & Tools
+## Other Useful Resources
 
 [**Global Core Biodata Resources**](https://globalbiodata.org/scientific-activities/global-core-biodata-resources/)
 

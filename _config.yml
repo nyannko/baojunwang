@@ -7,8 +7,8 @@ email: your-email@domain.com
 description: >
   Wang Lab Pages
 #baseurl: "/bulma-clean-theme"
-baseurl: "/baojunwang"
-#url: "https://www.csrhymes.com"
+#baseurl: "/baojunwang"
+url: "http://35.198.198.73/"
 permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes

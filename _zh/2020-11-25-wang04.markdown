@@ -5,10 +5,10 @@ date:   2020-11-25 08:46:07
 author: 酶美
 categories: development
 description: "Getting started with Bulma Clean Theme for Jekyll and using it with GitHub Pages"
-image: '/baojunwang/assets/news/4.png'
+image: '/assets/news/4.png'
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 show_sidebar: true
 ---
 

@@ -4,10 +4,10 @@ title:  "Nat Commun | 王宝俊团队重编程tracrRNA 劫持mRNAs/sRNAs/vRNA �
 date:   2022-04-30 18:04:07
 author: 酶美
 description: "Nat Commun | 王宝俊团队开发新型定向进化工具用于分裂蛋白和逻辑门元件设计"
-image: '/baojunwang/assets/news/18.png'
+image: '/assets/news/18.png'
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 show_sidebar: true
 ---
 

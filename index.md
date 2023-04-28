@@ -4,7 +4,7 @@ subtitle: Synthetic Biological Circuit Engineering Lab
 layout: page
 # callouts: home_callouts
 image: /bulma-clan-theme/img/recipe-example.jpg
-hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
+hero_image: /assets/dnabackground.jpg
 show_sidebar: true
 ---
 
@@ -16,4 +16,4 @@ We use a bottom-up engineering approach to design synthetic biological circuits 
 
 <p><img alt="" src="assets/index_en_1.png" style=" width:350px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="assets/index_en_2.png" style=" width:350px"></p>
 
-<img alt="" src="assets/b2.png" style=" width:80%">
+<img alt="" src="assets/e1.png" style=" width:80%">

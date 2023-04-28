@@ -3,7 +3,7 @@ layout: page
 title: 发表论文 
 show_sidebar: false
 # hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 toc: true
 ---
 
@@ -47,7 +47,7 @@ toc: true
 
   
 
-## 发表论文
+## 期刊论文
 
 *  Fa-arun J, Huan Y, E Darmon and**Wang B\***, “Tail-engineered phage P2 enables delivery of antimicrobial phagemids into multiple gut pathogens”, _**ACS Synthetic Biology**_, 2023, 12, 2, 596–607  [doi](https://pubs.acs.org/doi/10.1021/acssynbio.2c00615)  
 <br>  

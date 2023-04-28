@@ -3,7 +3,7 @@ layout: page
 title: People
 menubar: false
 # hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 show_sidebar: false
 ---
 
@@ -21,20 +21,7 @@ show_sidebar: false
                 <td>
                     <a href="./baojunwang"><strong>Baojun Wang PhD FRSC</strong></a><br>
 
-                    ​Dr Baojun Wang is Reader in Synthetic Biology and a UKRI Future Leaders Fellow at the University of
-                    Edinburgh, working at the interface between biology, chemistry and engineering. He leads the
-                    Synthetic Biological Circuit Engineering Lab in the School of Biological Sciences and the
-                    cross-disciplinary Edinburgh Centre for Synthetic and Systems Biology. He received a PhD in
-                    Bioengineering from Imperial College London (2011), established his research group at the University
-                    of Edinburgh since 2013, and is an elected Fellow of the Royal Society of Chemistry (2020). His
-                    research interests include developing new enabling tools for synthetic biology, and engineering
-                    novel customized genetic circuits for the sensing and information processing of multiple cellular
-                    and environmental signals with applications in diverse areas, for example, biosensing, biocomputing,
-                    biomanufacturing and biotherapies. Dr Wang has received several prestigious awards including the UK
-                    Research and Innovation Future Leaders Fellowship, BBSRC New Investigator Award, Gates Foundation
-                    Grand Challenges Explorations Award, and Wellcome Trust Seed Award in Science. His research has also
-                    been funded by leading industry partners including Microsoft Research and Huawei Technologies, as
-                    well as DSTL and ONRG.
+                    Prof. Baojun Wang is Qiushi Distinguished Professor and Director of the ZJU-HIC Institute of Synthetic Biology at Zhejiang University . He leads the Synthetic Biological Circuit Engineering Lab in the College of Chemical and Biological Engineering of Zhejiang University. He received a PhD in Bioengineering from Imperial College London (2011), and was Reader in Biological Circuit Engineering at the University of Edinburgh before his present appointment, and is an elected Fellow of the Royal Society of Chemistry (2020). His research interests include developing new enabling tools for synthetic biology, and engineering novel customized genetic circuits for the sensing and information processing of multiple cellular and environmental signals with applications in diverse areas, for example, biosensing, biocomputing, biomanufacturing and biotherapies. Prof. Wang has received several prestigious awards including the UK Research and Innovation Future Leaders Fellowship, BBSRC New Investigator Award, Gates Foundation Grand Challenges Explorations Award, Changjiang Scholar Chair Professorship by the Ministry of Education of China and the Kunpeng Action Program Award of Zhejiang Province. His research has also been funded by leading industry partners including Microsoft Research and Huawei Technologies, as well as DSTL and ONRG.
 
                     <br>
                     <br>
@@ -300,22 +287,6 @@ show_sidebar: false
                     Email: hfyang@zhejianglab.com
                 </td>
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>Guo Jiang</strong><br>
-                    Engineer<br>
-                    <br>
-                    Eukaryotic RNA sensing and diagnosis research
-                    <br>
-                    <br>
-                    <br>
-                    Email: jiangg@zju.edu.cn
-                </td>
-            </tr>
-
-            <tr>
-                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
@@ -328,6 +299,11 @@ show_sidebar: false
                     <br>
                     Email: fjialing@zju.edu.cn
                 </td>
+
+            </tr>
+
+            <tr>
+
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
@@ -414,6 +390,35 @@ show_sidebar: false
                     <br>
                     Email: 
                 </td>
+            </tr>
+
+                        <tr>
+                <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>Guo Jiang</strong><br>
+                    PhD Student<br>
+                    <br>
+                    Eukaryotic RNA sensing and diagnosis research
+                    <br>
+                    <br>
+                    <br>
+                    Email: jiangg@zju.edu.cn
+                </td>
+                <!-- <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>Minqi Hu</strong><br>
+                    PhD student<br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    Email: 
+                </td> -->
             </tr>
 
             </tbody>

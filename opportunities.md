@@ -3,7 +3,7 @@ layout: page
 title: Opportunities
 menubar: false
 # hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
-hero_image: /baojunwang/assets/dnabackground.jpg
+hero_image: /assets/dnabackground.jpg
 show_sidebar: false
 toc: false
 ---
@@ -20,16 +20,16 @@ Candidate PhD projects:
 ## Postal Address
 
 
-Dr Baojun Wang
+Prof. Baojun Wang 
 
-School of Biological Sciences, University of Edinburgh
+College of Chemical and Biological Engineering, Zhejiang University
 
-G20 Roger Land Building, The King's Buildings, Edinburgh EH9 3FF, UK
+Zijingang Campus, Westlake District, Hangzhou 310058, China
 
-Tel +44 (0)131 650 5527
+Tel: +86 (0)571-8299-3302 
 
-Email baojun.wang at ed.ac.uk
+Email: baojun.wang@zju.edu.cn
 
-![KingsBuildings](../assets/KingsBuildings.png)
+<img alt="" src="../assets/zju.png" style=" width:40%">
 
-[Campus maps and travel information](https://www.ed.ac.uk/maps/)
+[Campus maps and travel information](https://map.zju.edu.cn/index.html)
