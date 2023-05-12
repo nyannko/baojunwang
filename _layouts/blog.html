@@ -8,9 +8,9 @@ layout: default
     <div class="column is-12">
         {% include pagination.html %}
     </div>
-    {% if page.url contains '/zh/' %}
-        {% assign zhposts=site.zh | where:"layout", "post" %}
-        {% for post in zhposts reversed%}
+    {% if page.url contains '/cn/' %}
+        {% assign cnposts=site.cn | where:"layout", "post" %}
+        {% for post in cnposts reversed%}
             <div class="column is-12">
                 {% include post-card.html %}
             </div>

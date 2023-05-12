@@ -1,7 +1,7 @@
 <p class="title is-4">近期新闻</p>
 
 <div class="columns is-multiline">
-    {% assign posts=site.zh | where:"layout", "post" | reverse %}
+    {% assign posts=site.cn | where:"layout", "post" | reverse %}
     
 
     {% for post in posts limit:2%}

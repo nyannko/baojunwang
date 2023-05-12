@@ -259,6 +259,37 @@ hero_image: /assets/dnabackground.jpg
 
             <tr>
                 <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/chenyixuan.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>陈亦宣</strong><br>
+                    博士后<br>
+                    <br>
+                    <br>
+                    合成生物
+                    <br> 
+                    <br>
+                    <br> 
+                    Email: chenxuanyi@zhejianglab.com
+                </td>
+                <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>黄锐</strong><br>
+                    高级研究专员<br>
+                    <br>
+                    <br>
+                    合成生物学，代谢工程
+                    <br>
+                    <br>
+                    <br>
+                    Email: 993014540@zhejianglab.com
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">

@@ -1,7 +1,7 @@
 # Site Settings
 lang: en
 title: Wang Lab
-title_zh: 生物线路设计实验室
+title_cn: 生物线路设计实验室
 tagline: Home
 email: your-email@domain.com
 description: >
@@ -29,7 +29,7 @@ paginate_path: "/news/page:num"
 #     paginate_path: '/news/page:num'
 #     sub_dir: '/en'
 #   - paginate: 2
-#     paginate_path: '/zh/news/page:num'
+#     paginate_path: '/cn/news/page:num'
 #     sub_dir: '/cn'
 
 # Disqus Comments
@@ -88,7 +88,7 @@ markdown: kramdown
 highlighter: rouge
 
 footer_menu: example_footer_menu
-footer_menu_zh: example_footer_menu_zh
+footer_menu_cn: example_footer_menu_cn
 
 collections:
   products: 
@@ -97,7 +97,7 @@ collections:
     image: https://via.placeholder.com/800x600
     show_sidebar: false
 
-  zh:
+  cn:
     output: true
     permalink: /:collection/:title/
 

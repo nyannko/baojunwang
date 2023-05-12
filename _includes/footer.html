@@ -1,13 +1,13 @@
 <footer class="footer">
     <div class="container">
-    {% if page.url contains '/zh/' %} 
-        {% if site.footer_menu_zh %}
+    {% if page.url contains '/cn/' %} 
+        {% if site.footer_menu_cn %}
         
         <div class="columns is-multiline">
-            {% for item in site.data[site.footer_menu_zh] %}
+            {% for item in site.data[site.footer_menu_cn] %}
             <div class="column has-text-centered">
                 <div>
-                    <a href="{{ item.link | prepend: '/zh' | relative_url }}" class="link">{{ item.name }}</a>
+                    <a href="{{ item.link | prepend: '/cn' | relative_url }}" class="link">{{ item.name }}</a>
                 </div>
             </div>
             {% endfor %}

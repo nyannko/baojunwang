@@ -243,6 +243,37 @@ show_sidebar: false
 
             <tr>
                 <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/chenyixuan.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>Yixuan Chen</strong><br>
+                    Postdoc<br>
+                    <br>
+                    <br>
+                    Synthetic Biology
+                    <br> 
+                    <br>
+                    <br> 
+                    Email: chenxuanyi@zhejianglab.com
+                </td>
+                <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>Rui Huang</strong><br>
+                    Senior Researcher<br>
+                    <br>
+                    <br>
+                    Synthetic Biology, Metabolic Engineering
+                    <br>
+                    <br>
+                    <br>
+                    Email: 993014540@zhejianglab.com
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">

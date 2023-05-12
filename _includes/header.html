@@ -1,9 +1,9 @@
 <nav class="navbar is-primary {% if site.fixed_navbar %} is-fixed-{{ site.fixed_navbar }} {% endif %}" x-data="{ openNav: false }">
     <div class="container">
         <div class="navbar-brand">
-            {% if page.url contains 'zh' %}
-            <a href="{{ site.baseurl | append: '/zh' }}/" class="navbar-item">
-                {{ site.title_zh }}
+            {% if page.url contains 'cn' %}
+            <a href="{{ site.baseurl | append: '/cn' }}/" class="navbar-item">
+                {{ site.title_cn }}
             </a> 
             {% else %}
             <a href="{{ site.baseurl }}/" class="navbar-item">
@@ -20,12 +20,12 @@
             <div class="navbar-start">
                 <!-- <a href="{{ site.baseurl }}/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">Home</a> -->
                 <!-- navigation tab -->
-                {% if page.url contains '/zh/' %}
-                    {% if site.data.navigation_zh %}
-                    {% for item in site.data.navigation_zh %}
+                {% if page.url contains '/cn/' %}
+                    {% if site.data.navigation_cn %}
+                    {% for item in site.data.navigation_cn %}
                     {% if item.dropdown %}
                     <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
-                        <a href="{{ item.link | prepend: '/zh' | relative_url }}" class="navbar-link {% if page.url contains item.link %}is-active{% endif %}">{{ item.name }}</a>
+                        <a href="{{ item.link | prepend: '/cn' | relative_url }}" class="navbar-link {% if page.url contains item.link %}is-active{% endif %}">{{ item.name }}</a>
                         <div class="navbar-dropdown">
                             {% for subitem in item.dropdown %}
                             <a href="{{ subitem.link | relative_url }}" class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a>
@@ -33,7 +33,7 @@
                         </div>
                     </div>
                     {% else %}
-                    <a href="{{ item.link |prepend: '/zh' | relative_url }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+                    <a href="{{ item.link |prepend: '/cn' | relative_url }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
                     {% endif %}
                 {% endfor %}
                 {% endif %}
@@ -67,17 +67,17 @@
             </div> -->
 
                 <!-- language-chooser tab -->
-                {% if page.url contains '/zh/' %}
-                    {% assign enurl=page.url | replace:'/zh/','/' %}
-                    {% assign zhurl=page.url | prepend: site.baseurl %}
+                {% if page.url contains '/cn/' %}
+                    {% assign enurl=page.url | replace:'/cn/','/' %}
+                    {% assign cnurl=page.url | prepend: site.baseurl %}
                 {% else %}
                     {% assign enurl=page.url | prepend: site.baseurl %}
-                    {% assign zhurl=page.url | prepend:'/zh' %}
+                    {% assign cnurl=page.url | prepend:'/cn' %}
                 {% endif %}
                 <div class="navbar-item">
                 <span><a href="{{enurl}}">English</a></span>
                 &nbsp;
-                <span><a href="{{zhurl}}">中文</a></span>
+                <span><a href="{{cnurl}}">中文</a></span>
                 </div>
 
 

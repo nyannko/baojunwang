@@ -42,11 +42,11 @@
                     {% include gallery.html %}
                     {{ content }}
                 </div>
-                {% if page.url contains '/zh/' %} 
-                    {% assign zhposts=site.zh | where:"layout", "post" %}
-                    {% if zhposts and page.show_sidebar%}
+                {% if page.url contains '/cn/' %} 
+                    {% assign cnposts=site.cn | where:"layout", "post" %}
+                    {% if cnposts and page.show_sidebar%}
                     <div class="column is-4-desktop is-4-tablet">
-                        {% include latest-posts-zh.html %}
+                        {% include latest-posts-cn.html %}
                     </div>
                     {% endif %} 
                 {% else %}
@@ -66,18 +66,5 @@
     {%- include footer-scripts.html -%}
 
 
-        <!-- language-chooser tab
-        <a>{{page.url}}</a>
-        {% if page.url contains '/zh/' %}
-            {% assign enurl=page.url | replace:'/zh/','/' %}
-            {% assign zhurl=page.url %}
-        {% else %}
-            {% assign enurl=page.url %}
-            {% assign zhurl=page.url | prepend:'/zh' %}
-        {% endif %}
-        <div class="language-chooser">
-        <a href="{{enurl}}">en</a>
-        <a href="{{zhurl}}">zh</a>
-        </div> -->
   </body>
 </html>

@@ -1,0 +1,11 @@
+- label: 发表论文
+  items:
+    - name: 所有
+      link: /cn/publications/
+    - name: 期刊文章 
+      link: /cn/publications/journalarticals/articles/
+    - name: 同行评议的会议论文 
+      link: /cn/publications/proceedingpapers/papers/
+    - name: 书籍章节和专著
+      link: /cn/publications/books/books/
+
