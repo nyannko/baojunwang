@@ -17,19 +17,19 @@ show_sidebar: true
 
 #### <center>（1）合成生物学关键共性使能技术及工具开发 </center>
 <br>
-<center><img alt="" src="../assets/b2.png" width="50%"></center>
+<center><img alt="" src="../assets/b2.png" width="75%"></center>
 <!-- <img alt="" src="../assets/b2.png" width="100%"> -->
 <br>
 
 #### <center>（2）生物元器件与线路设计：工程化、智能化、生物自动化设计等 </center>
 <br>
-<center><img alt="" src="../assets/b3.png" width="50%"></center>
+<center><img alt="" src="../assets/b3.png" width="75%"></center>
 <!-- <img alt="" src="../assets/b3.png" width="100%"> -->
 <br>
 
 #### <center>（3）生物传感、生物计算、智能诊疗及生物制造等领域的创新应用 </center>
 <br>
-<center><img alt="" src="../assets/b4.png" width="50%"></center>
+<center><img alt="" src="../assets/b4.png" width="75%"></center>
 <!-- <img alt="" src="../assets/b4.png" width="100%"> -->
 <br>
 

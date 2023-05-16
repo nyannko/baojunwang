@@ -48,10 +48,10 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Nan Zhou</strong><br>
-                    Researcher
+                    Research Investigator 
                     <br>
                     <br>
-                    Basic and Applied Research on Synthetic Gene Routes<br>
+                    Fundamental and Applied Research on Synthetic Gene Circuits<br>
                     Using synthetic gene circuits as a tool to explore the fundamental principles of life sciences and
                     the development of novel biopharmaceuticals<br>
                     <br>
@@ -63,12 +63,13 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Xiaofei Yuan</strong><br>
-                    Researcher
+                    Research Investigator
                     <br>
                     <br>
-                    Basic theoretical research on the integration of cross-disciplinary technologies such as
-                    microfluidics and biocomputing<br>
-                    Basic research on the application of biocomputing in environmental and medical fields<br>
+                    Microfluidics, biocomputing and other cross-disciplinary technologies<br>
+                    Biocomputing applications in environmental and medical settings<br>
+                    <br>
+                    <br>
                     <br>
                     Email: yuanxf@zhejianglab.com
                 </td>
@@ -230,7 +231,7 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>LeLin Liu</strong><br>
-                    Senior Researcher<br>
+                    Research Fellow<br>
                     <br>
                     <br>
                     Biosensing and Microfluidic Systems
@@ -261,7 +262,7 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Rui Huang</strong><br>
-                    Senior Researcher<br>
+                    Research Fellow<br>
                     <br>
                     <br>
                     Synthetic Biology, Metabolic Engineering
@@ -278,7 +279,7 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Jiaxin Ma</strong><br>
-                    Researcher<br>
+                    Research Associate<br>
                     <br>
                     <br>
                     Genetic circuit design
@@ -292,7 +293,7 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Qian Li</strong><br>
-                    Engineer<br>
+                    Bioinformatics Engineer<br>
                     <br>
                     Bioinformatics development for biocomputational generic circuit design
                     <br>
@@ -309,7 +310,7 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Haifeng Yang</strong><br>
-                    Engineer<br>
+                    Biological Engineer<br>
                     <br>
                     Genetic circuit development, logic gate development
                     <br>
@@ -322,7 +323,7 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Jialin Feng</strong><br>
-                    Scientific Research Assistant<br>
+                    Research Administrator<br>
                     <br>
                     <br>
                     <br>
@@ -340,7 +341,7 @@ show_sidebar: false
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
                     <strong>Gaomei Shi</strong><br>
-                    Engineer<br>
+                    Software Engineer<br>
                     <br>
                     Genetic circuit automation design software platform development
                     <br>
