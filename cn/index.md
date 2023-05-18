@@ -4,7 +4,6 @@ subtitle: 合成生物学使能技术 + 基因线路设计 + 生物传感、生�
 layout: page
 # callouts: home_callouts
 image: /bulma-clan-theme/img/recipe-example.jpg
-# hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
 hero_image: /assets/dnabackground.jpg
 show_sidebar: true
 ---
