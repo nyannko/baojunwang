@@ -1,0 +1,44 @@
+---
+layout: post
+title:  Smartphone biosensor detects arsenic in drinking water
+date:   2019-03-26 20:00:07
+categories: development
+description: Researchers from the University of Edinburgh have developed a biosensor that attaches to a smartphone and uses bacteria to detect unsafe arsenic levels – a device that could help millions of people avoid drinking water contaminated by arsenic.
+image: "/assets/news_en/7.png"
+published: true
+canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
+---
+
+#### Researchers from the University of Edinburgh have developed a biosensor that attaches to a smartphone and uses bacteria to detect unsafe arsenic levels – a device that could help millions of people avoid drinking water contaminated by arsenic.
+
+According to the researchers, there is an urgent need to provide simple, affordable, on-site solutions for contaminated water sources. In source-limited countries, such as Bangladesh, there is a lack of sufficiently skilled personnel and healthcare facilities to test water for contamination.
+
+To tackle this, researchers say new devices could replace existing tests. Current tests are difficult to use, need specialist laboratory equipment and can produce toxic chemicals.
+
+The sensor device, developed at the university in Scotland’s capital, however, generates easy-to-interpret patterns, similar to volume bars, which display the level of contamination.
+
+The team tested the arsenic sensors using environment samples from affected wells in Bangladesh, which suffers from some of the world’s highest levels of arsenic-contaminated ground water.
+
+“We tested out sensors with samples from wells in a village in Bangladesh,” said Dr Baojun Wang, from the School of Biological Sciences at the university. “The arsenic level reported by the sensors was consistent with lab-based standard tests, demonstrating the devices potential as a simple low-cost-use monitoring tool.”  
+
+It is estimated around 20 million people in Bangladesh – most in rural poor areas – drink contaminated water. Long-term exposure to unsafe levels of arsenic leads to skin lesions and cancers and is linked to 20 per cent of all deaths in the worst-affected regions.
+
+Developing the biosensor using the tests from the wells in Bangladesh, the researchers manipulated the genetic code of the bacteria Escherichia coli (E. coli), and then added genetic components to act as amplifiers when arsenic is detected.
+
+Water samples were fed into a plastic device containing bacteria suspended in a gel. This produced fluorescent proteins that were visible in the presence of arsenic.
+
+Arsenic is one of the most common elements on Earth and is present as arsenic salts in all water. The World Health Organization (WHO) sets the safe level for arsenic in drinking water at 10 parts par billion.
+
+However, many places in the Himalayas and South-East Asia have 10 times that amount of arsenic levels in their drinking water.
+
+The contamination of water by heavy metals is a worldwide health issue, with Unicef reporting that arsenic-contaminated drinking water is consumed by more than 140 million people worldwide.
+
+The University of Edinburgh researchers believe that their approach could also be used to detect other environmental toxins, diagnose diseases and locate landmines.
+
+The study was published in Nature Chemical Biology.
+
+In June 2018, British engineers developed a low-cost, portable and user-friendly multi-sensing device for detecting contaminants in dirty water. 
+
+<center><img alt="" src="/assets/news_en/7.png" width="80%"></center>
+
+<center>Dr Baojun Wang testing the new smartphone device on drinking water in Bangladesh</center>

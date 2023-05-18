@@ -8,6 +8,11 @@
     />
     <script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    <!-- 主页换标题 -->
+    {% assign check = page.url | split:'/' | last %}
+    {% if check contains 'cn' %}
+      <title>浙江大学生物线路设计实验室</title>
+    {% endif %}
     {% unless site.hide_share_buttons %}
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
     {% endunless %}
@@ -19,4 +24,5 @@
       {%- include google-analytics.html -%}
     {%- endif -%}
     {%- include head-scripts.html -%}
+    
 </head>

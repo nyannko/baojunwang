@@ -114,7 +114,7 @@ show_sidebar: false
                     <strong>Ge Gao</strong><br>
                     Postdoc<br>
                     <br>
-                    Synthetic biology gene circuit design, tumor bacterial therapy
+                    Synthetic biological circuit design, tumor bacterial therapy
                     <br>
                     <br>
                     <br>
@@ -161,7 +161,7 @@ show_sidebar: false
                     Postdoc<br>
                     <br>
                     <br>
-                    Synthetic biology generic circuit construction
+                    Genetic circuit design
                     <br>
                     <br>
                     <br>
@@ -174,7 +174,7 @@ show_sidebar: false
                     <strong>Chenfan Zhou</strong><br>
                     Postdoc<br>
                     <br>
-                    Gene-aware circuit design and nucleic acid delivery
+                    Genetic circuit design and delivery in mammalianc cells
                     <br>
                     <br>
                     <br>
@@ -190,7 +190,7 @@ show_sidebar: false
                     <strong>Xiyan Wang</strong><br>
                     Postdoc<br>
                     <br>
-                    Genetic circuit design and enablement tool development CRISPRa
+                    Synthetic biology enabling tools & gene circuit design
                     <br>
                     <br>
                     <br>
@@ -295,7 +295,7 @@ show_sidebar: false
                     <strong>Qian Li</strong><br>
                     Bioinformatics Engineer<br>
                     <br>
-                    Bioinformatics development for biocomputational generic circuit design
+                    Bioinformatics and computational biology for genetic circuit design
                     <br>
                     <br>
                     <br>
@@ -312,12 +312,29 @@ show_sidebar: false
                     <strong>Haifeng Yang</strong><br>
                     Biological Engineer<br>
                     <br>
-                    Genetic circuit development, logic gate development
+                    Genetic logic circuit design
                     <br>
                     <br>
                     <br>
                     Email: hfyang@zhejianglab.com
                 </td>
+                <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>Gaomei Shi</strong><br>
+                    Software Engineer<br>
+                    <br>
+                    Genetic circuit design automation software platform development
+                    <br>
+                    <br>
+                    <br>
+                    Email: g.shi@zhejianglab.com
+                </td>
+
+            </tr>
+
+            <tr>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>
@@ -330,24 +347,6 @@ show_sidebar: false
                     <br>
                     <br>
                     Email: fjialing@zju.edu.cn
-                </td>
-
-            </tr>
-
-            <tr>
-
-                <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>Gaomei Shi</strong><br>
-                    Software Engineer<br>
-                    <br>
-                    Genetic circuit automation design software platform development
-                    <br>
-                    <br>
-                    <br>
-                    Email: g.shi@zhejianglab.com
                 </td>
             </tr>
 
@@ -396,6 +395,19 @@ show_sidebar: false
 
             <tr>
                 <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>Guo Jiang</strong><br>
+                    PhD Student<br>
+                    <br>
+                    Eukaryotic RNA sensing and diagnostics
+                    <br>
+                    <br>
+                    <br>
+                    Email: jiangg@zju.edu.cn
+                </td>
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
@@ -409,6 +421,11 @@ show_sidebar: false
                     <br>
                     Email: fengleilei@zju.edu.cn
                 </td>
+
+            </tr>
+
+                        <tr>
+
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
@@ -421,22 +438,6 @@ show_sidebar: false
                     <br>
                     <br>
                     Email: 
-                </td>
-            </tr>
-
-                        <tr>
-                <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>Guo Jiang</strong><br>
-                    PhD Student<br>
-                    <br>
-                    Eukaryotic RNA sensing and diagnosis research
-                    <br>
-                    <br>
-                    <br>
-                    Email: jiangg@zju.edu.cn
                 </td>
                 <!-- <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>

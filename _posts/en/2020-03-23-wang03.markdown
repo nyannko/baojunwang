@@ -1,0 +1,55 @@
+---
+layout: post
+title: Harnessing nature’s protein glue could aid medicine and industry
+description: How to create a docs site for your project with Bulma Clean Theme 
+date: 2020-03-23 09:00:07
+hero_image: '/assets/news_en/4.png'
+image: '/assets/news_en/4.png'
+hero_darken: true
+canonical_url: https://www.csrhymes.com/2020/05/08/creating-a-docs-site-with-bulma-clean-theme.html
+---
+
+#### A new protein production technique could speed up vaccine development and lead to high-tech synthetic fabrics and materials.
+
+The technique involves the use of proteins, known as split inteins, that act like ‘molecular velcro’ and could provide a faster, cheaper and easier method of building large ‘designer’ proteins with many applications.
+
+The advance could speed the early stages of vaccine development, which often involves building and testing many proteins to investigate those most effective at boosting the immune system.
+
+## Mimic Nature's Proteins
+
+Researchers could also use the technique to design and mass produce proteins found in nature, that have useful properties but are currently difficult or expensive to manufacture. 
+
+For instance, strong yet lightweight fabrics could be modelled on spider silk proteins. Glue for underwater repairs in the shipping industry could be based on the sticky fibres mussels use to attach themselves to the surface of rocks.
+
+## Protein Library
+
+The team at the University of Edinburgh have created a library of 15 intein proteins that act as glues to seamlessly join protein strands together end to end.
+
+The process, known as protein splicing, allows very large proteins to be assembled from smaller units without disrupting the protein’s function.
+
+Inteins are common in many forms of life and form part of the protein production machinery found in cells. They normally fine tune and modify proteins after they have been built.
+
+The team developed a high throughput screening platform, to assess the activity of inteins and identify those that could be used simultaneously to fuse many smaller protein strands, both inside and outside of cells.
+
+After inteins have built a permanent bridge between small protein sub-units they seamlessly cut themselves out leaving no trace of their presence.
+
+## One-Pot Reaction
+
+Conventional methods of building large proteins are challenging and often result in poor protein quality and low yields.
+
+Current techniques involve encoding the instructions to make proteins into the DNA of living cells, such as bacteria. But the complex instructions to make larger proteins often overloads cells.
+
+The technique would allow scientists to split the instructions to make a protein across different cells. Once the protein sub-units have been produced the cells can be broken up, and the inteins present will assemble them into the larger protein in a one-pot reaction.
+
+## Genetic Controls and Switches
+
+Harnessing the power of nature is also the basis of the rapidly expanding field of synthetic biology which merges biology and engineering principles for useful industrial and medical purposes.
+
+Inteins could be used to build tailored regulatory proteins that provide sophisticated genetic controls and switches that would allow living systems to be reprogrammed or new biological systems to be built.
+
+The study, published in Nature Communications, was funded by a UKRI Future Leaders Fellowship, awarded to Dr Wang, the Biotechnology and Biological Sciences Research Council and Leverhulme Trust.
+
+
+> "Inteins are remarkable tools from nature to achieve seamless protein ligation. In this study, we developed to date the largest library of non cross-reacting split inteins, and demonstrated their vast potential to be scalable tools for gene circuit design, protein engineering and biomaterial manufacturing."  
+Dr Baojun Wang  
+School of Biological Sciences, University of Edinburgh

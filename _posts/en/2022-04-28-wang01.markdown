@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Repurposing RNAs to be CRISPR RNAs: Starting with Engineering"
+date:   2022-04-28 10:50:07
+categories: development
+description: "We investigated converting various RNA molecules, such as sRNA/mRNA/vRNA, into CRISPR RNAs for controlling gene expression or performing RNA detection. Our study shows that the intriguing mechanisms uncovered by synthetic biology study could coincide with discoveries from nature."
+image: '/assets/news_en/1.png'
+hero_image: '/assets/news_en/1.png'
+published: true
+canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
+---
+
+'This may be the final piece of the puzzle of the programmability of the CRISPR/Cas9 system.', when I started writing my PhD thesis, I told my supervisor. However, we didn't expect that we are not alone, which we only realized when noncanonical crRNAs from Campylobacter jejuni and its related application were reported in Science one year later [1].
+
+While we released a preprint manuscript [2] on our findings shortly, it was late in a certain sense. 'Same concept from Jiao et al. Science (Apr 2021). Powerful nevertheless.', one peer who is engaged in related research commented on Twitter. At that point, my mood was a little complicated. I'm happy to see the outstanding achievement from our peers, giving the mutual validation of discoveries from nature and SynBio. But a bit disappointed when people believe that our research is based on another similar work.
+
+At the end of 2021, I finished my postdoc work and relocated to Cambridge to join my family. When I was invited to write a blog about the story behind this article, my mind went back to Edinburgh to recall how we started this study.
+
+The exploration of the programmability of crRNA-tracrRNA paring was based on engineering needs. When I arrived in Edinburgh in 2016, my mission was to develop a programmable cellular computing system. The programmable AND gate is a tempting goal. Particularly, the CRISPR/Cas9 system is initially a dual-RNA-guided system, and it's not hard to imagine that we can make many orthogonal AND gate devices if the crRNA-tracrRNA pairing is programmable.
+
+The idea above is not a castle in the sky. In the same year I started my PhD study, Ma et al. published an exciting paper about using sgRNAs to recruit fluorescent proteins for genomic loci labeling [3]. Their sgRNA optimization made a deep impression: the U-A pair was mutated to G-C in the sgRNA tetraloop stem to enhance the CRISPR function (also often seen in the stgRNA to create a PAM for CRISPR recording [4]). This design gave me the concept that the wild-type sequence of the crRNA-tracrRNA pairing is not strictly conserved and can be replaced and improved. I also adopted this strategy to design our CRISPRa system [5].
+
+Additionally, I found that the programmability of crRNA and tracrRNA pairing regions has been indirectly supported by two previous research. In 2012, Jinek et al. showed that the Streptococcus pyogenes Cas9 is functional when bound to tracrRNA:crRNA of Listeria innocua, although the RNA pairing sequence differences are not within the core region [6]. In 2014, Briner et al. reported that replacing RNA base pairs inside the sgRNA tetraloop stem does not destroy the CRISPR function [7]. During our research, such clues continued to emerge. In 2019, Reis et al. reported nonrepetitive extra-long sgRNA arrays, which were obtained by large-scale reprogramming of sgRNA scaffold including the tetraloop stem [8]. In 2020, Harrington et al. reported scoutRNA and Cas12d. For the comparison of Cas12d to Cas9, compensatory mutations were made in the pairing regions of crRNA and tracrRNA [9].
+
+For exploring the idea of reprogrammed crRNA-tracrRNA pairing, we first created a dual-RNA mediated CRISPRa system, leading to surprising results. SpCas9 is largely tolerant of sequence changes within the crRNA-tracrRNA pairings.
+
+We immediately realized that any RNAs may become crRNA. Since the crRNA mainly consists of a spacer region paired with the target DNA and a repeat region paired with the tracrRNA. If these two parts are both variable, then a fixed conserved sequence is not required for a crRNA.
+
+We randomly selected and tested several sites in the mRNA of RFP as the targets of tracrRNA to activate a reporter circuit with GFP as the output. When the green fluorescence signal induced by RFP mRNA showed an amazing linear relationship with the red fluorescence, 'I can finally be awarded my PhD.', I told my lab colleagues.
+
+<center><img alt="" src="/assets/news_en/1.png" width="80%"></center>
+
+Over the next year, we conducted several experiments to study the sequence preference issue. Primarily, we tried to understand how to predict what sequence on a piece of RNA would be the most functional tracrRNA target. However, we found it isn't easy to find a rule. Complete mRNAs and the mRNA fragments behaved differently for the same target sequence, indicating sequence context can strongly influence the availability of a target site. When this factor was incorporated into the sequence preference on dual-RNA paring of Cas9, it was hard to provide a simple strategy for the target site selection.
+
+We planned to demonstrate the enormous potential of this discovery through several independent applications, of which I was most tempted is to hijack endogenous RNA for CRISPR gene regulation. For many years, my coveted synthetic biology tool has been a programmable 'genetic network connector' with a simple elegant mechanism. By simply changing the tracrRNA sequence, endogenous transcripts can be linked to the specified artificial gene circuit and can be further linked to the behavior of other genes in the genome. The reprogramming of genetic networks will then become easy and efficient to achieve. Finally, we make it happen. By hijacking endogenous small RNAs and mRNAs, we monitored how the bacterial genome responds to arsenic, lead, zinc, hydrogen peroxide, and other substances in the environment.
+
+<center><img alt="" src="/assets/news_en/2.png" width="80%"></center>
+
+In another separate application, we developed an in vitro RNA sensor. Initially, this sub-project aimed to design an RNA sensor array with reprogrammed tracrRNAs for multi-channel bacterial 16S rRNA detection. However, the COVID-19 outbreak prompted us to switch to creating an in vitro sensor for viral RNA. This device was first named CRISPR-operated nuclear acid amputation notification (CONAN), as a tribute to the pioneers of CRISPR RNA sensors. However, when we found that CONAN was already being used, we finally named it an Atypical gRNA-activated Transcription Halting Alarm (AGATHA) system, as a tribute to another of my favorite detective literature masters, Agatha Christie.
+
+All in all, I'm glad that this work has finally been officially published. Thanks to all co-authors for their contributions and to friends for their support. I hope this research will inspire more great ideas for programming biology.
+
+Our paper:
+
+Liu, Y., Pinto, F., Wan, X. et al. Reprogrammed tracrRNAs enable repurposing of RNAs as crRNAs and sequence-specific RNA biosensors. Nat Commun 13, 1937 (2022). https://doi.org/10.1038/s41467-022-29604-x
+
+References
+
+1. Jiao, C. et al. Noncanonical crRNAs derived from host transcripts enable multiplexable RNA detection by Cas9. Science 372, 941-948, (2021).
+
+2. Liu, Y. et al. Reprogrammed tracrRNAs enable repurposing RNAs as crRNAs and detecting RNAs. bioRxiv, (2021).
+
+3. Ma, H. H. et al. Multiplexed labeling of genomic loci with dCas9 and engineered sgRNAs using CRISPRainbow. Nat Biotechnol 34, 528-530, (2016).
+
+4. Perli, S. D., Cui, C. H. & Lu, T. K. Continuous genetic recording with self-targeting CRISPR-Cas in human cells. Science 353, (2016).
+
+5. Liu, Y., Wan, X. Y. & Wang, B. J. Engineered CRISPRa enables programmable eukaryote-like gene activation in bacteria. Nat commun 10, (2019).
+
+6. Jinek, M. et al. A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity. Science 337, 816-821, (2012).
+
+7. Briner, A. E. et al. Guide RNA Functional Modules Direct Cas9 Activity and Orthogonality. Mol Cell 56, 333-339, (2014).
+
+8. Reis, A. C. et al. Simultaneous repression of multiple bacterial genes using nonrepetitive extra-long sgRNA arrays. Nat Biotechnol 37, 1294–1301, (2019).
+
+9. Harrington, L. B. et al. A scoutRNA Is Required for Some Type V CRISPR-Cas Systems. Mol Cell 79, 416-424, (2020).

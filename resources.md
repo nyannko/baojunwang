@@ -6,6 +6,8 @@ menubar: false
 hero_image: /assets/dnabackground.jpg
 show_sidebar: false
 ---
+
+
 ## GENETIC PARTS
 
 [**BioPartsDB**]( http://biopartsdb.bio.ed.ac.uk/)<br>
@@ -92,18 +94,18 @@ Public registry of standard biological parts; mostly for iGEM
 [**FCSExtract Utility**](http://research.stowers-institute.org/efg/ScientificSoftware/Utility/FCSExtract/index.htm)<br>Converts \*.\*fcs files to \*.\*csv files  
 
 ## INFORMATION PORTALS
-[**E. coli Statistics**](http://redpoll.pharmacy.ualberta.ca/CCDB/cgi-bin/STAT_NEW.cgi)<br>Useful informatin on E. coli
+[**E. coli Statistics**](http://redpoll.pharmacy.ualberta.ca/CCDB/cgi-bin/STAT_NEW.cgi)<br>Useful informatin on *E. coli*
 
-[**E. coli genotypes in OWW**](http://openwetware.org/wiki/E._coli_genotypes)<br>Best collection of E. coli genotypes and their meanings.
+[**E. coli genotypes in OWW**](http://openwetware.org/wiki/E._coli_genotypes)<br>Best collection of *E. coli* genotypes and their meanings.
 
 [**EcoCyc E. coli Database**](https://ecocyc.org/)<br>
-Encyclopedia of E. coli Genes and Metabolism.
+Encyclopedia of *E. coli* Genes and Metabolism.
 
 [**BioNumbers**](http://bionumbers.hms.harvard.edu/)<br>Database of useful biological numbers.
 
 [**Plasmid Databases**](http://www.science.co.il/Biomedical/Plasmid-Databases.asp)<br>Links to various plasmid sequence resources
 
-[**EcoliWiki**](http://ecoliwiki.net/colipedia/index.php/Welcome_to_EcoliWiki)<br>Portal for E. coli research.
+[**EcoliWiki**](http://ecoliwiki.net/colipedia/index.php/Welcome_to_EcoliWiki)<br>Portal for *E. coli* research.
 
 [**Cold Springs Harbor Protocols**](http://cshprotocols.cshlp.org/)<br>Journal of laboratory protocols  
 
@@ -131,9 +133,10 @@ Encyclopedia of E. coli Genes and Metabolism.
 
 [**Jalview**](www.jalview.org)<br> One of the most widely used applications for visualising and analysing DNA, RNA and protein multiple sequence alignments. It is designed to enable anyone working with protein, RNA and DNA sequences to investigate their structure, function and evolution, and create high-quality figures for publication. Open source, developed by Dundee Univ.  
 
-## Other Useful Resources & Tools
+## Other Useful Resources
 
 [**Global Core Biodata Resources**](https://globalbiodata.org/scientific-activities/global-core-biodata-resources/)
+
 
 ## Journal Sites
 

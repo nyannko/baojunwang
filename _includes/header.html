@@ -75,10 +75,18 @@
                     {% assign cnurl=page.url | prepend:'/cn' %}
                 {% endif %}
                 <div class="navbar-item">
-                <span><a href="{{enurl}}">English</a></span>
+                <span><a class="lang" href="{{enurl}}">English</a></span>
                 &nbsp;
-                <span><a href="{{cnurl}}">中文</a></span>
+                <span><a class="lang" href="{{cnurl}}">中文</a></span>
                 </div>
+                <style>
+                    .lang {
+                        color: #ffffff;
+                        } 
+                    .lang:hover {
+                        color: #ffffff;
+                        } 
+                </style>
 
 
         </div>

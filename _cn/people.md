@@ -336,22 +336,6 @@ hero_image: /assets/dnabackground.jpg
                     Email: hfyang@zhejianglab.com
                 </td>
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>冯佳玲</strong><br>
-                    科研助理<br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    Email: fjialing@zju.edu.cn
-                </td>
-            </tr>
-
-            <tr>
-                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
@@ -364,6 +348,22 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                     Email: g.shi@zhejianglab.com
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>冯佳玲</strong><br>
+                    科研助理<br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    Email: fjialing@zju.edu.cn
                 </td>
                 <!-- <td width="20%">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
@@ -409,6 +409,23 @@ hero_image: /assets/dnabackground.jpg
                     Email: Fanyi-2021@outlook.com
                 </td>
                 <td width="20%">
+                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;">
+                    <strong>李阳</strong><br>
+                    硕士研究生<br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    Email:
+                </td>
+            </tr>
+
+
+            <tr>
+                <td width="20%">
                     <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
@@ -421,23 +438,6 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                     Email: jiangg@zju.edu.cn
-                </td>
-            </tr>
-
-
-            <tr>
-                <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>胡敏琦</strong><br>
-                    博士研究生 <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    Email:
                 </td>
                 <td width="20%">
                     <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
@@ -460,8 +460,8 @@ hero_image: /assets/dnabackground.jpg
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
-                    <strong>李阳</strong><br>
-                    硕士研究生<br>
+                    <strong>胡敏琦</strong><br>
+                    博士研究生 <br>
                     <br>
                     <br>
                     <br>
@@ -469,6 +469,7 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     Email:
                 </td>
+
                 <!-- <td width="20%">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
