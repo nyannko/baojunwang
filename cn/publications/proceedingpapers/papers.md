@@ -2,7 +2,7 @@
 layout: page
 title: 同行评议的会议论文
 menubar: publication_year_menu_zh
-hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
+hero_image: /assets/dnabackground.jpg
 show_sidebar: false
 toc: true
 ---

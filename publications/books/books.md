@@ -4,7 +4,7 @@ title: Book Chapters & Monographs
 # subtitle: Getting Started
 menubar: publication_year_menu
 show_sidebar: false
-hero_image: https://www.restoringautoimmunehealth.com/wp-content/uploads/2019/01/DNA-image-1080x640.jpg
+hero_image: /assets/dnabackground.jpg
 toc: true
 ---
 
