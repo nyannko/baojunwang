@@ -18,7 +18,7 @@ show_sidebar: false
                     <img src="{{ site.baseurl }}/assets/wangbaojun.png" width="150" height="200" alt=""><br>
                 </td>
                 <td>
-                    <a href="./baojunwang"><strong>Baojun Wang PhD FRSC</strong></a><br>
+                    <strong>Baojun Wang PhD FRSC</strong><br>
 
                     Prof. Baojun Wang is Qiushi Distinguished Professor and Director of the ZJU-HIC Institute of Synthetic Biology at Zhejiang University . He leads the Synthetic Biological Circuit Engineering Lab in the College of Chemical and Biological Engineering of Zhejiang University. He received a PhD in Bioengineering from Imperial College London (2011), and was Reader in Biological Circuit Engineering at the University of Edinburgh before his present appointment, and is an elected Fellow of the Royal Society of Chemistry (2020). His research interests include developing new enabling tools for synthetic biology, and engineering novel customized genetic circuits for the sensing and information processing of multiple cellular and environmental signals with applications in diverse areas, for example, biosensing, biocomputing, biomanufacturing and biotherapies. Prof. Wang has received several prestigious awards including the UK Research and Innovation Future Leaders Fellowship, BBSRC New Investigator Award, Gates Foundation Grand Challenges Explorations Award, Changjiang Scholar Chair Professorship by the Ministry of Education of China and the Kunpeng Action Program Award of Zhejiang Province. His research has also been funded by leading industry partners including Microsoft Research and Huawei Technologies, as well as DSTL and ONRG.
 
@@ -50,9 +50,10 @@ show_sidebar: false
                     Research Investigator 
                     <br>
                     <br>
-                    Fundamental and Applied Research on Synthetic Gene Circuits<br>
-                    Using synthetic gene circuits as a tool to explore the fundamental principles of life sciences and
-                    the development of novel biopharmaceuticals<br>
+                     Foundational and Applied Research of Synthetic Gene Circuits<br>
+                    Using synthetic gene circuits as a tool to study the principles of biology and to develop novel biomedicine
+                    <br>
+                    <br>
                     <br>
                     Email: nanzhou@zju.edu.cn
                 </td>

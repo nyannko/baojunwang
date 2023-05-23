@@ -9,7 +9,7 @@ show_sidebar: true
 ---
 
 ##### 生物线路设计实验室聚焦合成生物学领域核心科学问题和前沿技术挑战，主要在以下三个方向展开研究：
-<img alt="" src="../assets/b1.png" width="70%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="../assets/b1.png" width="70%">
 <!-- <img alt="" src="../assets/b1.png" width="100%"> -->
 <br>
 

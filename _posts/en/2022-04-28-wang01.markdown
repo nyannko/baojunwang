@@ -6,6 +6,7 @@ categories: development
 description: "We investigated converting various RNA molecules, such as sRNA/mRNA/vRNA, into CRISPR RNAs for controlling gene expression or performing RNA detection. Our study shows that the intriguing mechanisms uncovered by synthetic biology study could coincide with discoveries from nature."
 image: '/assets/news_en/1.png'
 hero_image: '/assets/news_en/1.png'
+hero_darken: true
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---

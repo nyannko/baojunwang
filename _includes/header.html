@@ -74,20 +74,23 @@
                     {% assign enurl=page.url | prepend: site.baseurl %}
                     {% assign cnurl=page.url | prepend:'/cn' %}
                 {% endif %}
-                <div class="navbar-item">
-                <span><a class="lang" href="{{enurl}}">English</a></span>
+                <!-- <div class="navbar-item">
+                <span><a class="navbar-item " href="{{enurl}}">English</a></span>
                 &nbsp;
-                <span><a class="lang" href="{{cnurl}}">中文</a></span>
-                </div>
+                <span><a class="navbar-item " href="{{cnurl}}">中文</a></span> -->
+                <!-- </div>
                 <style>
                     .lang {
-                        color: #ffffff;
+                        color: #000000;
                         } 
                     .lang:hover {
-                        color: #ffffff;
+                        color: #000000;
                         } 
-                </style>
-
+                </style> -->
+                <div class="navbar-end">
+                <a class="navbar-item" href="{{enurl}}">English</a>
+                <a class="navbar-item" href="{{cnurl}}">中文</a>
+                </div>
 
         </div>
     </div>

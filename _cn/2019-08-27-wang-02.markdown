@@ -7,7 +7,8 @@ date: 2019-08-27 07:19:07
 image: '/assets/news/8.png'
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
-hero_image: /assets/dnabackground.jpg
+hero_image: '/assets/news/8.png'
+hero_darken: true
 show_sidebar: true
 ---
 

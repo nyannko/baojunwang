@@ -1,0 +1,48 @@
+---
+layout: post
+title: Hi-tech bacteria gene tool could prove productive, study finds
+date:   2019-08-26 20:00:07
+categories: development
+description: Researchers from the University of Edinburgh have developed a biosensor that attaches to a smartphone and uses bacteria to detect unsafe arsenic levels – a device that could help millions of people avoid drinking water contaminated by arsenic.
+image: "/assets/news_en/8.png"
+hero_image: "/assets/news_en/8.png"
+hero_darken: true
+published: true
+canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
+---
+
+Bacteria could be used to produce large quantities of medicines and fuels using a new gene programming technique, research suggests.
+
+The powerful method could enable bacteria to be used as cheap and environmentally friendly living factories that make a range of useful products.
+
+It will allow researchers to target genes that are normally difficult to activate, including those involved in infections, or with industrial applications.
+
+The advance could also make it easier to study how harmful strains of bacteria thrive and cause infections, researchers say.
+
+Scientists at the University of Edinburgh invented the new technique—known as programmable gene activation—which enables them to control a wider range of genes and increase product yields.
+
+Until now, a lack of techniques that work well in bacteria has hindered research and limited their ability to be used to make useful products.
+
+Using the new method, levels of gene activation are around 100 times higher than existing techniques, the team says. Current methods also mainly target basic genes involved in bacterial survival.
+
+The team's technique is adapted from an approach that uses scissor-like molecules—called CRISPR molecules—to make precise changes to the genetic code. They adapted the technology by attaching small guide molecules and proteins that target and switch on genes.
+
+<center><img alt="" src="/assets/news_en/9.png" width="80%"></center>
+<center>Figure 1. Novel 'eukaryotic-like' CRISPR gene activation regulation in bacteria</center>
+<br>
+Their technique was developed for a widely studied species called Escherichia coli and a soil bacterium with potential industry applications. The method is also likely to work in many other species of bacteria, researchers say.
+
+The team also developed a reusable scanning platform that makes it faster and cheaper to find the best ways of activating multiple genes in a pattern that produces high yields of useful substances.
+
+<center><img alt="" src="/assets/news_en/8.png" width="80%"></center>
+<center>Figure 2. Screening platform for multigene genetic circuit expression profiling based on novel CRISPRa</center>
+<br>
+The study, published in the journal Nature Communications, was funded by the Biotechnology and Biological Sciences Research Council, UK Research and Innovation, Leverhulme Trust and Wellcome.
+
+Dr. Baojun Wang, of the University of Edinburgh's School of Biological Sciences, who led the study, said: "This new method has the potential to be a powerful tool for programing bacteria, with diverse applications for research and industry. It could help save a lot of time and money."
+
+##### More information
+
+Yang Liu et al. Engineered CRISPRa enables programmable eukaryote-like gene activation in bacteria, Nature Communications (2019). [DOI: 10.1038/s41467-019-11479-0](http://dx.doi.org/10.1038/s41467-019-11479-0)
+
+[Journal information: Nature Communications](https://phys.org/journals/nature-communications/)
