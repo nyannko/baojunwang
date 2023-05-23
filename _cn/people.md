@@ -258,10 +258,10 @@ hero_image: /assets/dnabackground.jpg
 
             <tr>
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/chenyixuan.png" width="150" height="200" alt=""><br>
+                    <img src="{{ site.baseurl }}/assets/chenxuanyi.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
-                    <strong>陈亦宣</strong><br>
+                    <strong>陈宣亦</strong><br>
                     博士后<br>
                     <br>
                     <br>

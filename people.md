@@ -244,10 +244,10 @@ show_sidebar: false
 
             <tr>
                 <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/chenyixuan.png" width="150" height="200" alt=""><br>
+                    <img src="{{ site.baseurl }}/assets/chenxuanyi.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;">
-                    <strong>Yixuan Chen</strong><br>
+                    <strong>Xuanyi Chen</strong><br>
                     Postdoc<br>
                     <br>
                     <br>
