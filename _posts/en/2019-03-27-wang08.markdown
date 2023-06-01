@@ -1,0 +1,86 @@
+---
+layout: post
+title:  Scientists create computing building blocks from bacteria and DNA
+date:   2011-10-18 20:00:07
+categories: development
+description: Researchers from the University of Edinburgh have developed a biosensor that attaches to a smartphone and uses bacteria to detect unsafe arsenic levels – a device that could help millions of people avoid drinking water contaminated by arsenic.
+hero_image: '/assets/news_en/12.png'
+image: '/assets/news_en/12.png'
+hero_darken: true
+published: true
+canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
+---
+
+Research could lead to new devices that could sense and neutralise toxic outbreaks and disarm deadly cancers in the body - News Release
+
+mperial College London News Release  
+Under Strict Embargo  
+Tuesday 18 October 2011  
+1600 London time / 1100 US Eastern Time  
+
+Scientists have successfully demonstrated that they can build some of the basic components for digital devices out of bacteria and DNA, which could pave the way for a new generation of biological computing devices, in research published today in the journal Nature Communications.
+
+The researchers, from Imperial College London, have demonstrated that they can build logic gates, which are used for processing information in devices such as computers and microprocessors, out of harmless gut bacteria and DNA. These are the most advanced biological logic gates ever created by scientists.
+
+Professor Richard Kitney, co-author of the paper from the Centre for Synthetic Biology and Innovation and the Department of Bioengineering at Imperial College London, says:
+
+“Logic gates are the fundamental building blocks in silicon circuitry that our entire digital age is based on. Without them, we could not process digital information. Now that we have demonstrated that we can replicate these parts using bacteria and DNA, we hope that our work could lead to a new generation of biological processors, whose applications in information processing could be as important as their electronic equivalents.”
+
+Although still a long way off, the team suggest that these biological logic gates could one day form the building blocks in microscopic biological computers. Devices may include sensors that swim inside arteries, detecting the build up of harmful plaque and rapidly delivering medications to the affected zone. Other applications may include sensors that detect and destroy cancer cells inside the body and pollution monitors that can be deployed in the environment, detecting and neutralising dangerous toxins such as arsenic.
+
+<center><img alt="" src="/assets/news_en/11.png" width="80%"></center>
+
+<center>Professor Kitney's and Professor Buck's teams have created biological logic gates from bacteria and DNA</center>
+<br>
+
+The team say that the advantage of their biological logic gates over previous attempts is that they behave like their electronic counterparts. Previous research only proved that biological gates could be made. The new biological gates are also modular, which means that they can be fitted together to make different types of logic gates, paving the way for more complex biological processors to be built in the future.
+
+In the new study, the researchers demonstrated how these biological logic gates worked. In one experiment, they showed how biological logic gates can replicate the way that electronic logic gates process information by either switching “on” or “off”.
+
+The scientists constructed a type of logic gate called an “AND Gate” from bacteria called Escherichia coli (E.Coli), which is normally found in the lower intestine. The team altered the E.Coli with modified DNA, which reprogrammed it to perform the same switching on and off process as its electronic equivalent when stimulated by chemicals.
+
+The researchers were also able to demonstrate that the biological logic gates could be connected together to form more complex components in a similar way that electronic components are made. In another experiment, the researchers created a “NOT gate” and combined it with the AND gate to produce the more complex “NAND gate”.
+
+The next stage of the research will see the team trying to develop more complex circuitry that comprises multiple logic gates. One of challenges faced by the team is finding a way to link multiple biological logic gates together similar to the way in which electronic logic gates are linked together to enable complex processing to be carried out.
+
+Professor Martin Buck, co-author of the paper from the Department of Life Sciences at Imperial College London, adds: "We believe that the next stage of our research could lead to a totally new type of circuitry for processing information. In the future, we may see complex biological circuitry processing information using chemicals, much in the same way that our body uses them to process and store information."
+
+Professor Paul Freemont, Co-director for the Centre for Synthetic Biology and Innovation at Imperial College London, adds: “Even though this research is still in its early stages, it is already showing how collaborations between disciplines can bear fruit. I look forward to the next stage of this research, which could take information processing to a whole new ‘biological’ level.”
+
+This research was part funded by the Engineering and Physcial Sciences Research Council.
+
+This story was amended on Wednesday 19 October 2011 to include comments from Professors Martin Buck and Paul Freemont.
+
+For further information please contact:
+
+Colin Smith  
+Senior Research Media Officer  
+Imperial College London  
+Email: cd.smith@imperial.ac.uk  
+Tel: +44(0)20 7594 6712  
+Out of hours duty press officer: +44(0)7803 886 248  
+
+Notes to Editors:
+
+1."Engineering modular orthogonal genetic logic gates for robust digital-like synthetic biology", 18 October 2011, Nature Communications journal.
+
+The full listing of authors and their affiliations for this paper is as follows:
+
+Baojan Wang (1), Richard Kitney (1), Nicolas Joly (2) (*) and Martin Buck (2)
+
+(1) Centre for Synthetic Biology and Innovation and Department of Bioengineering, Imperial College, London SW7 2AZ, UK
+(2) Division of Biology, Faculty of Natural Sciences, Imperial College, London SW7 2AZ, UK
+(*)Present address: Institute Jacques Monod, CNRS UMR 7592 , Universite Paris Diderot, Paris 75205, France.
+
+2.About Imperial College London
+
+Consistently rated amongst the world's best universities, Imperial College London is a science-based institution with a reputation for excellence in teaching and research that attracts 14,000 students and 6,000 staff of the highest international quality. Innovative research at the College explores the interface between science, medicine, engineering and business, delivering practical solutions that improve quality of life and the environment - underpinned by a dynamic enterprise culture.
+
+Since its foundation in 1907, Imperial's contributions to society have included the discovery of penicillin, the development of holography and the foundations of fibre optics. This commitment to the application of research for the benefit of all continues today, with current focuses including interdisciplinary collaboratio ns to improve glob al health, tackle climate change, develop sustainable sources of energy and address security challenges .
+
+In 2007, Imperi al College London and Imperial College Healthcare NHS Trust formed the UK's first Academic Health Science Centre. This unique partnership aims to improve the quality of life of patients and populations by taking new discoveries and translating them into new therapies as quickly as possible. Website: www.imperial.ac.uk
+
+
+Article text (excluding photos or graphics) available under an Attribution-NonCommercial-ShareAlike Creative Commons license.
+
+Photos and graphics subject to third party copyright used with permission or © Imperial College London.

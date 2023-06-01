@@ -1,0 +1,44 @@
+---
+layout: post
+title:  First ever biological amplifier created by Imperial scientists
+date:   2014-07-24 20:00:07
+categories: development
+image: "/assets/news_en/10.png"
+hero_image: '/assets/news_en/10.png'
+hero_darken: true
+published: true
+---
+
+<center><img alt="" src="/assets/news_en/10.png" width="80%"></center>
+
+<center>Scientists have made an amplifier to boost biological signals, using DNA and harmless E. coli bacteria.</center>
+<br>
+
+Conventional amplifiers, such as those that are combined with loudspeakers to boost the volume of electric guitars and other instruments, are used to increase the amplitude of electrical signals.
+
+Now scientists from Imperial College London have used the same engineering principles to create a biological amplifier, by re-coding the DNA in the harmless gut bacteria Escherichia coli bacteria (E. coli).
+
+
+> The bio-amplifiers in the sensors enable us to detect even minute amounts of dangerous toxins, which would be of huge benefit to water quality controllers  
+– Dr Baojun Wang
+
+The team say this ‘bio-amplifier’ might be used in microscopic cellular sensors , which scientists have already developed, that could detect minute traces of chemicals and toxins, to make them more sensitive. Ultimately, this could lead to new types of sensors to detect harmful toxins or diseases in our bodies and in the environment before they do any damage.
+
+In laboratory tests, the team’s bio-amplifier was able to significantly boost the detection limit and sensitivity of a sensor designed to detect the toxin arsenic. The device is also modular, which means that the devices can be easily introduced in different genetic networks, and can potentially be used to increase the sensitivity and accuracy of a broad range of other genetic sensors to detect pathogens and toxins.
+
+
+The [results](http://nar.oxfordjournals.org/content/early/2014/07/15/nar.gku593) of the study are published in the journal [Nucleic Acids Research](https://academic.oup.com/nar). 
+
+Dr Baojun Wang, who is now based at the [University of Edinburgh](https://www.ed.ac.uk/), but carried out the study while in the Division of Cell and Molecular Biology at Imperial, said: “One potential use of this technology would be to deploy microscopic sensors equipped with our bio-amplifier component into a water network. Swarms of the sensors could then detect harmful or dangerous toxins that might be hazardous to our health. The bio-amplifiers in the sensors enable us to detect even minute amounts of dangerous toxins, which would be of huge benefit to water quality controllers.”
+
+Scientists have previously known that cells have their own inbuilt amplifiers to first detect and then boost biological signals, which are crucial for survival and reproduction. They have been attempting to understand how they work in more detail so as to remodel them for other applications. However the challenge for scientists has been engineering a device that can predictably amplify signals without distortion or feedback.
+
+In the [study](https://academic.oup.com/nar/article/42/14/9484/1274530), scientists first re-engineered genes involved in a special cell network called hrp (hypersensitive response and pathogenicity), which have naturally occurring amplifying proteins that function just like an electronic amplifier. They then cloned these amplifying components and inserted them into the harmless gut bacteria E. coli, fitting it with a synthetic arsenic input sensor and a fluorescent green protein gene as the output. 
+
+They also engineered the amplifier so that the input and output signals could be turned up and down just like an electronic amplifier, which is an important step forward for Dr Wang: “For me the most exciting part of our device is that it is tunable. We can predictably turn the amplifier up or down without distorting the signal, just like you turn a light dimmer switch up or down to make a room darker or brighter. This is really valuable because you can control the amplitude of an input signal to your desired level to match genes that have vastly different input-output strengths. This means that you could couple many modules together, using our tunable amplifiers, to build a large biological system with advanced function.”
+
+The next stage of research will see the scientists test out this tunable amplifier in different biotechnological applications. Dr Wang added: “We would now like further test our design to tune the expression of genes in different metabolic pathways, such as the anti-cancer drug taxol synthesis pathway, that respond to different environmental and chemical cues within and outside microbial cell factories. We are planning to examine whether our design can control and balance our cells’ metabolism as well as produce high yields of valuable chemicals.”
+
+This research was funded by the [Biotechnology and Biological Sciences Research Council (BBSRC)](http://www.bbsrc.ac.uk/home/home.aspx) and The [Royal Society](https://royalsociety.org/), and was carried out in collaboration with Professor Martin Buck and Professor Mauricio Barahona, both based at Imperial College London.
+
+REFERENCE: Baojun Wang, Mauricio Barahona and Martin Buck. ‘[Engineering modular and tunable genetic amplifiers for scaling transcriptional signals in cascaded gene networks](https://academic.oup.com/nar/article/42/14/9484/1274530)’. Nucleic Acids Research. July 2014. DOI: 10.1093/nar/gku593
