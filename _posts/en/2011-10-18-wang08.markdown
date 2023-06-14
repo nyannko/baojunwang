@@ -13,11 +13,6 @@ canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-w
 
 Research could lead to new devices that could sense and neutralise toxic outbreaks and disarm deadly cancers in the body - News Release
 
-mperial College London News Release  
-Under Strict Embargo  
-Tuesday 18 October 2011  
-1600 London time / 1100 US Eastern Time  
-
 Scientists have successfully demonstrated that they can build some of the basic components for digital devices out of bacteria and DNA, which could pave the way for a new generation of biological computing devices, in research published today in the journal Nature Communications.
 
 The researchers, from Imperial College London, have demonstrated that they can build logic gates, which are used for processing information in devices such as computers and microprocessors, out of harmless gut bacteria and DNA. These are the most advanced biological logic gates ever created by scientists.
@@ -49,17 +44,6 @@ Professor Paul Freemont, Co-director for the Centre for Synthetic Biology and In
 
 This research was part funded by the Engineering and Physcial Sciences Research Council.
 
-This story was amended on Wednesday 19 October 2011 to include comments from Professors Martin Buck and Paul Freemont.
-
-For further information please contact:
-
-Colin Smith  
-Senior Research Media Officer  
-Imperial College London  
-Email: cd.smith@imperial.ac.uk  
-Tel: +44(0)20 7594 6712  
-Out of hours duty press officer: +44(0)7803 886 248  
-
 Notes to Editors:
 
 1."Engineering modular orthogonal genetic logic gates for robust digital-like synthetic biology", 18 October 2011, Nature Communications journal.
@@ -71,16 +55,3 @@ Baojan Wang (1), Richard Kitney (1), Nicolas Joly (2) (*) and Martin Buck (2)
 (1) Centre for Synthetic Biology and Innovation and Department of Bioengineering, Imperial College, London SW7 2AZ, UK
 (2) Division of Biology, Faculty of Natural Sciences, Imperial College, London SW7 2AZ, UK
 (*)Present address: Institute Jacques Monod, CNRS UMR 7592 , Universite Paris Diderot, Paris 75205, France.
-
-2.About Imperial College London
-
-Consistently rated amongst the world's best universities, Imperial College London is a science-based institution with a reputation for excellence in teaching and research that attracts 14,000 students and 6,000 staff of the highest international quality. Innovative research at the College explores the interface between science, medicine, engineering and business, delivering practical solutions that improve quality of life and the environment - underpinned by a dynamic enterprise culture.
-
-Since its foundation in 1907, Imperial's contributions to society have included the discovery of penicillin, the development of holography and the foundations of fibre optics. This commitment to the application of research for the benefit of all continues today, with current focuses including interdisciplinary collaboratio ns to improve glob al health, tackle climate change, develop sustainable sources of energy and address security challenges .
-
-In 2007, Imperi al College London and Imperial College Healthcare NHS Trust formed the UK's first Academic Health Science Centre. This unique partnership aims to improve the quality of life of patients and populations by taking new discoveries and translating them into new therapies as quickly as possible. Website: www.imperial.ac.uk
-
-
-Article text (excluding photos or graphics) available under an Attribution-NonCommercial-ShareAlike Creative Commons license.
-
-Photos and graphics subject to third party copyright used with permission or © Imperial College London.

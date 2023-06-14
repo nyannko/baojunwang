@@ -37,7 +37,7 @@ The University of Edinburgh researchers believe that their approach could also b
 
 The study was published in Nature Chemical Biology.
 
-In June 2018, British engineers developed a low-cost, portable and user-friendly multi-sensing device for detecting contaminants in dirty water. 
+Wan X, Volpetti F, Petrova E, French C, Maerkel S and Wang B*, “Cascaded amplifying circuits enable ultrasensitive cellular sensors for toxic metals", _Nature Chemical Biology_, 2019, 15(5):540–548 [https://doi.org/10.1038/s41589-019-0244-3](https://doi.org/10.1038/s41589-019-0244-3)
 
 <center><img alt="" src="/assets/news_en/7.png" width="80%"></center>
 
