@@ -1,5 +1,5 @@
 ---
-title: Wang Lab
+title: <img src="../assets/WangLabLOGOw.png" width="530px"> 
 subtitle: Synthetic Biological Circuit Engineering Lab
 layout: page
 # callouts: home_callouts
