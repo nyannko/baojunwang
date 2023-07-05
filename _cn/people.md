@@ -20,7 +20,7 @@ hero_image: /assets/dnabackground.jpg
         <table style="table-layout:fixed;">
             <tbody>
             <tr>
-                <td width="20%">
+                <td width="20%" style="text-align:center;">
                     <img src="{{ site.baseurl }}/assets/wangbaojun.png" width="150" height="200" alt=""><br>
                 </td>
                 <td>
@@ -38,8 +38,8 @@ hero_image: /assets/dnabackground.jpg
 
                     <br>
                     <br>
-                    Email: baojun.wang@zju.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tel:
-                    0086-(0)571-82993302
+                    Email: baojun.wang@zju.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Tel: 0086-(0)571-82993302
                 </td>
             </tr>
             </tbody>
@@ -57,10 +57,10 @@ hero_image: /assets/dnabackground.jpg
         <table style="table-layout:fixed;">
             <tbody>
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/zhounan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>周楠</strong><br>
                     研究员
                     <br>
@@ -71,10 +71,10 @@ hero_image: /assets/dnabackground.jpg
                     Email: nanzhou@zju.edu.cn
                 </td>
 
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/yuanxiaofei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>原晓非</strong><br>
                     研究专家
                     <br>
@@ -103,61 +103,59 @@ hero_image: /assets/dnabackground.jpg
         <table style="table-layout:fixed;">
             <tbody>
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/zhouyucong.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>周于聪</strong><br>
-                    博士后<br>
+                    博士后
                     <br>
                     <br>
                     蛋白质化学
                     <br>
                     <br>
-                    <br>
                     Email: yczhou@zhejianglab.edu.cn
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/gaoge.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>高歌</strong><br>
-                    博士后<br>
+                    博士后
                     <br>
                     <br>
                     合成生物学基因线路设计，肿瘤细菌疗法
                     <br>
                     <br>
-                    <br>
                     Email: gaoge@zju.edu.cn
+                    <br>
+                    <br>
                 </td>
             </tr>
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/bianqi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>边旗</strong><br>
                     博士后<br>
-                    <br>
                     <br>
                     合成生物学使能工具开发，代谢工程
                     <br>
                     <br>
-                    <br>
                     Email: bianqi@zju.edu.cn
+                    <br>
+                    <br>
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenshengyan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>陈升言</strong><br>
                     博士后<br>
                     <br>
-                    <br>
                     基因线路设计，生物传感器开发
-                    <br>
                     <br>
                     <br>
                     Email: shengyan.chen@zju.edu.cn
@@ -165,91 +163,90 @@ hero_image: /assets/dnabackground.jpg
             </tr>
 
             <tr>
-                <td width="20%">
-                    <img src="{{ site.baseurl }}/assets/zhangqiuyun.png" width="150" height="200" alt=""><br>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/songyuchi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
-                    <strong>张秋云</strong><br>
+                <td width="30%" style="word-wrap:break-word;" class="des">
+                    <strong>宋雨迟</strong><br>
                     博士后<br>
                     <br>
-                    <br>
-                    合成生物学基因线路构建
-                    <br>
+                    蛋白设计与生物材料
                     <br>
                     <br>
-                    Email: qiuyunz@zju.edu.cn
+                    Email: songyc@zhejianglab.com
+                    <br>
+                    <br>
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>孙晨番</strong><br>
                     博士后<br>
-                    <br>
                     <br>
                     基因感知线路设计和核酸递送
                     <br>
                     <br>
-                    <br>
                     Email: sunchenfan@zju.edu.cn
+                    <br>
+                    <br>
                 </td>
             </tr>
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/wangxiyan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>王曦岩</strong><br>
                     博士后<br>
-                    <br>
                     <br>
                     基因线路设计与使能工具开发CRISPRa
                     <br>
                     <br>
-                    <br>
                     Email: xiyanwang@zju.edu.cn
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/panyuwei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>潘昱韡</strong><br>
                     博士后<br>
-                    <br>
                     <br>
                     纸基微流控
                     <br>
                     <br>
-                    <br>
                     Email: 873473172@qq.com
+                    <br>
+                    <br>
                 </td>
             </tr>
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/gaofan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>高凡</strong><br>
                     博士后<br>
-                    <br>
                     <br>
                     无细胞表达系统中生物基因线路设计和功能化人工细胞构筑
                     <br>
                     <br> 
                     Email: f.gao@zju.edu.cn
+                    <br> 
+                    <br> 
+                    <br> 
                 </td>
-                <td width="20%">
+
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>刘乐林</strong><br>
                     博士研究员<br>
                     <br>
-                    <br>
                     生物传感及微流控系统
-                    <br>
                     <br>
                     <br>
                     Email: raphaliu2@zhejianglab.com
@@ -257,30 +254,26 @@ hero_image: /assets/dnabackground.jpg
             </tr>
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenxuanyi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>陈宣亦</strong><br>
                     博士后<br>
                     <br>
-                    <br>
                     合成生物
                     <br> 
-                    <br>
                     <br> 
                     Email: chenxuanyi@zhejianglab.com
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>黄锐</strong><br>
                     高级研究专员<br>
                     <br>
-                    <br>
                     合成生物学，代谢工程
-                    <br>
                     <br>
                     <br>
                     Email: 993014540@zhejianglab.com
@@ -288,30 +281,26 @@ hero_image: /assets/dnabackground.jpg
             </tr>
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>马嘉欣</strong><br>
                     研究专员<br>
-                    <br>
                     <br>
                     基因线路设计
                     <br>
                     <br>
-                    <br>
                     Email: majiaxin@zhejianglab.com
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>李茜</strong><br>
                     工程师<br>
                     <br>
-                    <br>
                     生物计算基因线路设计的生物信息开发
-                    <br>
                     <br>
                     <br>
                     Email: qianli@zhejianglab.com
@@ -320,30 +309,28 @@ hero_image: /assets/dnabackground.jpg
 
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>杨海锋</strong><br>
                     工程师<br>
-                    <br>
                     <br>
                     基因线路开发，逻辑门开发
                     <br>
                     <br>
-                    <br>
                     Email: hfyang@zhejianglab.com
+                    <br>
+                    <br>
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>施高美</strong><br>
                     工程专员<br>
                     <br>
-                    <br>
                     基因线路自动化设计软件平台开发
-                    <br>
                     <br>
                     <br>
                     Email: g.shi@zhejianglab.com
@@ -351,23 +338,22 @@ hero_image: /assets/dnabackground.jpg
             </tr>
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>冯佳玲</strong><br>
                     科研助理<br>
                     <br>
                     <br>
                     <br>
                     <br>
-                    <br>
                     Email: fjialing@zju.edu.cn
                 </td>
-                <!-- <td width="20%">
+                <!-- <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>冯佳玲</strong><br>
                     科研助理<br>
                     <br>
@@ -393,86 +379,80 @@ hero_image: /assets/dnabackground.jpg
         <table style="table-layout:fixed;">
             <tbody>
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fanyi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>樊逸</strong><br>
                     博士研究生<br>
-                    <br>
                     <br>
                     基因线路设计和生物标志物诊断
                     <br>
                     <br>
-                    <br>
                     Email: Fanyi-2021@outlook.com
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>李阳</strong><br>
                     硕士研究生<br>
                     <br>
                     <br>
                     <br>
-                    <br>
-                    <br>
                     Email:
                 </td>
             </tr>
 
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>蒋国</strong><br>
                     博士研究生<br>
-                    <br>
                     <br>
                     真核细胞RNA传感及诊疗研究
                     <br>
                     <br>
-                    <br>
                     Email: jiangg@zju.edu.cn
+                    <br>
+                    <br>
                 </td>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>冯磊磊</strong><br>
                     硕士研究生 <br>
-                    <br>
                     <br>
                     肿瘤的细胞疗法
                     <br>
                     <br>
-                    <br>
                     Email: fengleilei@zju.edu.cn
+                    <br>
+                    <br>
                 </td>
             </tr>
 
             <tr>
-                <td width="20%">
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>胡敏琦</strong><br>
                     博士研究生 <br>
                     <br>
                     <br>
                     <br>
-                    <br>
-                    <br>
                     Email:
                 </td>
 
-                <!-- <td width="20%">
+                <!-- <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;">
+                <td width="30%" style="word-wrap:break-word;" class="des">
                     <strong>胡敏琦</strong><br>
                     博士研究生 <br>
                     <br>

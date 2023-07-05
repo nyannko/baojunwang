@@ -1,5 +1,5 @@
 ---
-title: <img src="../assets/WangLabLOGOw.png" width="530px"> 
+title: <a href="/"><img src="../assets/WangLabLOGOw.png" width="530px"></a>
 subtitle: Synthetic Biological Circuit Engineering Lab
 layout: page
 # callouts: home_callouts
@@ -15,21 +15,14 @@ Our research is primarily centered around Synthetic Biology, a fast growing disc
 We use a bottom-up engineering approach to design synthetic biological circuits and systems using characterised/standardised biological parts and devices. We develop new enabling tools for synthetic biology, and build novel customised gene circuits for sensing and information processing of multiple cellular and environmental signals, with applications ranging from biosensing, biocomputing and biomanufacturing to biotherapy. 
 
 
-<div style="text-align:center">
-<table>
-<tr>
-<td width="52%">
-<img src="assets/e1.png"  style="vertical-align:middle;width:100%">
-</td>
-<td width="2%">
-</td>
-<td width="38%">
-<img src="assets/index_en_2.png" style="vertical-align:middle;width:100%">
-</td>
-<td width="2%">
-</td>
-</tr>
-</table>
-</div>
+<div style="width:100%;display:inline-block;float:left;right:10px">
+  <img style="vertical-align:middle;width:55%" src="assets/e1.png">
+  <!-- <div style="width:30px;height:10px;background: pink;"></div> -->
+  <img style="vertical-align:middle;width:40%" src="assets/index_en_2.png">
+</div> 
 
-<!-- <img alt="" src="assets/e1.png" style=" width:80%"> -->
+&nbsp;
+
+
+
+

@@ -24,7 +24,7 @@ hero_image: /assets/dnabackground.jpg
 团队利用铜绿假单胞菌中的异源σ54依赖型转录因子和相关基因调控元件在大肠杆菌中率先设计并构建了模块化且正交化的逻辑与门和与非门控线路（Nature Commun 2011 doi；图1a）、模块化且放大倍数连续可调的转录信号放大线路（Nucl Acids Res 2014 doi；图1b）。通过级联多层正交模块化的转录信号放大线路，创建了领域目前最敏感的基于大肠杆菌的砷和汞等重金属污染细胞传感器及创新的可视化输出模块(Nature Chem Biol 2019 doi；图1c）。通过偶联多细胞群体通讯，设计出了多输入逻辑门线路控制的高特异性环境监测细胞传感器(Biosens & Bioelectron 2013 doi)。率先提出和开发了可全面优化合成基因线路设计的核酸海绵多功能基因调控工具，首次展示其能降低因异质蛋白过量表达造成的细胞负荷(Nature Commun 2020, 11:5961 doi）。
 
 <!-- <center><img alt="" src="../../assets/research1.png" style="height:200px; width:550px"></center> -->
-<center><img alt="" src="../../assets/research1.png" width="75%"></center>
+<center><img alt="" src="../../assets/research1.png" width="800px"></center>
 
 <center>图1. 具有模块性和正交性的基因逻辑与门（a）和模拟转录信号放大器（b）的设计；</center>
 <center>（c）基于多层级联转录信号放大基因线路的超敏感全细胞传感器的设计</center>  
@@ -43,7 +43,7 @@ CRISPR介导的基因激活调控（CRISPRa, CRISPR activation）是一类具有
 
 基于上述进展，我们系统揭示了II型CRISPR系统crRNA与tracrRNA匹配的可编程性机制，并利用重编程tracrRNAs展示了其在生物计算与生物传感领域多个强大应用案例（Nature Commun 2022 doi；图2b）：包括首次揭示重编程tracrRNA-crRNA对的设计原则和正交性，开发双gRNA介导的CRISPR激活（CRISPRa）系统，可编程AND-gate布尔逻辑门装置，劫持细菌内源性环境响应基因转录本（含sRNA和mRNA）探测环境污染物，发明了高特异性SARS-CoV-2病毒RNA传感器AGATHA。
 
-<center><img alt="" src="../../assets/research2.png" width="75%"></center>
+<center><img alt="" src="../../assets/research2.png" width="850px"></center>
 
 <center>图2.（a）细菌中的新型“类真核式”CRISPR基因激活调控系统的设计、性能和应用；</center>
 <center>（b）可编程tracrRNA实现将非gRNA转变为gRNA及RNA检测应用</center>
@@ -55,7 +55,7 @@ CRISPR介导的基因激活调控（CRISPRa, CRISPR activation）是一类具有
 
 基于上述成果，我们率先将内含肽与转座子工具结合开发了一种新型分裂蛋白设计定向进化方法IBM (intein-assisted bisection mapping，Nature Commun 2021 doi；图3b），从而能简便地扫描和筛选合适的蛋白质分裂功能位点；并据此设计出了多种蛋白表达逻辑控制器件和显著降低蛋白本底表达水平的调控工具。这一新成果为包括合成生物学的基因工程、蛋白质工程学提供了在蛋白质水平上进行生物分子组装、编辑和调控的强力工具，有望在工业、医疗领域展现出广阔应用前景。
 
-<center><img alt="" src="../../assets/research3.png" width="70%"></center>
+<center><img alt="" src="../../assets/research3.png" width="800px"></center>
 
 <center>图3.（a）大规模正交断裂内含肽文库的建立（中）及在基因线路设计（左）和模块化蛋白组装中的应用（右）;</center>
 <center>（b）基于内含肽与转座子结合的新型蛋白饱和断裂映射法流程图</center>

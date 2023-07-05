@@ -23,12 +23,12 @@ Prof. Baojun Wang
 
 College of Chemical and Biological Engineering, Zhejiang University
 
-Zijingang Campus, Westlake District, Hangzhou 310058, China
+R3-421 Yongqian Building, Zijingang Campus West, Westlake District, Hangzhou 310058, China
 
 Tel: +86 (0)571-8299-3302 
 
 Email: baojun.wang@zju.edu.cn
 
-<img alt="" src="../assets/zju.png" style=" width:40%">
+<img alt="" src="../assets/zju.png" style=" width:650px">
 
 [Campus maps and travel information](https://map.zju.edu.cn/index.html)

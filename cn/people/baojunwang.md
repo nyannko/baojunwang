@@ -30,13 +30,13 @@ show_sidebar: false
 4. 生物传感、生物计算、智能诊疗及生物制造应用
 
 
-<center><img alt="" src="../../../assets/bresearch.png" style="height:300px; width:550px"></center>
+<center><img alt="" src="../../../assets/bresearch.png" style="width:550px"></center>
  
 ### 主要创新科研成果
 1)  国际上率先提出生物计算基因线路的工程化创新设计方法：率先设计并构建了模块化与正交化的基因逻辑门控线路(Nature Commun 2011)、模块化的转录信号放大线路，创建了领域目前最敏感的基于微生物的砷和汞等重金属水污染细胞传感器（Nature Chem Biol 2019）；建立了基于核酸海绵的新型基因线路全面优化设计方法（Nature Commun 2020），开拓了生物计算基因线路在生物传感领域的创新应用。
 
 
-<center><img alt="" src="../../../assets/bresearch1.png" style="width:75%"></center>
+<center><img alt="" src="../../../assets/bresearch1.png" style="width:550px"></center>
  
 代表论文：
 
@@ -55,7 +55,7 @@ show_sidebar: false
 
 
 
-<center><img alt="" src="../../../assets/bresearch2.png" style="width:75%"></center>
+<center><img alt="" src="../../../assets/bresearch2.png" style="width:550px"></center>
  
 
 代表论文与专利：
@@ -72,7 +72,7 @@ show_sidebar: false
 3)  国际上率先将内含肽与转座子工具结合开发了一种新型分裂蛋白设计定向进化方法IBM（Nature Commun 2021），并据此设计出了多种蛋白表达控制逻辑运算器件和显著降低蛋白本底表达水平的调控工具；开发了迄今规模最大的标准化正交断裂蛋白内含肽文库（Nature Commun 2020），解决了大分子高重复结构蛋白的体外精确无缝组装难题。
 
 
-<center><img alt="" src="../../../assets/bresearch3.png" style="width:75%"></center>
+<center><img alt="" src="../../../assets/bresearch3.png" style="width:550px"></center>
  
 代表论文：
 
