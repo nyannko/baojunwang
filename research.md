@@ -18,8 +18,8 @@ The research in our group is primarily centered around Synthetic Biology at the 
 <td width="50%">
 <p>In this area, foundational synthetic gene circuits are designed and constructed to program living cells with designer functions including novel modular and orthogonal genetic logic gates, sensors, biological processors and advanced computing and information processing circuits (towards a programmable and scalable cell-based biocomputer). The results will greatly expand the currently limited toolbox in synthetic biology. New biological circuit design principles are being developed by exploiting design principles in other engineering systems such as modularity, orthogonality, characterization, modelling and automation to increase the predictability and scalability of genetic circuit design and assembly.</p>
 </td>
-<td width="50%">
-<center><img alt="" src="../assets/er1.png" style=" width:600px"></center>
+<td width="50%" style="vertical-align:middle">
+<center><img alt="" src="../assets/er1.png" style=" width:600px;"></center>
 </td>
 </tr>
 </table>
@@ -31,7 +31,7 @@ The research in our group is primarily centered around Synthetic Biology at the 
 <td width="50%">
 <p>In this area, the engineered gene networks or protein assembly tools are employed for applications including smart multi-input cell-based/cell-free biosensors for environmental monitoring and diagnostics, and as enabling tools to customize biomaterials and biologics manufacturing. New synthetic sensors are being developed to sense specific environmental toxins or disease related signals (pathogens, nucleic acids and cancers) with high selectivity and sensitivity. Genetic logic and analog circuits are applied to link the synthetic sensors and specialized actuators such as reporters, electron conduits and functional pathways to generate various bespoke output responses. Further, dynamic sensor-regulators are constructed in microbial cell factories to allow balancing metabolism and adaptively tuning product synthesis rate.</p>
 </td>
-<td width="50%">
+<td width="50%" style="vertical-align:middle">
 <center><img alt="" src="../assets/er2.png" style=" width:600px"></center>
 </td>
 </tr>
@@ -43,8 +43,8 @@ The research in our group is primarily centered around Synthetic Biology at the 
 <td width="50%">
 <p>Here we engineer bacteriophages to selectively kill gut pathogens such as Shigella flexneri that causes widespread environmental enteropathy in human gut in developing countries. On the second thread, we are developing new low-cost, simple cell-free biosensors for providing point-of-use diagnostics of target toxins (e.g. arsenic, pesticides) and health-indicating metabolites in various samples in resource limited settings. Further, synbio is used to build synthetic regulatory circuits for perturbing or mimicking their natural counterparts to aid disclosing design principles and properties of cell signalling and stress response systems, contributing to optimal sensor design or infection treatment.</p>
 </td>
-<td width="50%">
-<center><img alt="" src="../assets/er3.png" style=" width:600px"></center>
+<td width="50%" style="vertical-align:middle">
+<center><img alt="" src="../assets/er3-2.png" style=" width:600px"></center>
 </td>
 </tr>
 </table>
