@@ -282,6 +282,33 @@ hero_image: /assets/dnabackground.jpg
 
             <tr>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/keyuqing.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;" class="des">
+                    <strong>柯雨晴</strong><br>
+                    高级研究专员<br>
+                    <br>
+                    CRISPR基因调控与编辑
+                    <br> 
+                    <br> 
+                    Email: keyuqing@zhejianglab.com
+                </td>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/weimingcong.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;" class="des">
+                    <strong>魏铭聪</strong><br>
+                    博士后<br>
+                    <br>
+                    生物计算基因线路设计
+                    <br>
+                    <br>
+                    Email: arieswei430920@zhejianglab.com
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;" class="des">

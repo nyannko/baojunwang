@@ -270,6 +270,33 @@ show_sidebar: false
 
             <tr>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/keyuqing.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;" class="des">
+                    <strong>Yuqing Ke</strong><br>
+                    Research Fellow<br>
+                    <br>
+                    CRISPR-enabled gene regulation and editing
+                    <br> 
+                    <br> 
+                    Email: keyuqing@zhejianglab.com
+                </td>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/weimingcong.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;" class="des">
+                    <strong>Mingcong Wei</strong><br>
+                    Postdoc<br>
+                    <br>
+                    Genetic circuit design for biocomputing
+                    <br>
+                    <br>
+                    Email: arieswei430920@zhejianglab.com
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" style="word-wrap:break-word;" class="des">

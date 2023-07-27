@@ -11,7 +11,7 @@ The research in our group is primarily centered around Synthetic Biology at the 
 
 
 
-### 1. Foundational technology for gene circuit design
+### 1. Foundational technology for genetic circuit design
 
 <table>
 <tr>
