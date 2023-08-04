@@ -52,6 +52,10 @@ toc: true
 
 ## 期刊论文
 
+*  Wang X, Zhou N and **Wang B**\*, "Bacterial synthetic biology: tools for novel drug discovery", **_Expert Opinion on Drug Discovery_**, 2023, 1-11. [doi](https://doi.org/10.1080/17460441.2023.2239704)  
+<br>  
+
+
 *  Fa-arun J, Huan Y, E Darmon and**Wang B\***, "Tail-engineered phage P2 enables delivery of antimicrobial phagemids into multiple gut pathogens", _**ACS Synthetic Biology**_, 2023, 12, 2, 596–607  [doi](https://pubs.acs.org/doi/10.1021/acssynbio.2c00615)  
 <br>  
 
