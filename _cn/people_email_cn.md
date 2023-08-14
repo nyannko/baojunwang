@@ -114,6 +114,7 @@ hero_image: /assets/dnabackground.jpg
                     蛋白质化学
                     <br>
                     <br>
+                    Email: yczhou@zhejianglab.edu.cn
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/gaoge.png" width="150" height="200" alt=""><br>
@@ -126,6 +127,7 @@ hero_image: /assets/dnabackground.jpg
                     合成生物学基因线路设计，肿瘤细菌疗法
                     <br>
                     <br>
+                    Email: gaoge@zju.edu.cn
                     <br>
                     <br>
                 </td>
@@ -142,6 +144,7 @@ hero_image: /assets/dnabackground.jpg
                     合成生物学使能工具开发，代谢工程
                     <br>
                     <br>
+                    Email: bianqi@zju.edu.cn
                     <br>
                     <br>
                 </td>
@@ -155,6 +158,7 @@ hero_image: /assets/dnabackground.jpg
                     基因线路设计，生物传感器开发
                     <br>
                     <br>
+                    Email: shengyan.chen@zju.edu.cn
                 </td>
             </tr>
 
@@ -169,6 +173,7 @@ hero_image: /assets/dnabackground.jpg
                     蛋白设计与生物材料
                     <br>
                     <br>
+                    Email: songyc@zhejianglab.com
                     <br>
                     <br>
                 </td>
@@ -182,6 +187,7 @@ hero_image: /assets/dnabackground.jpg
                     基因感知线路设计和核酸递送
                     <br>
                     <br>
+                    Email: sunchenfan@zju.edu.cn
                     <br>
                     <br>
                 </td>
@@ -198,6 +204,7 @@ hero_image: /assets/dnabackground.jpg
                     基因线路设计与使能工具开发CRISPRa
                     <br>
                     <br>
+                    Email: xiyanwang@zju.edu.cn
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/panyuwei.png" width="150" height="200" alt=""><br>
@@ -209,6 +216,7 @@ hero_image: /assets/dnabackground.jpg
                     纸基微流控
                     <br>
                     <br>
+                    Email: 873473172@qq.com
                     <br>
                     <br>
                 </td>
@@ -225,6 +233,7 @@ hero_image: /assets/dnabackground.jpg
                     无细胞表达系统中生物基因线路设计和功能化人工细胞构筑
                     <br>
                     <br> 
+                    Email: f.gao@zju.edu.cn
                     <br> 
                     <br> 
                     <br> 
@@ -240,6 +249,7 @@ hero_image: /assets/dnabackground.jpg
                     生物传感及微流控系统
                     <br>
                     <br>
+                    Email: raphaliu2@zhejianglab.com
                 </td>
             </tr>
 
@@ -254,6 +264,7 @@ hero_image: /assets/dnabackground.jpg
                     合成生物
                     <br> 
                     <br> 
+                    Email: chenxuanyi@zhejianglab.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
@@ -265,6 +276,7 @@ hero_image: /assets/dnabackground.jpg
                     合成生物学，代谢工程
                     <br>
                     <br>
+                    Email: 993014540@zhejianglab.com
                 </td>
             </tr>
 
@@ -279,6 +291,7 @@ hero_image: /assets/dnabackground.jpg
                     CRISPR基因调控与编辑
                     <br> 
                     <br> 
+                    Email: keyuqing@zhejianglab.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/weimingcong.png" width="150" height="200" alt=""><br>
@@ -290,6 +303,7 @@ hero_image: /assets/dnabackground.jpg
                     生物计算基因线路设计
                     <br>
                     <br>
+                    Email: arieswei430920@zhejianglab.com
                 </td>
             </tr>
 
@@ -304,6 +318,7 @@ hero_image: /assets/dnabackground.jpg
                     基因线路设计
                     <br>
                     <br>
+                    Email: majiaxin@zhejianglab.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
@@ -315,6 +330,7 @@ hero_image: /assets/dnabackground.jpg
                     生物计算基因线路设计的生物信息开发
                     <br>
                     <br>
+                    Email: qianli@zhejianglab.com
                 </td>
             </tr>
 
@@ -330,6 +346,7 @@ hero_image: /assets/dnabackground.jpg
                     基因线路开发，逻辑门开发
                     <br>
                     <br>
+                    Email: hfyang@zhejianglab.com
                     <br>
                     <br>
                 </td>
@@ -343,6 +360,7 @@ hero_image: /assets/dnabackground.jpg
                     基因线路自动化设计软件平台开发
                     <br>
                     <br>
+                    Email: g.shi@zhejianglab.com
                 </td>
             </tr>
 
@@ -357,6 +375,7 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
+                    Email: fjialing@zju.edu.cn
                 </td>
                 <!-- <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
@@ -369,6 +388,7 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
+                    Email: fjialing@zju.edu.cn
                 </td> -->
             </tr>
 
@@ -396,6 +416,7 @@ hero_image: /assets/dnabackground.jpg
                     基因线路设计和生物标志物诊断
                     <br>
                     <br>
+                    Email: Fanyi-2021@outlook.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
@@ -406,6 +427,7 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
+                    Email:
                 </td>
             </tr>
 
@@ -421,6 +443,7 @@ hero_image: /assets/dnabackground.jpg
                     真核细胞RNA传感及诊疗研究
                     <br>
                     <br>
+                    Email: jiangg@zju.edu.cn
                     <br>
                     <br>
                 </td>
@@ -434,6 +457,7 @@ hero_image: /assets/dnabackground.jpg
                     肿瘤的细胞疗法
                     <br>
                     <br>
+                    Email: fengleilei@zju.edu.cn
                     <br>
                     <br>
                 </td>
@@ -449,6 +473,7 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
+                    Email:
                 </td>
 
                 <!-- <td width="20%" class="photo">
@@ -462,6 +487,7 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                     <br>
+                    Email:
                 </td> -->
             </tr>
 

@@ -114,7 +114,6 @@ show_sidebar: false
                     Protein Chemistry
                     <br>
                     <br>
-                    Email: yczhou@zhejianglab.edu.cn
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/gaoge.png" width="150" height="200" alt=""><br>
@@ -126,7 +125,6 @@ show_sidebar: false
                     Synthetic biological circuit design, tumor bacterial therapy
                     <br>
                     <br>
-                    Email: gaoge@zju.edu.cn
                 </td>
             </tr>
 
@@ -141,7 +139,6 @@ show_sidebar: false
                     Synthetic Biology Enabling Tool Development, Metabolic Engineering
                     <br>
                     <br>
-                    Email: bianqi@zju.edu.cn
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenshengyan.png" width="150" height="200" alt=""><br>
@@ -153,7 +150,6 @@ show_sidebar: false
                     Genetic circuit design, biosensor development
                     <br>
                     <br>
-                    Email: shengyan.chen@zju.edu.cn
                 </td>
             </tr>
 
@@ -168,7 +164,6 @@ show_sidebar: false
                     Protein design and biomaterials
                     <br>
                     <br>
-                    Email: songyc@zhejianglab.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
@@ -180,7 +175,6 @@ show_sidebar: false
                     Genetic circuit design and delivery in mammalianc cells
                     <br>
                     <br>
-                    Email: sunchenfan@zju.edu.cn
                 </td>
             </tr>
 
@@ -195,7 +189,6 @@ show_sidebar: false
                     Synthetic biology enabling tools & gene circuit design
                     <br>
                     <br>
-                    Email: xiyanwang@zju.edu.cn
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/panyuwei.png" width="150" height="200" alt=""><br>
@@ -207,7 +200,6 @@ show_sidebar: false
                     Paper-based microfluidic
                     <br>
                     <br>
-                    Email: 873473172@qq.com
                     <br>
                     <br>
                 </td>
@@ -225,7 +217,6 @@ show_sidebar: false
                     expression systems
                     <br>
                     <br>
-                    Email: f.gao@zju.edu.cn
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
@@ -237,7 +228,6 @@ show_sidebar: false
                     Biosensing and Microfluidic Systems
                     <br>
                     <br>
-                    Email: raphaliu2@zhejianglab.edu.cn
                 </td>
             </tr>
 
@@ -252,7 +242,6 @@ show_sidebar: false
                     Synthetic Biology
                     <br>
                     <br>
-                    Email: chenxuanyi@zhejianglab.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
@@ -264,7 +253,6 @@ show_sidebar: false
                     Synthetic Biology, Metabolic Engineering
                     <br>
                     <br>
-                    Email: 993014540@zhejianglab.com
                 </td>
             </tr>
 
@@ -279,7 +267,6 @@ show_sidebar: false
                     CRISPR-enabled gene regulation and editing
                     <br> 
                     <br> 
-                    Email: keyuqing@zhejianglab.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/weimingcong.png" width="150" height="200" alt=""><br>
@@ -291,7 +278,6 @@ show_sidebar: false
                     Genetic circuit design for biocomputing
                     <br>
                     <br>
-                    Email: arieswei430920@zhejianglab.com
                 </td>
             </tr>
 
@@ -306,7 +292,6 @@ show_sidebar: false
                     Genetic circuit design
                     <br>
                     <br>
-                    Email: majiaxin@zhejianglab.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
@@ -318,7 +303,6 @@ show_sidebar: false
                     Bioinformatics and computational biology for genetic circuit design
                     <br>
                     <br>
-                    Email: qianli@zhejianglab.com
                 </td>
             </tr>
 
@@ -334,7 +318,6 @@ show_sidebar: false
                     Genetic logic circuit design
                     <br>
                     <br>
-                    Email: hfyang@zhejianglab.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
@@ -346,7 +329,6 @@ show_sidebar: false
                     Genetic circuit design automation software platform development
                     <br>
                     <br>
-                    Email: g.shi@zhejianglab.com
                 </td>
             </tr>
 
@@ -361,7 +343,6 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email: fjialing@zju.edu.cn
                 </td>
             </tr>
 
@@ -389,7 +370,6 @@ show_sidebar: false
                     Genetic circuit design and biomarker diagnostics
                     <br>
                     <br>
-                    Email: Fanyi-2021@outlook.com
                 </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
@@ -400,7 +380,6 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:
                 </td>
             </tr>
 
@@ -416,7 +395,6 @@ show_sidebar: false
                     Eukaryotic RNA sensing and diagnostics
                     <br>
                     <br>
-                    Email: jiangg@zju.edu.cn
                     <br>
                     <br>
                 </td>
@@ -431,7 +409,6 @@ show_sidebar: false
                     Cell therapy for tumors
                     <br>
                     <br>
-                    Email: fengleilei@zju.edu.cn
                 </td>
 
             </tr>
@@ -447,7 +424,6 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:
                 </td>
                 <!-- <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
@@ -460,7 +436,6 @@ show_sidebar: false
                     <br>
                     <br>
                     <br>
-                    Email:
                 </td> -->
             </tr>
 
