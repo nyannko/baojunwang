@@ -59,7 +59,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/zhounan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%"  style="word-wrap:break-word;" class="des">
                     <strong>Nan Zhou</strong><br>
                     Research Investigator
                     <br>
@@ -75,7 +75,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/yuanxiaofei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%"  style="word-wrap:break-word;" class="des">
                     <strong>Xiaofei Yuan</strong><br>
                     Research Investigator
                     <br>
@@ -107,7 +107,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/zhouyucong.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Yucong Zhou</strong><br>
                     Postdoc<br>
                     <br>
@@ -118,7 +118,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/gaoge.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Ge Gao</strong><br>
                     Postdoc<br>
                     <br>
@@ -132,7 +132,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/bianqi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Qi Bian</strong><br>
                     Postdoc<br>
                     <br>
@@ -143,7 +143,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenshengyan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Shengyan Chen</strong><br>
                     Postdoc<br>
                     <br>
@@ -157,7 +157,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/songyuchi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Yuchi Song</strong><br>
                     Postdoc<br>
                     <br>
@@ -168,7 +168,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Chenfan Zhou</strong><br>
                     Postdoc<br>
                     <br>
@@ -182,7 +182,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/wangxiyan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Xiyan Wang</strong><br>
                     Postdoc<br>
                     <br>
@@ -193,7 +193,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/panyuwei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Yuwei Pan</strong><br>
                     Postdoc<br>
                     <br>
@@ -209,7 +209,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/gaofan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Fan Gao</strong><br>
                     Postdoc<br>
                     <br>
@@ -221,7 +221,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>LeLin Liu</strong><br>
                     Research Fellow<br>
                     <br>
@@ -235,7 +235,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenxuanyi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Xuanyi Chen</strong><br>
                     Postdoc<br>
                     <br>
@@ -246,7 +246,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Rui Huang</strong><br>
                     Research Fellow<br>
                     <br>
@@ -260,7 +260,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/keyuqing.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Yuqing Ke</strong><br>
                     Research Fellow<br>
                     <br>
@@ -271,7 +271,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/weimingcong.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Mingcong Wei</strong><br>
                     Postdoc<br>
                     <br>
@@ -285,7 +285,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Jiaxin Ma</strong><br>
                     Research Associate<br>
                     <br>
@@ -296,7 +296,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Qian Li</strong><br>
                     Bioinformatics Engineer<br>
                     <br>
@@ -311,7 +311,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Haifeng Yang</strong><br>
                     Biological Engineer<br>
                     <br>
@@ -322,7 +322,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Gaomei Shi</strong><br>
                     Software Engineer<br>
                     <br>
@@ -336,7 +336,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Jialin Feng</strong><br>
                     Research Administrator<br>
                     <br>
@@ -363,7 +363,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fanyi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Yi Fan</strong><br>
                     PhD student<br>
                     <br>
@@ -374,7 +374,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Yang Li</strong><br>
                     Master student<br>
                     <br>
@@ -388,7 +388,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Guo Jiang</strong><br>
                     PhD Student<br>
                     <br>
@@ -401,7 +401,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Leilei Feng</strong><br>
                     Master student<br>
                     <br>
@@ -418,7 +418,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Minqi Hu</strong><br>
                     PhD student<br>
                     <br>
@@ -428,7 +428,7 @@ show_sidebar: false
                 <!-- <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>Minqi Hu</strong><br>
                     PhD student<br>
                     <br>

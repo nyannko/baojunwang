@@ -106,7 +106,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/zhouyucong.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>周于聪</strong><br>
                     博士后
                     <br>
@@ -118,7 +118,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/gaoge.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>高歌</strong><br>
                     博士后
                     <br>
@@ -135,7 +135,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/bianqi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>边旗</strong><br>
                     博士后<br>
                     <br>
@@ -148,7 +148,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenshengyan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>陈升言</strong><br>
                     博士后<br>
                     <br>
@@ -162,7 +162,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/songyuchi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>宋雨迟</strong><br>
                     博士后<br>
                     <br>
@@ -175,7 +175,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/sunchenfan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>孙晨番</strong><br>
                     博士后<br>
                     <br>
@@ -191,7 +191,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/wangxiyan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>王曦岩</strong><br>
                     博士后<br>
                     <br>
@@ -202,7 +202,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/panyuwei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>潘昱韡</strong><br>
                     博士后<br>
                     <br>
@@ -218,7 +218,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/gaofan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>高凡</strong><br>
                     博士后<br>
                     <br>
@@ -233,7 +233,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>刘乐林</strong><br>
                     博士研究员<br>
                     <br>
@@ -247,7 +247,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenxuanyi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>陈宣亦</strong><br>
                     博士后<br>
                     <br>
@@ -258,7 +258,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>黄锐</strong><br>
                     高级研究专员<br>
                     <br>
@@ -272,7 +272,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/keyuqing.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>柯雨晴</strong><br>
                     高级研究专员<br>
                     <br>
@@ -283,7 +283,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/weimingcong.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>魏铭聪</strong><br>
                     博士后<br>
                     <br>
@@ -297,7 +297,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>马嘉欣</strong><br>
                     研究专员<br>
                     <br>
@@ -308,7 +308,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>李茜</strong><br>
                     工程师<br>
                     <br>
@@ -323,7 +323,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>杨海锋</strong><br>
                     工程师<br>
                     <br>
@@ -336,7 +336,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>施高美</strong><br>
                     工程专员<br>
                     <br>
@@ -350,7 +350,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>冯佳玲</strong><br>
                     科研助理<br>
                     <br>
@@ -361,7 +361,7 @@ hero_image: /assets/dnabackground.jpg
                 <!-- <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>冯佳玲</strong><br>
                     科研助理<br>
                     <br>
@@ -389,7 +389,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fanyi.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>樊逸</strong><br>
                     博士研究生<br>
                     <br>
@@ -400,7 +400,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>李阳</strong><br>
                     硕士研究生<br>
                     <br>
@@ -414,7 +414,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/jiangguo.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>蒋国</strong><br>
                     博士研究生<br>
                     <br>
@@ -427,7 +427,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>冯磊磊</strong><br>
                     硕士研究生 <br>
                     <br>
@@ -443,7 +443,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>胡敏琦</strong><br>
                     博士研究生 <br>
                     <br>
@@ -454,7 +454,7 @@ hero_image: /assets/dnabackground.jpg
                 <!-- <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
                     <strong>胡敏琦</strong><br>
                     博士研究生 <br>
                     <br>
