@@ -291,7 +291,7 @@ hero_image: /assets/dnabackground.jpg
                     <strong>杨海锋</strong><br>
                     工程师<br>
                     <br>
-                    基因线路开发，逻辑门开发
+                    无细胞基因线路设计
                     <br>
                     <br>
                     <br>
@@ -368,6 +368,7 @@ hero_image: /assets/dnabackground.jpg
                     <strong>李阳</strong><br>
                     硕士研究生<br>
                     <br>
+                    核酸疫苗设计与递送
                     <br>
                     <br>
                 </td>
@@ -411,6 +412,7 @@ hero_image: /assets/dnabackground.jpg
                     <strong>胡敏琦</strong><br>
                     博士研究生 <br>
                     <br>
+                    基因线路设计
                     <br>
                     <br>
                 </td>

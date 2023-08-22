@@ -340,6 +340,7 @@ show_sidebar: false
                     <strong>Yang Li</strong><br>
                     Master student<br>
                     <br>
+                    RNA vaccine and delivery
                     <br>
                     <br>
                 </td>
@@ -384,6 +385,7 @@ show_sidebar: false
                     <strong>Minqi Hu</strong><br>
                     PhD student<br>
                     <br>
+                    Genetic circuit design
                     <br>
                     <br>
                 </td>
