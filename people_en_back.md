@@ -59,7 +59,7 @@ show_sidebar: false
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/zhounan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td  style="word-wrap:break-word;" class="des">
+                <td width="30%"  style="word-wrap:break-word;" class="des">
                     <strong>Nan Zhou</strong><br>
                     Research Investigator
                     <br>
@@ -72,6 +72,19 @@ show_sidebar: false
                     Email: nanzhou@zju.edu.cn
                 </td>
 
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/yuanxiaofei.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%"  style="word-wrap:break-word;" class="des">
+                    <strong>Xiaofei Yuan</strong><br>
+                    Research Investigator
+                    <br>
+                    <br>
+                    Microfluidics, biocomputing and other cross-disciplinary technologies<br>
+                    Biocomputing applications in environmental and medical settings<br>
+                    <br>
+                    Email: yuanxf@zhejianglab.com
+                </td>
 
             </tr>
 
@@ -205,6 +218,20 @@ show_sidebar: false
                     <br>
                 </td>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>LeLin Liu</strong><br>
+                    Research Fellow<br>
+                    <br>
+                    Biosensing and microfluidic systems
+                    <br>
+                    <br>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenxuanyi.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
@@ -215,8 +242,18 @@ show_sidebar: false
                     <br>
                     <br>
                 </td>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>Rui Huang</strong><br>
+                    Research Fellow<br>
+                    <br>
+                    Synthetic biology enabling tools 
+                    <br>
+                    <br>
+                </td>
             </tr>
-
 
             <tr>
                 <td width="20%" class="photo">

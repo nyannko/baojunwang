@@ -60,7 +60,7 @@ hero_image: /assets/dnabackground.jpg
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/zhounan.png" width="150" height="200" alt=""><br>
                 </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
+                <td  style="word-wrap:break-word;" class="des">
                     <strong>周楠</strong><br>
                     研究员
                     <br>
@@ -71,19 +71,7 @@ hero_image: /assets/dnabackground.jpg
                     Email: nanzhou@zju.edu.cn
                 </td>
 
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/yuanxiaofei.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" style="word-wrap:break-word;" class="des">
-                    <strong>原晓非</strong><br>
-                    研究专家
-                    <br>
-                    <br>
-                    微流控等交叉学科技术与生物计算相融合的基础理论研究<br>
-                    生物计算在环境、医疗领域的应用基础研究<br>
-                    <br>
-                    Email: yuanxf@zhejianglab.com
-                </td>
+    
 
             </tr>
 
@@ -111,7 +99,7 @@ hero_image: /assets/dnabackground.jpg
                     博士后
                     <br>
                     <br>
-                    蛋白质化学
+                    蛋白设计与生物材料
                     <br>
                     <br>
                 </td>
@@ -195,7 +183,7 @@ hero_image: /assets/dnabackground.jpg
                     <strong>王曦岩</strong><br>
                     博士后<br>
                     <br>
-                    基因线路设计与使能工具开发CRISPRa
+                    基因线路设计与使能工具开发
                     <br>
                     <br>
                 </td>
@@ -222,7 +210,7 @@ hero_image: /assets/dnabackground.jpg
                     <strong>高凡</strong><br>
                     博士后<br>
                     <br>
-                    无细胞表达系统中生物基因线路设计和功能化人工细胞构筑
+                    基因线路和人工细胞设计
                     <br>
                     <br> 
                     <br> 
@@ -230,20 +218,6 @@ hero_image: /assets/dnabackground.jpg
                     <br> 
                 </td>
 
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>刘乐林</strong><br>
-                    博士研究员<br>
-                    <br>
-                    生物传感及微流控系统
-                    <br>
-                    <br>
-                </td>
-            </tr>
-
-            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/chenxuanyi.png" width="150" height="200" alt=""><br>
                 </td>
@@ -251,32 +225,22 @@ hero_image: /assets/dnabackground.jpg
                     <strong>陈宣亦</strong><br>
                     博士后<br>
                     <br>
-                    合成生物
+                    合成生物线路设计
                     <br> 
                     <br> 
-                </td>
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>黄锐</strong><br>
-                    高级研究专员<br>
-                    <br>
-                    合成生物学，代谢工程
-                    <br>
-                    <br>
                 </td>
             </tr>
 
+
             <tr>
                 <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/keyuqing.png" width="150" height="200" alt=""><br>
+                    <img src="{{ site.baseurl }}/assets/maoruichao.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>柯雨晴</strong><br>
-                    高级研究专员<br>
+                    <strong>毛瑞超</strong><br>
+                    博士后<br>
                     <br>
-                    CRISPR基因调控与编辑
+                    计算生物学
                     <br> 
                     <br> 
                 </td>
