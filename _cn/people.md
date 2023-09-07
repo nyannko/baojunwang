@@ -32,14 +32,14 @@ hero_image: /assets/dnabackground.jpg
                     浙江大学杭州科创中心生物与分子智造研究院副院长、合成生物学研究所所长<br>
 
                     <br>
-                    2005年获浙江大学生物医学工程学士学位，2011年获英国帝国理工学院生物工程博士学位。2013年加入英国爱丁堡大学任合成生物学助理教授，2019年晋升终身教授，2022年1月加入浙江大学化学工程与生物工程学院生物工程研究所任求是特聘教授。主要从事合成生物学使能技术开发、基因线路工程化设计研究及其在生物传感、生物计算、智能诊疗、生物制造等领域的创新应用方向的科研工作。近三年以通讯作者发表重要学术论文20余篇（包括Nature
+                    2005年获浙江大学生物医学工程学士学位，2011年获英国帝国理工学院生物工程博士学位。2013年加入英国爱丁堡大学任合成生物学助理教授，2019年晋升终身教授，2022年1月加入浙江大学化学工程与生物工程学院生物工程研究所任求是特聘教授。长期致力于合成生物学使能技术开发、基因线路工程化设计研究及其在生物传感、生物计算、智能诊疗和生物制造等领域的创新应用。近三年以通讯作者发表重要学术论文20余篇（包括Nature
                     Chem Biol
                     等6篇Nature子刊论文），主持英国自然科学基金会、比尔盖茨基金会、英国国防部、美国海军研究署和中国自然科学基金会等二十余项研究基金。曾获得重要奖项有：2015年盖茨基金会全球大挑战探索基金奖；2016年英国生物技术与科学基金会新研究员奖；2016年维康基金会科学种子基金奖；2019年英国自然科学基金会杰出青年科学基金奖(全英仅41人)；2020年入选英国皇家化学学会会士(FRSC)；2022年入选教育部“长江学者奖励计划”讲席学者、浙江省“鲲鹏行动”计划。
 
                     <br>
                     <br>
                     Email: baojun.wang@zju.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Tel: 0086-(0)571-82993302
+                    Tel: +86-571-82993302
                 </td>
             </tr>
             </tbody>
@@ -365,10 +365,10 @@ hero_image: /assets/dnabackground.jpg
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>李阳</strong><br>
-                    硕士研究生<br>
+                    <strong>胡敏琦</strong><br>
+                    博士研究生 <br>
                     <br>
-                    核酸疫苗设计与递送
+                    基因线路设计
                     <br>
                     <br>
                 </td>
@@ -390,6 +390,22 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                 </td>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/wangxiaoqi.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>王晓祺</strong><br>
+                    博士研究生 <br>
+                    <br>
+                    合成生物学
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
@@ -402,28 +418,66 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                 </td>
-            </tr>
-
-            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>胡敏琦</strong><br>
-                    博士研究生 <br>
+                    <strong>李阳</strong><br>
+                    硕士研究生<br>
                     <br>
-                    基因线路设计
+                    核酸疫苗设计与递送
                     <br>
                     <br>
                 </td>
-
-                <!-- <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
+            </tr>
+        
+            <tr>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/zhangjiayi.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>胡敏琦</strong><br>
-                    博士研究生 <br>
+                    <strong>张佳怡</strong><br>
+                    硕士研究生<br>
                     <br>
+                    合成生物学
+                    <br>
+                    <br>
+                </td>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/lichengze.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>李承泽</strong><br>
+                    硕士研究生 <br>
+                    <br>
+                    合成生物学
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/lichenxin.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>李晨欣</strong><br>
+                    硕士研究生<br>
+                    <br>
+                    合成生物学
+                    <br>
+                    <br>
+                </td>
+                <!-- <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>冯磊磊</strong><br>
+                    硕士研究生 <br>
+                    <br>
+                    肿瘤的细胞疗法
                     <br>
                     <br>
                     <br>

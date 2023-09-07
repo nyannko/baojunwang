@@ -38,7 +38,7 @@ show_sidebar: false
                     <br>
                     <br>
                     Email: baojun.wang@zju.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    Tel: 0086-(0)571-82993302
+                    Tel: +86-571-82993302
                 </td>
             </tr>
             </tbody>
@@ -277,7 +277,7 @@ show_sidebar: false
                     <strong>Haifeng Yang</strong><br>
                     Biological Engineer<br>
                     <br>
-                    Genetic logic circuit design
+                    Cell-free genetic circuit design
                     <br>
                     <br>
                 </td>
@@ -337,10 +337,10 @@ show_sidebar: false
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>Yang Li</strong><br>
-                    Master student<br>
+                    <strong>Minqi Hu</strong><br>
+                    PhD student<br>
                     <br>
-                    RNA vaccine and delivery
+                    Genetic circuit design
                     <br>
                     <br>
                 </td>
@@ -362,6 +362,22 @@ show_sidebar: false
                     <br>
                 </td>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/wangxiaoqi.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>Xiaoqi Wang</strong><br>
+                    PhD student<br>
+                    <br>
+                    <br>
+                    Synthetic biology
+                    <br>
+                    <br>
+                </td>
+
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
@@ -373,31 +389,66 @@ show_sidebar: false
                     <br>
                     <br>
                 </td>
-
-            </tr>
-
-            <tr>
-
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>Minqi Hu</strong><br>
-                    PhD student<br>
+                    <strong>Yang Li</strong><br>
+                    Master student<br>
                     <br>
-                    Genetic circuit design
+                    RNA vaccine and delivery
+                    <br>
+                    <br>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/zhangjiayi.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>Jiayi Zhang</strong><br>
+                    Master student<br>
+                    <br>
+                    Synthetic biology
+                    <br>
+                    <br>
+                </td>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/lichengze.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>Chengze Li</strong><br>
+                    Master student<br>
+                    <br>
+                    Synthetic biology
+                    <br>
+                    <br>
+                    <br>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/lichenxin.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>Chenxin Li</strong><br>
+                    Master student<br>
+                    <br>
+                    Synthetic biology
                     <br>
                     <br>
                 </td>
                 <!-- <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/peopleavatar.png" width="150" height="200" alt=""><br>
+                    <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>Minqi Hu</strong><br>
-                    PhD student<br>
+                    <strong>Leilei Feng</strong><br>
+                    Master student<br>
                     <br>
                     <br>
-                    <br>
+                    Cell therapy for tumors
                     <br>
                     <br>
                 </td> -->
