@@ -21,11 +21,8 @@ show_sidebar: false
                     <strong>Baojun Wang PhD FRSC</strong><br>
 
                     Prof. Baojun Wang is Qiushi Distinguished Professor and Director of the ZJU-HIC Institute of
-                    Synthetic Biology at Zhejiang University . He leads the Synthetic Biological Circuit Engineering Lab
-                    in the College of Chemical and Biological Engineering of Zhejiang University. He received a PhD in
-                    Bioengineering from Imperial College London (2011), and was Reader in Biological Circuit Engineering
-                    at the University of Edinburgh before his present appointment, and is an elected Fellow of the Royal
-                    Society of Chemistry (2020). His research interests include developing new enabling tools for
+                    Synthetic Biology at Zhejiang University. He leads the Synthetic Biological Circuit Engineering Lab
+                    in the College of Chemical and Biological Engineering of Zhejiang University. He received a PhD in Bioengineering from Imperial College London, and was Reader in Synthetic Biology at the University of Edinburgh before his present appointment, and is an elected Fellow of the Royal Society of Chemistry. His research interests include developing new enabling tools for
                     synthetic biology, and engineering novel customized genetic circuits for the sensing and information
                     processing of multiple cellular and environmental signals with applications in diverse areas, for
                     example, biosensing, biocomputing, biomanufacturing and biotherapies. Prof. Wang has received
@@ -245,6 +242,17 @@ show_sidebar: false
 
             <tr>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/gaoyuanli.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>Yuanli Gao</strong><br>
+                    Postdoc<br>
+                    <br>
+                    Gene regulation and circuit design
+                    <br>
+                    <br>
+                </td>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
@@ -255,6 +263,10 @@ show_sidebar: false
                     <br>
                     <br>
                 </td>
+            </tr>
+
+
+            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
                 </td>
@@ -266,10 +278,6 @@ show_sidebar: false
                     <br>
                     <br>
                 </td>
-            </tr>
-
-
-            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
                 </td>
@@ -281,6 +289,9 @@ show_sidebar: false
                     <br>
                     <br>
                 </td>
+            </tr>
+
+            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
@@ -292,9 +303,6 @@ show_sidebar: false
                     <br>
                     <br>
                 </td>
-            </tr>
-
-            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>

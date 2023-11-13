@@ -259,6 +259,17 @@ hero_image: /assets/dnabackground.jpg
 
             <tr>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/gaoyuanli.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>高元力</strong><br>
+                    博士后<br>
+                    <br>
+                    基因调控与线路设计
+                    <br>
+                    <br>
+                </td>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
@@ -269,6 +280,10 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                 </td>
+            </tr>
+
+
+            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
                 </td>
@@ -280,10 +295,6 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                 </td>
-            </tr>
-
-
-            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
                 </td>
@@ -297,6 +308,9 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                 </td>
+            </tr>
+
+            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
                 </td>
@@ -308,9 +322,6 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                 </td>
-            </tr>
-
-            <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/fengjialing.png" width="150" height="200" alt=""><br>
                 </td>

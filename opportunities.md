@@ -7,7 +7,7 @@ show_sidebar: false
 toc: false
 ---
 
-We welcome highly motivated and exceptionally talented researchers to join the lab. You are welcome to contact me if interested by including a letter stating your motivation, research and career interests, your detailed academic CV and preprints of publicatons listed on your CV but not yet available. For PhD application enquiries, please do send your academic transcripts including course grades and ranking. 
+We welcome highly motivated and talented researchers to join the lab. You are welcome to contact me if interested by including a letter stating your motivation, research and career interests, your detailed academic CV and preprints of publicatons listed on your CV but not yet available. For PhD application enquiries, please do send your academic transcripts including course grades and ranking. 
 
 Candidate PhD projects: 
 
@@ -25,7 +25,7 @@ College of Chemical and Biological Engineering, Zhejiang University
 
 R3-421 Yongqian Building, Zijingang Campus West, Westlake District, Hangzhou 310058, China
 
-Tel: +86 (0)571-8299-3302 
+Tel: +86-571-82993302 
 
 Email: baojun.wang@zju.edu.cn
 

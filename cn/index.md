@@ -14,7 +14,7 @@ show_sidebar: true
 <br>
 <br>
 
-#### （1）合成生物学关键共性使能技术及工具开发 
+#### （1）合成生物学共性关键使能技术及工具开发 
 <img alt="" src="../assets/b2.png" width="620px">
 <!-- <img alt="" src="../assets/b2.png" width="100%"> -->
 <br>
