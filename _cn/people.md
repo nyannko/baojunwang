@@ -71,8 +71,19 @@ hero_image: /assets/dnabackground.jpg
                     Email: nanzhou@zju.edu.cn
                 </td>
 
-    
-
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/yuanxiaofei.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" style="word-wrap:break-word;" class="des">
+                    <strong>原晓非</strong><br>
+                    研究专家
+                    <br>
+                    <br>
+                    微流控等交叉学科技术与生物计算相融合的基础理论研究<br>
+                    生物计算在环境、医疗领域的应用基础研究<br>
+                    <br>
+                    Email: yuanxf@zhejianglab.com
+                </td>
             </tr>
 
 
@@ -252,6 +263,31 @@ hero_image: /assets/dnabackground.jpg
                     博士后<br>
                     <br>
                     生物计算基因线路设计
+                    <br>
+                    <br>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>刘乐林</strong><br>
+                    博士研究员<br>
+                    <br>
+                    生物传感及微流控系统
+                    <br>
+                    <br>
+                </td>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/huangrui.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>黄锐</strong><br>
+                    高级研究专员<br>
+                    <br>
+                    合成生物学使能技术工具
                     <br>
                     <br>
                 </td>
