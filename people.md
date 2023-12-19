@@ -26,7 +26,7 @@ show_sidebar: false
                     synthetic biology, and engineering novel customized genetic circuits for the sensing and information
                     processing of multiple cellular and environmental signals with applications in diverse areas, for
                     example, biosensing, biocomputing, biomanufacturing and biotherapies. Prof. Wang has received
-                    several prestigious awards including the UK Research and Innovation Future Leaders Fellowship, BBSRC
+                    many prestigious awards including the UK Research and Innovation Future Leaders Fellowship, BBSRC
                     New Investigator Award, Gates Foundation Grand Challenges Explorations Award, Changjiang Scholar
                     Chair Professorship by the Ministry of Education of China and the Kunpeng Action Program Award of
                     Zhejiang Province. His research has also been funded by leading industry partners including
@@ -61,9 +61,8 @@ show_sidebar: false
                     Research Investigator
                     <br>
                     <br>
-                    Foundational and Applied Research of Synthetic Gene Circuits<br>
-                    Using synthetic gene circuits as a tool to study the principles of biology and to develop novel
-                    biomedicine
+                    Foundational and applied research of synthetic genetic circuits<br>
+                    Using genetic circuits as a tool to study principles of biological systems and to develop novel biomedicine
                     <br>
                     <br>
                     Email: nanzhou@zju.edu.cn
@@ -432,7 +431,7 @@ show_sidebar: false
                     Master student<br>
                     <br>
                     <br>
-                    Cell therapy for tumors
+                    Bacterial therapy for tumors
                     <br>
                     <br>
                 </td>

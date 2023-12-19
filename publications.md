@@ -10,6 +10,10 @@ toc: true
 
 ## Selected Publications
 
+
+* Gao Y, **Wang L**\* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  
+<br>
+
 * Liu Y, Pinto F, Wan X, Z Yang, Peng S, Li M, J Cooper, Xie Z, French C and **Wang B\***, "Reprogrammed tracrRNAs enable repurposing of RNAs as crRNAs and sequence-specific RNA biosensors", _**Nature Communications**_, 2022, 13, 1937  [doi](https://doi.org/10.1038/s41467-022-29604-x){:target="_blank"}  [pdf](https://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Liu2022NatCommun_Reprogrammed%20tracrRNAs%20enable%20repurposing%20of%20RNAs%20as%20crRNAs%20and%20sequence-specific%20RNA%20biosensors.pdf){:target="_blank"}  (Reported by [Nature Research Bioengineering Blog](https://bioengineeringcommunity.nature.com/posts/repurposing-rnas-to-be-crispr-rnas-starting-with-engineering#share){:target="_blank"}, [Regensis](https://mp.weixin.qq.com/s/yn6CjiMARo_ABv_mnI7SVg){:target="_blank"}, [BioArtMED](http://mp.weixin.qq.com/s?__biz=MzU4OTY0NzE1NQ==&mid=2247512419&idx=3&sn=f6477361570e0915b4cc040f7f694e1f&chksm=fdc8ad3fcabf2429b2432cc8e491a254502aab6bddfc35283c57c8dd8298f311cd1d4a95e2d1&mpshare=1&scene=1&srcid=0430JQOiCHVdRAFCAPvrtUPh&sharer_sharetime=1651313592565&sharer_shareid=6ddaed0a58ce0a547d64e85841dd92aa#rd), [X&#8209;MOL](https://mp.weixin.qq.com/s/HTSpzmZgC2KoyFb6QBz8sA){:target="_blank"}, [biosyn&#8209;met](https://mp.weixin.qq.com/s/CMCOrR195KfgDQ36KHUb9w){:target="_blank"}  and [LanHanBiotechnology](https://mp.weixin.qq.com/s/s_WKqSnkbmx16Rt84mZJzQ){:target="_blank"}  among others)  
 <br>  
 
@@ -50,6 +54,16 @@ toc: true
   
 
 ## Journal Articles
+
+
+* Gao Y, **Wang L**\* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  
+<br>
+
+*  **Liu Y**\*, Liu W and **Wang B**\*, “Engineering CRISPR guide RNAs for programmable RNA sensors”, _**Biochemical Society Transactions**_, 2023, BST20221486. [doi](https://doi.org/10.1042/BST20221486){:target="_blank"}  
+<br> 
+
+* Gao Y#, Dong C#, **Lian J**\* and **Wang B**\*, “2nd symposium on engineering biology and BioFoundry”, _**Biotechnology Notes**_, 2023, 4, 100-103. [doi](https://doi.org/10.1016/j.biotno.2023.11.004){:target="_blank"}  
+<br> 
 
 *  **Liu Y**\*, Liu W and **Wang B**\*, “Engineering CRISPR guide RNAs for programmable RNA sensors”, **_Biochemical Society Transactions_**, 2023, BST20221486. [doi](https://doi.org/10.1042/BST20221486){:target="_blank"}  
 <br>  
