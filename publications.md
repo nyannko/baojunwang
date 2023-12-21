@@ -11,7 +11,7 @@ toc: true
 ## Selected Publications
 
 
-* Gao Y, **Wang L**\* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  
+* Gao Y, Wang L* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  
 <br>
 
 * Liu Y, Pinto F, Wan X, Z Yang, Peng S, Li M, J Cooper, Xie Z, French C and **Wang B\***, "Reprogrammed tracrRNAs enable repurposing of RNAs as crRNAs and sequence-specific RNA biosensors", _**Nature Communications**_, 2022, 13, 1937  [doi](https://doi.org/10.1038/s41467-022-29604-x){:target="_blank"}  [pdf](https://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Liu2022NatCommun_Reprogrammed%20tracrRNAs%20enable%20repurposing%20of%20RNAs%20as%20crRNAs%20and%20sequence-specific%20RNA%20biosensors.pdf){:target="_blank"}  (Reported by [Nature Research Bioengineering Blog](https://bioengineeringcommunity.nature.com/posts/repurposing-rnas-to-be-crispr-rnas-starting-with-engineering#share){:target="_blank"}, [Regensis](https://mp.weixin.qq.com/s/yn6CjiMARo_ABv_mnI7SVg){:target="_blank"}, [BioArtMED](http://mp.weixin.qq.com/s?__biz=MzU4OTY0NzE1NQ==&mid=2247512419&idx=3&sn=f6477361570e0915b4cc040f7f694e1f&chksm=fdc8ad3fcabf2429b2432cc8e491a254502aab6bddfc35283c57c8dd8298f311cd1d4a95e2d1&mpshare=1&scene=1&srcid=0430JQOiCHVdRAFCAPvrtUPh&sharer_sharetime=1651313592565&sharer_shareid=6ddaed0a58ce0a547d64e85841dd92aa#rd), [X&#8209;MOL](https://mp.weixin.qq.com/s/HTSpzmZgC2KoyFb6QBz8sA){:target="_blank"}, [biosyn&#8209;met](https://mp.weixin.qq.com/s/CMCOrR195KfgDQ36KHUb9w){:target="_blank"}  and [LanHanBiotechnology](https://mp.weixin.qq.com/s/s_WKqSnkbmx16Rt84mZJzQ){:target="_blank"}  among others)  
@@ -56,16 +56,16 @@ toc: true
 ## Journal Articles
 
 
-* Gao Y, **Wang L**\* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  
+* Gao Y, Wang L* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  
 <br>
 
-*  **Liu Y**\*, Liu W and **Wang B**\*, “Engineering CRISPR guide RNAs for programmable RNA sensors”, _**Biochemical Society Transactions**_, 2023, BST20221486. [doi](https://doi.org/10.1042/BST20221486){:target="_blank"}  
+*  Liu Y*, Liu W and **Wang B**\*, “Engineering CRISPR guide RNAs for programmable RNA sensors”, _**Biochemical Society Transactions**_, 2023, BST20221486. [doi](https://doi.org/10.1042/BST20221486){:target="_blank"}  
 <br> 
 
-* Gao Y#, Dong C#, **Lian J**\* and **Wang B**\*, “2nd symposium on engineering biology and BioFoundry”, _**Biotechnology Notes**_, 2023, 4, 100-103. [doi](https://doi.org/10.1016/j.biotno.2023.11.004){:target="_blank"}  
+* Gao Y#, Dong C#, Lian J* and **Wang B**\*, “2nd symposium on engineering biology and BioFoundry”, _**Biotechnology Notes**_, 2023, 4, 100-103. [doi](https://doi.org/10.1016/j.biotno.2023.11.004){:target="_blank"}  
 <br> 
 
-*  **Liu Y**\*, Liu W and **Wang B**\*, “Engineering CRISPR guide RNAs for programmable RNA sensors”, **_Biochemical Society Transactions_**, 2023, BST20221486. [doi](https://doi.org/10.1042/BST20221486){:target="_blank"}  
+*  **Wang B**\* and Tan C*, Special Issue “Synthetic biology for biosensing in health and environmental applications”, _**Biosensors**_, 2023, 13(10), 937. [doi](https://doi.org/10.3390/bios13100937){:target="_blank"}   
 <br>  
 
 *  Wang X, Zhou N and **Wang B**\*, “Bacterial synthetic biology: tools for novel drug discovery”, **_Expert Opinion on Drug Discovery_**, 2023, 18(10), 1087-1097. [doi](https://doi.org/10.1080/17460441.2023.2239704){:target="_blank"}  
@@ -98,7 +98,7 @@ toc: true
 <br>  
     
 
-*   **Saltepe B**, Wang L and **Wang B**\*, "Synthetic biology enables field-deployable biosensors for water contaminants", _**Trends in Analytical Chemistry**_, 2022, 146, 116507  [doi](https://doi.org/10.1016/j.trac.2021.116507){:target="_blank"}  [pdf](https://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Saltepe2022TrAC_Synthetic%20biology%20enables%20field-deployable%20biosensors%20for%20water%20contaminants.pdf){:target="_blank"}  
+*   Saltepe B, Wang L and **Wang B**\*, "Synthetic biology enables field-deployable biosensors for water contaminants", _**Trends in Analytical Chemistry**_, 2022, 146, 116507  [doi](https://doi.org/10.1016/j.trac.2021.116507){:target="_blank"}  [pdf](https://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Saltepe2022TrAC_Synthetic%20biology%20enables%20field-deployable%20biosensors%20for%20water%20contaminants.pdf){:target="_blank"}  
 <br>  
     
 
@@ -120,7 +120,7 @@ toc: true
 <br>  
     
 
-*   **Wan X**, **Saltepe B**, Yu L and **Wang B**\*, "Programming living sensors for environment, health and biomanufacturing", _**Microbial Biotechnology**_, 2021, 14(6): 2334-2342.  [doi](https://doi.org/10.1111/1751-7915.13820){:target="_blank"}  [pdf](https://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2021MicrobialBiotech_Programming%20living%20sensors%20for%20environment%2C%20health%20and%20biomanufacturing.pdf){:target="_blank"}  
+*   Wan X, Saltepe B, Yu L and **Wang B**\*, "Programming living sensors for environment, health and biomanufacturing", _**Microbial Biotechnology**_, 2021, 14(6): 2334-2342.  [doi](https://doi.org/10.1111/1751-7915.13820){:target="_blank"}  [pdf](https://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2021MicrobialBiotech_Programming%20living%20sensors%20for%20environment%2C%20health%20and%20biomanufacturing.pdf){:target="_blank"}  
 <br>  
     
 
@@ -173,7 +173,7 @@ toc: true
 <br>  
     
 
-*   Vasudevan R, Gale G, Schiavon A, Puzorjov A, Malin J, Gillespie M, Vavitsas K, Zulkower V, **Wang B,** Howe C, Lea-Smith D and McCormick A, "CyanoGate: A modular cloning suite for engineering cyanobacteria based on the plant MoClo syntax", _**Plant Physiology**_, 2019, 180(1):39-55  [doi](https://doi.org/10.1104/pp.18.01401){:target="_blank"}  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Gale2019PlantPhysiology_CyanoGate%20-a%20modular%20cloning%20suite%20for%20engineering%20cyanobacteria%20based%20on%20the%20plant%20MoClo%20syntax.pdf){:target="_blank"}  
+*   Vasudevan R, Gale G, Schiavon A, Puzorjov A, Malin J, Gillespie M, Vavitsas K, Zulkower V, **Wang B**, Howe C, Lea-Smith D and McCormick A, "CyanoGate: A modular cloning suite for engineering cyanobacteria based on the plant MoClo syntax", _**Plant Physiology**_, 2019, 180(1):39-55  [doi](https://doi.org/10.1104/pp.18.01401){:target="_blank"}  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Gale2019PlantPhysiology_CyanoGate%20-a%20modular%20cloning%20suite%20for%20engineering%20cyanobacteria%20based%20on%20the%20plant%20MoClo%20syntax.pdf){:target="_blank"}  
 <br>  
     
 
