@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "浙江大学王宝俊团队Nature Comm综述｜通过多层面基因调控定制基因线路"
+date:   2023-12-19 20:12:07
+author: 高元力
+description: "浙江大学王宝俊团队Nature Comm综述｜通过多层面基因调控定制基因线路"
+image: '/assets/news/28.png'
+published: true
+canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
+hero_image: '/assets/news/28.png'
+hero_darken: true
+show_sidebar: true
+---
+
+
+合成生物学的一大目标是通过设计基因线路来控制生物系统的行为，使它们执行多样的功能。目前，多种合成生物系统（如细菌、酵母、植物和哺乳动物细胞等）已经被应用于高价值化学品和材料的生产、疾病的诊断和治疗、环境污染的监测以及农作物产量的提高。如此多样的应用场景对基因线路设计提出了巨大挑战：能否根据不同的用户需求定制基因线路？为应对这一挑战，合成生物学家发掘出大量调控基因表达的生物元件，并提出了不同的基因线路设计策略。
+
+近日，浙江大学王宝俊团队受邀在Nature Communications发表了题为“Customizing cellular signal processing by synthetic multi-level regulatory circuits”的综述文章（高元力为第一作者）。文章首先系统性地总结了目前基因调控元件的类型、优势及挑战，以及它们在基因线路设计中的应用。文章还创新性提出一种 “复合基因线路 （multi-level circuit）” 框架，即将DNA、RNA和蛋白质层面的基因调控元件组合起来设计基因线路的策略，并详细分析了这种设计策略的应用场景。
+
+
+<center><img alt="" src="../../assets/news/26.png" width="80%"></center>
+
+<center>图1. 定制基因线路以响应不同输入信号产生定制输出信号</center>
+<br>
+
+在过去十年间，基因线路在规模和功能上取得了长足的发展，可以根据输入信号的强度、持续时间、频率、组合和时间顺序产生随时间或空间变化的输出信号（图1）。典型的基因线路包含：逻辑（logic）、模拟（analog）、记忆（memory）和振荡（oscillation）线路（图2）。逻辑线路是最基本、最普遍的基因线路，可以处理具有“0”和“1”状态的数字信号。模拟线路可以处理连续变化的输入信号，根据输入信号的强度变化产生不同的输出信号。记忆线路可以记录输入信号的历史，稳定地保持在某一个状态，直到接受特定输入信号后切换到另一状态。振荡线路可以产生强度随时间周期性变化的输出信号。
+
+<center><img alt="" src="../../assets/news/27.png" width="80%"></center>
+
+<center>图2. 四种典型的基因线路：逻辑、模拟、记忆和振荡线路</center>
+<br>
+
+基因线路的发展得益于对新型基因调控系统不断的发掘和研究。文章对目前DNA、RNA和蛋白质层面的基因调控元件的机制、优势、挑战和设计策略进行了总结和分析（图3）。DNA层面的基因调控系统包括转录因子（transcription factor）、重组酶（recombinase）、质粒拷贝数调节（copy number control），RNA层面的基因调控系统包括核糖核酸调节子（riboregulator）、核糖开关（riboswitch）、核酶（ribozyme）、RNA结合蛋白（RNA-binding protein）、可编程RNA靶向系统（programmable RNA targeting system），蛋白层面的基因调控系统包含蛋白结合（binding）、水解(proteolysis)、剪接（splicing）、磷酸化调控（phosphoregulation）。
+
+
+<center><img alt="" src="../../assets/news/28.png" width="80%"></center>
+
+<center>图3. DNA、RNA和蛋白层面的基因调控元件</center>
+<br>
+
+
+上述基因调控元件极大地丰富了基因线路设计的工具箱。然而，目前多数的基因线路仍然是依赖于单一的调控机制（比如转录调控），很少将不同的调控元件整合到一个线路中。因此，这些基因线路的功能受到特定调控机制的局限，例如转录调控较慢的响应速度。相比之下，“复合线路”能够整合来自DNA、RNA、蛋白质层面的多种调控机制，使它们各骋所长，从而实现更为复杂的功能。文章讨论了“复合线路”的设计策略以及优势，涵盖了不同的场景：调节基因线路的剂量反应（dose responses）和动态响应（time-dependent dynamics）、减少遗传足迹（genetic footprint）以扩大基因线路规模、构建遗传控制器（genetic controller）以提高线路的鲁棒性（robustness）、促进基因线路的实际应用（图4）。
+
+<center><img alt="" src="../../assets/news/29.png" width="80%"></center>
+
+<center>图4. 复合基因线路（multi-level circuit）的应用场景</center>
+<br>
+
+综上所述，本综述文章系统性总结了目前的基因调控元件和基因线路设计策略，分析了它们的优势和面临的挑战。文章提出的复合基因线路设计框架丰富了当前的基因线路设计范式，将指导未来相关的合成生物学研究，提高定制基因线路的能力，催生新的合成生物学产品以改善民生。
+
+
+
+##### 论文信息
+
+
+Gao Y, Wang L* and Wang B*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  

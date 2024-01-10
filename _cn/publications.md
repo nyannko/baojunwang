@@ -9,7 +9,7 @@ toc: true
 
 ## 代表论文
 
-* Gao Y, **Wang L**\* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1)  
+* Gao Y, Wang L* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1)  
 <br>
 
 
@@ -57,10 +57,10 @@ toc: true
 * Gao Y, Wang L* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  
 <br>
 
-*  Liu Y*, Liu W and **Wang B**\*, “Engineering CRISPR guide RNAs for programmable RNA sensors”, _**Biochemical Society Transactions**_, 2023, BST20221486. [doi](https://doi.org/10.1042/BST20221486){:target="_blank"}  
+*  Liu Y*, Liu W and **Wang B**\*, “Engineering CRISPR guide RNAs for programmable RNA sensors”, _**Biochemical Society Transactions**_, 2023, 51(6), 2061–2070. [doi](https://doi.org/10.1042/BST20221486){:target="_blank"}  
 <br> 
 
-* Gao Y#, Dong C#, **Lian J**\* and **Wang B**\*, “2nd symposium on engineering biology and BioFoundry”, _**Biotechnology Notes**_, 2023, 4, 100-103. [doi](https://doi.org/10.1016/j.biotno.2023.11.004){:target="_blank"}  
+* Gao Y#, Dong C#, Lian J* and **Wang B**\*, “2nd symposium on engineering biology and BioFoundry”, _**Biotechnology Notes**_, 2023, 4, 100-103. [doi](https://doi.org/10.1016/j.biotno.2023.11.004){:target="_blank"}  
 <br> 
 
 *  **Wang B**\* and Tan C*, Special Issue “Synthetic biology for biosensing in health and environmental applications”, _**Biosensors**_, 2023, 13(10), 937. [doi](https://doi.org/10.3390/bios13100937){:target="_blank"}   
@@ -275,17 +275,17 @@ toc: true
 
 ## 专著及章节 
 
-*   Wan X and **Wang B**\*, "Engineering microbial sensor cell arrays to visualize environmental contaminants", 2021, In: Avraham Rasooly and Houston Baker (eds.), _Biosensors and Biodetection: Methods and Protocols_, Springer; _Methods in Molecular Biology_.  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2020BiosensorsBiodetectionChapter_Engineering%20microbial%20sensor%20cell%20arrays%20to%20visualize%20environmental%20contaminants.pdf){:target="_blank"}  
+*   Wan X and **Wang B**\*, "Engineering microbial sensor cell arrays to visualize environmental contaminants", 2021, In: Avraham Rasooly and Houston Baker (eds.), **_Biosensors and Biodetection: Methods and Protocols_**, Springer; **_Methods in Molecular Biology_**.  
 <br>  
     
-*   Wan X, **Ho T** and **Wang B**\*, "Engineering prokaryote synthetic biology biosensors", 2019, In: Gérald Thouand (ed.){:target="_blank"}  _Handbook of Cell Biosensors_, Springer, 37 pages.  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2019BookChapter_Engineering%20prokaryote%20synthetic%20biology%20biosensors.pdf){:target="_blank"}  [doi](http://dx.doi.org/10.1007/978-3-319-47405-2_131-1){:target="_blank"}  
+*   Wan X, Ho T and **Wang B**\*, "Engineering prokaryote synthetic biology biosensors", 2019, In: Gérald Thouand (ed.) **_Handbook of Cell Biosensors_**, Springer, 37 pages. [doi](http://dx.doi.org/10.1007/978-3-319-47405-2_131-1){:target="_blank"}  
 <br>  
     
-*   Bernard E and **Wang B**\*, "Synthetic cell-based sensors with programmed selectivity and sensitivity", 2017, In: Avraham Rasooly and Ben Prickril (eds.), _Biosensors and Biodetection: Methods and Protocols_, Springer; _Methods in Molecular Biology_, 1572:349-363  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Bernard2017MethodsMB_Synthetic%20Cell-based%20Bisoensors%20_Chapter23.pdf){:target="_blank"}  [doi](http://dx.doi.org/10.1007/978-1-4939-6911-1_23){:target="_blank"}  
+*   Bernard E and **Wang B**\*, "Synthetic cell-based sensors with programmed selectivity and sensitivity", 2017, In: Avraham Rasooly and Ben Prickril (eds.), **_Biosensors and Biodetection: Methods and Protocols_**, Springer; **_Methods in Molecular Biology_**, 1572:349-363  [doi](http://dx.doi.org/10.1007/978-1-4939-6911-1_23){:target="_blank"}  
 <br>  
     
 *   **Wang B**\*, _Engineering Genetic Logic Gates_, Lambert Academic Publishing, ISBN: 978-3-659-27479-4, 2012, 208 pages. [Amazon link](http://www.amazon.co.uk/Engineering-Genetic-Logic-Gates-Functional/dp/3659274798){:target="_blank"},  [Publisher link](http://www.lap-publishing.com/catalog/details/store/gb/book/978-3-659-27479-4/engineering-genetic-logic-gates?search=Engineering%20Genetic%20Logic%20Gates){:target="_blank"}  
 <br>  
     
-*   **Wang B**\*, _Design and Functional Assembly of Synthetic Biological Parts and Devices_, PhD Dissertation, Imperial College London, 2011, 175 pages. [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wang2011PhDThesis_Design%20and%20functional%20assembly%20of%20synthetic%20biological%20parts%20and%20devices_14Feb2011_final%20edited%20version.pdf){:target="_blank"}  
+*   **Wang B**\*, _Design and Functional Assembly of Synthetic Biological Parts and Devices_, PhD Dissertation, Imperial College London, 2011, 175 pages.  
 <br>  
