@@ -32,7 +32,7 @@ hero_image: /assets/dnabackground.jpg
                     浙江大学杭州科创中心生物与分子智造研究院副院长、合成生物学研究所所长<br>
 
                     <br>
-                    王宝俊，教育部长江学者讲席教授、浙江省鲲鹏行动计划专家。现任浙江大学杭州科创中心生物与分子智造研究院副院长、合成生物学研究所所长。2005、2011年分别获得浙江大学生物医学工程学士学位和英国帝国理工学院生物工程博士学位。2022年回国任职前曾任英国爱丁堡大学生物科学学院合成生物学终身教授。长期致力于合成生物学使能技术开发、基因线路工程化设计研究及其在生物传感、生物计算、智能诊疗和生物制造等领域的创新应用。近五年以通讯作者发表重要学术论文30余篇（包括Nature Chem Biol 等7篇Nature子刊论文），主持英国自然科学基金会、比尔盖茨基金会、英国国防部、美国海军研究署和国家重点研发计划重点专项、国自然重点国合项目等二十余项研究基金。曾获得重要奖项有：2015年盖茨基金会全球大挑战探索基金奖；2016年英国生物技术与科学基金会新研究员奖；2016年维康基金会科学种子基金奖；2019年英国自然科学基金会杰出青年科学基金奖(全英仅41人)；2020年入选英国皇家化学学会会士(FRSC)；2022年入选教育部“长江学者奖励计划”讲席学者、浙江省“鲲鹏行动”计划。
+                    王宝俊，教育部长江学者讲席教授、浙江省鲲鹏行动计划专家。现任浙江大学杭州科创中心生物与分子智造研究院副院长、合成生物学研究所所长。2005、2011年分别获得浙江大学生物医学工程学士学位和英国帝国理工学院生物工程博士学位。2022年回国任职前曾任英国爱丁堡大学生物科学学院合成生物学终身教授。长期致力于合成生物学使能技术、基因线路工程化设计研究及其在生物传感、生物计算、智能诊疗和生物制造等领域的创新应用。近五年以通讯作者发表重要学术论文30余篇（包括Nature Chem Biol 等7篇Nature子刊论文），主持英国自然科学基金会、比尔盖茨基金会、英国国防部、美国海军研究署和国家重点研发计划重点专项、国自然重点国合项目等二十余项研究基金。曾获得重要奖项有：2015年盖茨基金会全球大挑战探索基金奖；2016年英国生物技术与科学基金会新研究员奖；2016年维康基金会科学种子基金奖；2019年英国自然科学基金会杰出青年科学基金奖(全英仅41人)；2020年入选英国皇家化学学会会士(FRSC)；2022年入选教育部“长江学者奖励计划”讲席学者、浙江省“鲲鹏行动”计划。
 
                     <br>
                     <br>
@@ -268,6 +268,31 @@ hero_image: /assets/dnabackground.jpg
 
             <tr>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/gaoyuanli.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>高元力</strong><br>
+                    博士后<br>
+                    <br>
+                    基因调控与线路设计
+                    <br>
+                    <br>
+                </td>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/guoqiang.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>郭强</strong><br>
+                    博士后<br>
+                    <br>
+                    合成生物学基因线路设计及应用
+                    <br>
+                    <br>
+                </td>
+            </tr>
+
+            <tr>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
@@ -291,18 +316,8 @@ hero_image: /assets/dnabackground.jpg
                 </td>
             </tr>
 
+
             <tr>
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/gaoyuanli.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>高元力</strong><br>
-                    博士后<br>
-                    <br>
-                    基因调控与线路设计
-                    <br>
-                    <br>
-                </td>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
@@ -311,48 +326,6 @@ hero_image: /assets/dnabackground.jpg
                     研究专员<br>
                     <br>
                     基因线路设计
-                    <br>
-                    <br>
-                </td>
-            </tr>
-
-
-            <tr>
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>李茜</strong><br>
-                    工程师<br>
-                    <br>
-                    生物计算基因线路设计的生物信息开发
-                    <br>
-                    <br>
-                </td>
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>杨海锋</strong><br>
-                    工程师<br>
-                    <br>
-                    无细胞基因线路设计
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                </td>
-            </tr>
-
-            <tr>
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>施高美</strong><br>
-                    工程专员<br>
-                    <br>
-                    基因线路自动化设计软件平台开发
                     <br>
                     <br>
                 </td>

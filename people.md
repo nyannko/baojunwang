@@ -254,6 +254,31 @@ show_sidebar: false
 
             <tr>
                 <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/gaoyuanli.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>Yuanli Gao</strong><br>
+                    Postdoc<br>
+                    <br>
+                    Gene regulation and circuit design
+                    <br>
+                    <br>
+                </td>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/guoqiang.png" width="150" height="200" alt=""><br>
+                </td>
+                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
+                    <strong>Qiang Guo</strong><br>
+                    Postdoc<br>
+                    <br>
+                    Genetic circuit design and applicate in synthetic biology
+                    <br>
+                    <br>
+                </td>
+            </tr>
+            
+            <tr>
+                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
@@ -280,17 +305,6 @@ show_sidebar: false
 
             <tr>
                 <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/gaoyuanli.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>Yuanli Gao</strong><br>
-                    Postdoc<br>
-                    <br>
-                    Gene regulation and circuit design
-                    <br>
-                    <br>
-                </td>
-                <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/majiaxin.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
@@ -298,46 +312,6 @@ show_sidebar: false
                     Research Associate<br>
                     <br>
                     Genetic circuit design
-                    <br>
-                    <br>
-                </td>
-            </tr>
-
-
-            <tr>
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/liqian.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>Qian Li</strong><br>
-                    Bioinformatics Engineer<br>
-                    <br>
-                    Bioinformatics and computational biology for genetic circuit design
-                    <br>
-                    <br>
-                </td>
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/yanghaifeng.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>Haifeng Yang</strong><br>
-                    Biological Engineer<br>
-                    <br>
-                    Cell-free genetic circuit design
-                    <br>
-                    <br>
-                </td>
-            </tr>
-
-            <tr>
-                <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/shigaomei.png" width="150" height="200" alt=""><br>
-                </td>
-                <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>Gaomei Shi</strong><br>
-                    Software Engineer<br>
-                    <br>
-                    Genetic circuit design automation
                     <br>
                     <br>
                 </td>

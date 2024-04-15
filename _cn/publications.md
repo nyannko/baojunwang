@@ -54,6 +54,9 @@ toc: true
 
 ## 期刊论文
 
+* Buson F, Gao Y and **Wang B**\*, “Genetic parts and enabling tools for biocircuit design”, _**ACS Synthetic Biology**_, 2024, 13(3).  [doi](https://doi.org/10.1021/acssynbio.3c00691){:target="_blank"}  
+<br>
+
 * Gao Y, Wang L* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1){:target="_blank"}  
 <br>
 

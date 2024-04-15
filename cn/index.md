@@ -1,5 +1,5 @@
 ---
-title:  合成生物线路设计与创新应用实验室  <a href="/cn"><img src="../assets/WangLabLOGOw.png"  style="vertical-align:middle" width="430px"></a>
+title:  合成生物使能技术与创新应用实验室  <a href="/cn"><img src="../assets/WangLabLOGOw.png"  style="vertical-align:middle" width="430px"></a>
 subtitle: 合成生物学使能技术 + 基因线路设计 + 生物传感、生物计算、智能诊疗应用
 layout: page
 # callouts: home_callouts
