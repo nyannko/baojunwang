@@ -271,12 +271,12 @@ show_sidebar: false
                     <strong>Qiang Guo</strong><br>
                     Postdoc<br>
                     <br>
-                    Genetic circuit design and applicate in synthetic biology
+                    Plant synthetic biology
                     <br>
                     <br>
                 </td>
             </tr>
-            
+
             <tr>
                 <td width="20%" class="photo">
                     <img src="{{ site.baseurl }}/assets/liulelin.png" width="150" height="200" alt=""><br>
@@ -460,18 +460,17 @@ show_sidebar: false
                     <br>
                     <br>
                 </td>
-                <!-- <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/liuenning.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>Leilei Feng</strong><br>
+                    <strong>Enning Liu</strong><br>
                     Master student<br>
                     <br>
+                    Computational synthetic biology
                     <br>
-                    Cell therapy for tumors
                     <br>
-                    <br>
-                </td> -->
+                </td>
             </tr>
 
             </tbody>

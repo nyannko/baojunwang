@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## 王宝俊
  
-现任浙江大学化学工程与生物工程学院求是特聘教授，之江实验室生物计算研究中心特聘专家，教育部长江学者讲席教授，浙江省鲲鹏行动计划专家，英国皇家化学学会会士。2022年回国任职前担任英国爱丁堡大学合成生物学终身教授。长期致力于合成生物学使能技术开发、基因线路设计及其在生物传感、生物计算、智能诊疗等领域的创新应用研究。近三年以通讯作者发表重要学术论文20余篇（包括Nature Chem Biol等7篇Nature子刊论文），担任PLOS Biology、ACS Synthetic Biology国际权威期刊学术编委，主持英国自然科学基金会、比尔盖茨基金会、美国海军研究署 、中国国家自然科学基金会等二十余项研究基金。
+浙江大学化学工程与生物工程学院求是讲席教授，教育部长江学者讲席教授，浙江省鲲鹏行动计划专家，英国皇家化学学会会士。2022年回国任职前曾任英国爱丁堡大学生物科学学院终身教授。长期致力于合成生物学使能技术、基因线路设计研究及其在生物传感、智能诊疗与生物制造等领域的创新应用。近五年以通讯作者发表重要学术论文30余篇（包括 Nature Chem Biol 等7篇Nature子刊论文），担任PLOS Biology、ACS Synthetic Biology等国际权威期刊学术编委，主持英国自然科学基金会、比尔盖茨基金会、英国国防部、美国海军研究署和国家重点研发计划重点专项、国自然重点国合项目等二十余项研究基金。
 
 
 ### 荣誉及奖励
@@ -24,21 +24,25 @@ show_sidebar: false
 
 ### 主要研究兴趣
 
-1. 合成生物学使能技术与工具（内含肽、内含子、CRISPR基因编辑与调控等）
-2. 基因元器件的挖掘、改造、模块化及正交化设计
-3. 基因线路设计（包括工程化、规模化、生物自动化设计等）
-4. 生物传感、生物计算、智能诊疗及生物制造应用
+* 合成生物学使能技术与工具（断裂内含肽、内含子、CRISPR基因编辑调控等）
+* 基因元器件的挖掘、改造、模块化及正交化设计
+* 基因线路设计（包括工程化、自动化、智能化设计）
+* 生物传感（面向健康、环境需求）与智能诊疗
+* 生物计算与生物制造（基于人工细胞或无细胞表达体系等）
 
 
-<center><img alt="" src="../../../assets/bresearch.png" style="width:550px"></center>
+<center><img alt="" src="../../../assets/bresearch.png" style="width:600px"></center>
  
 ### 主要创新科研成果
-1)  国际上率先提出生物计算基因线路的工程化创新设计方法：率先设计并构建了模块化与正交化的基因逻辑门控线路(Nature Commun 2011)、模块化的转录信号放大线路，创建了领域目前最敏感的基于微生物的砷和汞等重金属水污染细胞传感器（Nature Chem Biol 2019）；建立了基于核酸海绵的新型基因线路全面优化设计方法（Nature Commun 2020），开拓了生物计算基因线路在生物传感领域的创新应用。
+1)  国际上率先提出合成基因线路的工程化设计方法：率先设计并构建了模块化与正交化的基因逻辑门控线路(Nature Commun 2011)、模块化的转录信号放大线路，创建了领域目前最敏感的基于微生物的砷和汞等重金属水污染细胞传感器（Nature Chem Biol 2019）；建立了基于核酸海绵的新型基因线路全面优化设计方法（Nature Commun 2020），开拓了合成基因线路在生物传感领域的创新应用（Nature Commun 2023）。
 
 
-<center><img alt="" src="../../../assets/bresearch1.png" style="width:550px"></center>
+<center><img alt="" src="../../../assets/bresearch1.png" style="width:600px"></center>
  
 代表论文：
+
+* Gao Y, Wang L* and **Wang B**\*, “Customizing cellular signal processing by synthetic multi-level regulatory circuits”, _**Nature Communications**_, 2023, 14, 8415. [doi](https://doi.org/10.1038/s41467-023-44256-1)  
+
 
 * Wan X, Pinto F, Yu L and **Wang B**\*, “Synthetic protein-binding DNA sponge as a tool to tune gene expression and mitigate protein toxicity”, **_Nature Communications_**, 2020, 11, 5961  [doi](https://doi.org/10.1038/s41467-020-19552-9)  [pdf](http://wang.bio.ed.ac.uk/wang/sites/sbsweb2.bio.ed.ac.uk.wang/files/Wan2020NatCommun_Synthetic%20protein-binding%20DNA%20sponge%20as%20a%20tool%20to%20tune%20gene%20expression%20and%20mitigate%20protein%20toxicity.pdf)  (Reported by [Nature Research Bioengineering Blog](https://bioengineeringcommunity.nature.com/posts/synthetic-dna-sponge), [BioArt](https://wemp.app/posts/7571fc12-d521-491b-86ad-57b0ec461681), [Zhihu-Regensis](https://zhuanlan.zhihu.com/p/314520966) and [UoE SynthSys News](https://www.ed.ac.uk/biology/synthsys/news-and-events/news-2020/dna-sponges-new-tool-for-fine-tuning-cell-engine) among others)  
 
@@ -55,7 +59,7 @@ show_sidebar: false
 
 
 
-<center><img alt="" src="../../../assets/bresearch2.png" style="width:550px"></center>
+<center><img alt="" src="../../../assets/bresearch2.png" style="width:600px"></center>
  
 
 代表论文与专利：
@@ -72,7 +76,7 @@ show_sidebar: false
 3)  国际上率先将内含肽与转座子工具结合开发了一种新型分裂蛋白设计定向进化方法IBM（Nature Commun 2021），并据此设计出了多种蛋白表达控制逻辑运算器件和显著降低蛋白本底表达水平的调控工具；开发了迄今规模最大的标准化正交断裂蛋白内含肽文库（Nature Commun 2020），解决了大分子高重复结构蛋白的体外精确无缝组装难题。
 
 
-<center><img alt="" src="../../../assets/bresearch3.png" style="width:550px"></center>
+<center><img alt="" src="../../../assets/bresearch3.png" style="width:600px"></center>
  
 代表论文：
 

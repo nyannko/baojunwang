@@ -26,7 +26,7 @@ hero_image: /assets/dnabackground.jpg
                 <td>
                     <a href="./baojunwang"><strong>王宝俊 PhD FRSC</strong></a><br>
 
-                    浙江大学求是特聘教授、博士生导师<br>
+                    浙江大学求是讲席教授、博士生导师<br>
                     教育部“长江学者奖励计划”讲席学者<br>
                     浙江省“鲲鹏行动”计划专家<br>
                     浙江大学杭州科创中心生物与分子智造研究院副院长、合成生物学研究所所长<br>
@@ -285,7 +285,7 @@ hero_image: /assets/dnabackground.jpg
                     <strong>郭强</strong><br>
                     博士后<br>
                     <br>
-                    合成生物学基因线路设计及应用
+                    植物合成生物学
                     <br>
                     <br>
                 </td>
@@ -488,19 +488,17 @@ hero_image: /assets/dnabackground.jpg
                     <br>
                     <br>
                 </td>
-                <!-- <td width="20%" class="photo">
-                    <img src="{{ site.baseurl }}/assets/fengleilei.png" width="150" height="200" alt=""><br>
+                <td width="20%" class="photo">
+                    <img src="{{ site.baseurl }}/assets/liuenning.png" width="150" height="200" alt=""><br>
                 </td>
                 <td width="30%" height="200" style="word-wrap:break-word;" class="des">
-                    <strong>冯磊磊</strong><br>
+                    <strong>刘恩宁</strong><br>
                     硕士研究生 <br>
                     <br>
-                    肿瘤的细胞疗法
+                    计算合成生物学
                     <br>
                     <br>
-                    <br>
-                    <br>
-                </td> -->
+                </td>
             </tr>
 
             </tbody>

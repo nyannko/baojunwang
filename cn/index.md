@@ -8,7 +8,7 @@ hero_image: /assets/dnabackground.jpg
 show_sidebar: true
 ---
 
-#### 生物线路设计实验室聚焦合成生物学核心科学问题和前沿技术挑战，主要在以下三个方向展开研究：
+#### 合成生物使能技术实验室聚焦合成生物学核心科学问题和前沿技术挑战，主要在三个方向展开研究：
 <img alt="" src="../assets/b1.png" width="650px">
 <!-- <img alt="" src="../assets/b1.png" width="100%"> -->
 <br>
